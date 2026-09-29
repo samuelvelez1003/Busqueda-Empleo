@@ -1,0 +1,35 @@
+﻿columna,tipo_dato,significado,fuente,variable_original,% vacío,ejemplo
+mes,int64,Mes de la encuesta (1 = enero … 12 = diciembre de 2025),GEIH,MES,0.0,1
+id_hogar,str,Identificador anonimizado del hogar (DIRECTORIO-SECUENCIA_P),GEIH,"DIRECTORIO, SECUENCIA_P",0.0,8086887-1
+orden,int64,Número de la persona dentro del hogar,GEIH,ORDEN,0.0,1
+factor_expansion,float64,Peso de la persona para estimar la población (FEX_C18 / 12),GEIH,FEX_C18,0.0,26.93
+codigo_departamento,int64,Código DIVIPOLA del departamento. LLAVE DEL CRUCE,GEIH y SPE,DPTO / Código DIVIPOLA,0.0,13
+departamento,str,Nombre del departamento,GEIH,DPTO,0.0,Bolívar
+ciudad,str,Ciudad o área metropolitana (Resto del país si no es una de las 32 principales),GEIH,AREA,0.0,Resto del país
+zona,str,Urbana (cabecera) o rural y centros poblados,GEIH,CLASE,0.0,Rural y centros poblados
+edad,int64,Edad en años cumplidos (18 a 28),GEIH,P6040,0.0,26
+sexo,str,Sexo al nacer,GEIH,P3271,0.0,Mujer
+nivel_educativo,str,Mayor nivel educativo alcanzado,GEIH,P3042,0.0,Básica secundaria
+nivel_educativo_grupo,str,"Nivel educativo agrupado (Básica o menos, Bachiller, Técnico, Tecnólogo, Universitario, Posgrado)",GEIH,P3042,0.0,Básica o menos
+estudia_actualmente,str,¿Asiste actualmente a una institución educativa?,GEIH,P6170,0.0,No
+condicion,str,Ocupado o Desocupado,GEIH,Módulos Ocupados / No ocupados (DSI),0.0,Ocupado
+ha_trabajado_antes,str,Solo desocupados: ¿ha trabajado alguna vez al menos 2 semanas seguidas?,GEIH,P7430,82.1,Sí
+semanas_buscando,float64,Solo desocupados: semanas buscando trabajo,GEIH,P7250,82.2,4.0
+meses_en_empleo_actual,float64,Solo ocupados: meses trabajando de forma continua en el empleo actual,GEIH,P6426,17.9,60.0
+posicion_ocupacional,str,"Solo ocupados: empleado particular, cuenta propia, doméstico, etc.",GEIH,P6430,17.9,Cuenta propia
+tiene_contrato,str,Solo ocupados: ¿tiene contrato (verbal o escrito)?,GEIH,P6440,17.9,No
+tipo_contrato,str,Solo ocupados con contrato: término indefinido o fijo,GEIH,P6460,65.0,Término fijo
+cotiza_pension,str,Solo ocupados: ¿cotiza a un fondo de pensiones?,GEIH,P6920,17.9,No
+ingreso_laboral_mensual,float64,Solo ocupados: ingreso laboral mensual en pesos,GEIH,INGLABO,19.7,600000.0
+sector,str,Solo ocupados: sector económico del empleo (CIIU Rev. 4 agrupado),GEIH,RAMA2D_R4,17.9,Servicios administrativos y de apoyo
+empleo_formal,str,Solo ocupados: Sí si cotiza a pensión (aproximación de formalidad),GEIH (calculada),P6920,17.9,No
+sin_experiencia,int64,1 = aspirante (desocupado que nunca ha trabajado) o recién insertado (ocupado ≤ 12 meses en su empleo),GEIH (calculada),"P7430, P6426",0.0,0
+consiguio_empleo,float64,"VARIABLE OBJETIVO. 1 = recién insertado, 0 = aspirante; vacío si sin_experiencia = 0",GEIH (calculada),"P7430, P6426",51.1,1.0
+vacantes_total_2023,int64,Total de vacantes registradas en el SPE en el departamento (ene–nov 2023),SPE,Hoja Experiencia: Total Ofertas de empleo,0.0,38216
+vacantes_sin_experiencia_2023,int64,Vacantes que no exigen experiencia en el departamento (ene–nov 2023),SPE,Hoja Experiencia: Sin Experiencia,0.0,3458
+vacantes_1_6_meses_2023,int64,Vacantes que piden de 1 a 6 meses de experiencia (ene–nov 2023),SPE,Hoja Experiencia: 1 a 6 Meses,0.0,1056
+pct_vacantes_sin_experiencia,float64,% de las vacantes del departamento que no exigen experiencia,SPE (calculada),Hoja Experiencia,0.0,9.0
+pct_vacantes_hasta_6_meses,float64,% de vacantes que piden 6 meses o menos de experiencia,SPE (calculada),Hoja Experiencia,0.0,11.8
+pct_vacantes_bachillerato,float64,% de vacantes que piden bachillerato,SPE (calculada),Hoja Educación,0.0,17.9
+pct_vacantes_tecnico_tecnologo,float64,% de vacantes que piden formación técnica o tecnológica,SPE (calculada),Hoja Educación,0.0,32.3
+pct_vacantes_universitario,float64,% de vacantes que piden formación universitaria,SPE (calculada),Hoja Educación,0.0,32.5

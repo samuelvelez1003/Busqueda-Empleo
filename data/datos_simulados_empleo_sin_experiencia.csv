@@ -1,0 +1,1201 @@
+﻿id_persona,anio,mes,edad,sexo,ciudad,nivel_educativo,area_formacion,tuvo_practica,cursos_cortos,meses_buscando,sector_aspirado,consiguio_empleo,tipo_contrato,empleo_formal,salario_mensual_cop,fuente
+P0001,2025,4,27,Hombre,Medellín,Tecnólogo,Contabilidad y finanzas,Sí,2,4,Industria manufacturera,0,,,,SIMULADO
+P0002,2025,3,24,Mujer,Manizales,Técnico,Mecánica y electricidad,Sí,1,3,Atención al cliente / call center,1,Obra o labor,Sí,2096000,SIMULADO
+P0003,2025,1,19,Hombre,Medellín,Tecnólogo,Contabilidad y finanzas,Sí,3,10,Industria manufacturera,0,,,,SIMULADO
+P0004,2025,12,21,Hombre,Bogotá,Bachiller,Ninguna,No,0,12,Servicios financieros,0,,,,SIMULADO
+P0005,2025,5,24,Hombre,Medellín,Técnico,Salud,Sí,2,4,Construcción,1,Indefinido,Sí,1989000,SIMULADO
+P0006,2025,5,23,Mujer,Medellín,Universitario,Ingeniería,No,1,6,Servicios financieros,0,,,,SIMULADO
+P0007,2025,4,21,Hombre,Medellín,Universitario,Contaduría,Sí,2,4,Comercio,1,Indefinido,Sí,2225000,SIMULADO
+P0008,2025,8,28,Hombre,Pereira,Universitario,Administración,No,3,1,Hotelería y restaurantes,1,Aprendizaje SENA,Sí,910000,SIMULADO
+P0009,2025,12,21,Mujer,Medellín,Universitario,Contaduría,No,1,4,Servicios financieros,1,Indefinido,Sí,1565000,SIMULADO
+P0010,2025,8,23,Mujer,Medellín,Universitario,Comunicación,Sí,1,10,Industria manufacturera,0,,,,SIMULADO
+P0011,2025,3,28,Mujer,Bogotá,Tecnólogo,Logística,No,2,8,Educación,1,Obra o labor,Sí,2499000,SIMULADO
+P0012,2025,8,20,Hombre,Bogotá,Técnico,Sistemas e informática,Sí,1,13,Comercio,1,Obra o labor,Sí,1692000,SIMULADO
+P0013,2025,6,25,Mujer,Bogotá,Técnico,Contabilidad y finanzas,No,1,8,Industria manufacturera,1,Término fijo,Sí,2615000,SIMULADO
+P0014,2025,10,24,Mujer,Bogotá,Universitario,Salud,No,0,2,Tecnología,0,,,,SIMULADO
+P0015,2025,8,19,Mujer,Barranquilla,Bachiller,Ninguna,No,,10,Logística y transporte,1,Prestación de servicios,Sí,1381000,SIMULADO
+P0016,2025,9,25,Hombre,Medellín,Universitario,Administración,Sí,2,6,Educación,1,Sin contrato,No,1500000,SIMULADO
+P0017,2025,4,20,Mujer,Medellín,Bachiller,Ninguna,Sí,0,6,Tecnología,1,Prestación de servicios,Sí,1663000,SIMULADO
+P0018,2025,7,28,Mujer,Barranquilla,Técnico,Logística,No,2,2,Tecnología,0,,,,SIMULADO
+P0019,2025,1,22,Hombre,Medellín,Tecnólogo,Contabilidad y finanzas,Sí,4,14,Tecnología,1,Sin contrato,No,1411000,SIMULADO
+P0020,2025,11,18,Mujer,Medellín,Tecnólogo,Mecánica y electricidad,No,3,1,Hotelería y restaurantes,1,Indefinido,Sí,1668000,SIMULADO
+P0021,2025,6,27,Hombre,Ibagué,Bachiller,Ninguna,No,2,5,Salud,0,,,,SIMULADO
+P0022,2025,4,26,Mujer,Bucaramanga,Bachiller,Ninguna,No,4,4,Atención al cliente / call center,1,Sin contrato,No,1080000,SIMULADO
+P0023,2025,7,19,Hombre,Pereira,Tecnólogo,Logística,Sí,0,1,Hotelería y restaurantes,1,Obra o labor,Sí,1871000,SIMULADO
+P0024,2025,12,22,Hombre,Cartagena,Universitario,Salud,No,0,6,Salud,1,Sin contrato,No,2060000,SIMULADO
+P0025,2025,11,25,Mujer,Medellín,Tecnólogo,Logística,Sí,2,5,Educación,1,Sin contrato,No,1485000,SIMULADO
+P0026,2025,8,28,Mujer,Bogotá,Universitario,Derecho,No,2,,Construcción,1,Aprendizaje SENA,Sí,974000,SIMULADO
+P0027,2025,7,22,Hombre,Medellín,Tecnólogo,Sistemas e informática,Sí,0,6,Tecnología,1,Sin contrato,No,1772000,SIMULADO
+P0028,2025,12,22,Hombre,Medellín,Universitario,Derecho,Sí,3,5,Logística y transporte,1,Término fijo,Sí,2297000,SIMULADO
+P0029,2025,10,23,Hombre,Medellín,Técnico,Sistemas e informática,Sí,2,16,Salud,1,Prestación de servicios,Sí,1700000,SIMULADO
+P0030,2025,11,22,Mujer,Bogotá,Tecnólogo,Gestión administrativa,Sí,1,3,Servicios financieros,1,Término fijo,Sí,1380000,SIMULADO
+P0031,2025,12,27,Hombre,Medellín,Universitario,Derecho,Sí,2,1,Servicios financieros,1,Aprendizaje SENA,Sí,1146000,SIMULADO
+P0032,2025,6,20,Mujer,Ibagué,Bachiller,Ninguna,No,1,11,Tecnología,1,Indefinido,Sí,1832000,SIMULADO
+P0033,2025,10,25,Mujer,Cali,Universitario,Derecho,Sí,0,1,Comercio,0,,,,SIMULADO
+P0034,2025,11,21,Hombre,Bucaramanga,Bachiller,Ninguna,No,0,0,Salud,0,,,,SIMULADO
+P0035,2025,11,23,Mujer,Bogotá,Universitario,Ingeniería,Sí,1,5,Salud,1,Término fijo,Sí,2429000,SIMULADO
+P0036,2025,5,21,Mujer,Cartagena,Universitario,Educación,Sí,1,2,Logística y transporte,0,,,,SIMULADO
+P0037,2025,6,28,Hombre,Bogotá,Técnico,Salud,No,2,11,Educación,1,Término fijo,Sí,1916000,SIMULADO
+P0038,2025,5,27,Mujer,Medellín,Universitario,Contaduría,Sí,0,13,Tecnología,1,Indefinido,Sí,2090000,SIMULADO
+P0039,2025,4,21,Hombre,Cali,Técnico,Mecánica y electricidad,No,1,17,Construcción,0,,,,SIMULADO
+P0040,2025,12,21,Mujer,Pasto,Universitario,Comunicación,Sí,3,5,Servicios financieros,1,Aprendizaje SENA,Sí,1269000,SIMULADO
+P0041,2025,1,22,Mujer,Bogotá,Universitario,Ingeniería,No,1,1,Hotelería y restaurantes,0,,,,SIMULADO
+P0042,2025,10,24,Hombre,Cartagena,Universitario,Ingeniería,No,0,5,Servicios financieros,1,Término fijo,Sí,1896000,SIMULADO
+P0043,2025,4,22,Mujer,Bucaramanga,Universitario,Derecho,No,4,1,Servicios financieros,1,Prestación de servicios,Sí,1857000,SIMULADO
+P0044,2025,11,23,Hombre,Barranquilla,Bachiller,Ninguna,No,1,5,Salud,0,,,,SIMULADO
+P0045,2025,12,21,Mujer,Bogotá,Bachiller,Ninguna,No,1,1,Logística y transporte,0,,,,SIMULADO
+P0046,2025,5,27,Hombre,Cartagena,Universitario,Administración,Sí,3,9,Salud,1,Obra o labor,Sí,1983000,SIMULADO
+P0047,2025,4,21,Mujer,Manizales,Tecnólogo,Sistemas e informática,No,2,,Atención al cliente / call center,1,Prestación de servicios,Sí,1734000,SIMULADO
+P0048,2025,5,24,Mujer,Bucaramanga,Universitario,Salud,No,0,3,Industria manufacturera,1,Término fijo,Sí,2428000,SIMULADO
+P0049,2025,1,21,Mujer,Bogotá,Técnico,Ventas y mercadeo,No,2,7,Hotelería y restaurantes,0,,,,SIMULADO
+P0050,2025,1,28,Hombre,Bucaramanga,Técnico,Ventas y mercadeo,Sí,1,5,Educación,1,Sin contrato,No,1174000,SIMULADO
+P0051,2025,8,19,Mujer,Medellín,Técnico,Contabilidad y finanzas,Sí,0,2,Comercio,0,,,,SIMULADO
+P0052,2025,8,24,Mujer,Manizales,Universitario,Psicología,Sí,2,6,Industria manufacturera,1,Aprendizaje SENA,Sí,1209000,SIMULADO
+P0053,2025,4,21,Hombre,Ibagué,Bachiller,Ninguna,No,0,3,Atención al cliente / call center,1,Término fijo,Sí,1933000,SIMULADO
+P0054,2025,11,24,Hombre,Cali,Universitario,Ingeniería,No,2,7,Hotelería y restaurantes,0,,,,SIMULADO
+P0055,2025,9,26,Mujer,Barranquilla,Universitario,Derecho,No,2,4,Hotelería y restaurantes,1,Prestación de servicios,Sí,2467000,SIMULADO
+P0056,2025,2,20,Hombre,Pereira,Técnico,Mecánica y electricidad,Sí,2,5,Construcción,1,Sin contrato,No,831000,SIMULADO
+P0057,2025,7,28,Hombre,Cartagena,Universitario,Derecho,No,3,10,Educación,0,,,,SIMULADO
+P0058,2025,6,25,Hombre,Barranquilla,Universitario,Administración,No,0,8,Hotelería y restaurantes,0,,,,SIMULADO
+P0059,2025,10,28,Mujer,Manizales,Tecnólogo,Gestión administrativa,Sí,0,1,Industria manufacturera,1,Término fijo,Sí,2142000,SIMULADO
+P0060,2025,4,21,Hombre,Pasto,Bachiller,Ninguna,No,2,3,Educación,0,,,,SIMULADO
+P0061,2025,8,20,Hombre,Manizales,Técnico,Mecánica y electricidad,No,2,2,Hotelería y restaurantes,0,,,,SIMULADO
+P0062,2025,10,26,Hombre,Bogotá,Universitario,Contaduría,No,0,1,Servicios financieros,0,,,,SIMULADO
+P0063,2025,1,28,Mujer,Ibagué,Bachiller,Ninguna,No,1,3,Tecnología,0,,,,SIMULADO
+P0064,2025,12,24,Mujer,Bogotá,Tecnólogo,Gestión administrativa,Sí,2,4,Industria manufacturera,1,Sin contrato,No,1454000,SIMULADO
+P0065,2025,8,22,Mujer,Pereira,Universitario,Psicología,Sí,1,2,Construcción,1,Aprendizaje SENA,Sí,1030000,SIMULADO
+P0066,2025,7,26,Hombre,Barranquilla,Técnico,Sistemas e informática,No,0,3,Hotelería y restaurantes,0,,,,SIMULADO
+P0067,2025,3,20,Hombre,Bucaramanga,Técnico,Logística,No,1,2,Educación,1,Obra o labor,Sí,1438000,SIMULADO
+P0068,2025,12,28,Hombre,Manizales,Universitario,Comunicación,No,3,6,Salud,0,,,,SIMULADO
+P0069,2025,7,22,Hombre,Pasto,Universitario,Comunicación,Sí,0,2,Tecnología,1,Término fijo,Sí,3205000,SIMULADO
+P0070,2025,5,24,Mujer,Cali,Técnico,Mecánica y electricidad,No,3,7,Servicios financieros,1,Término fijo,Sí,1654000,SIMULADO
+P0071,2025,10,22,Hombre,Pereira,Tecnólogo,Logística,Sí,1,0,Industria manufacturera,1,Término fijo,Sí,1340000,SIMULADO
+P0072,2025,12,19,Mujer,Cali,Bachiller,Ninguna,No,1,3,Construcción,0,,,,SIMULADO
+P0073,2025,12,22,Hombre,Bogotá,Universitario,Salud,Sí,3,4,Industria manufacturera,0,,,,SIMULADO
+P0074,2025,8,26,Mujer,Medellín,Técnico,Sistemas e informática,No,1,3,Atención al cliente / call center,1,Término fijo,Sí,1405000,SIMULADO
+P0075,2025,4,26,Hombre,Barranquilla,Universitario,Derecho,Sí,3,1,Construcción,1,Obra o labor,Sí,2094000,SIMULADO
+P0076,2025,10,19,Mujer,Bucaramanga,Técnico,Mecánica y electricidad,Sí,1,4,Comercio,1,Sin contrato,No,1289000,SIMULADO
+P0077,2025,7,22,Mujer,Bucaramanga,Bachiller,Ninguna,No,2,18,Industria manufacturera,1,Sin contrato,No,1146000,SIMULADO
+P0078,2025,2,25,Mujer,Bucaramanga,Bachiller,Ninguna,No,1,8,Hotelería y restaurantes,1,Prestación de servicios,Sí,1400000,SIMULADO
+P0079,2025,7,20,Mujer,Bogotá,Técnico,Ventas y mercadeo,No,1,0,Salud,0,,,,SIMULADO
+P0080,2025,11,21,Mujer,Bogotá,Tecnólogo,Gestión administrativa,Sí,4,2,Salud,1,Término fijo,Sí,1688000,SIMULADO
+P0081,2025,3,27,Hombre,Bogotá,Universitario,Contaduría,Sí,0,3,Hotelería y restaurantes,1,Término fijo,Sí,2199000,SIMULADO
+P0082,2025,5,26,Mujer,Medellín,Bachiller,Ninguna,No,2,6,Hotelería y restaurantes,0,,,,SIMULADO
+P0083,2025,8,24,Hombre,Cali,Universitario,Comunicación,No,1,5,Comercio,1,Prestación de servicios,Sí,2051000,SIMULADO
+P0084,2025,6,27,Mujer,Bucaramanga,Técnico,Ventas y mercadeo,No,1,5,Hotelería y restaurantes,1,Sin contrato,No,956000,SIMULADO
+P0085,2025,4,26,Hombre,Bucaramanga,Técnico,Salud,Sí,5,12,Construcción,1,Obra o labor,Sí,1617000,SIMULADO
+P0086,2025,9,27,Mujer,Bucaramanga,Tecnólogo,Sistemas e informática,Sí,1,10,Salud,0,,,,SIMULADO
+P0087,2025,6,26,Mujer,Bogotá,Bachiller,Ninguna,No,0,7,Servicios financieros,1,Término fijo,Sí,1737000,SIMULADO
+P0088,2025,11,28,Hombre,Barranquilla,Universitario,Psicología,No,2,7,Comercio,1,Término fijo,Sí,1980000,SIMULADO
+P0089,2025,8,19,Mujer,Cali,Técnico,Mecánica y electricidad,No,2,6,Tecnología,0,,,,SIMULADO
+P0090,2025,2,19,Hombre,Manizales,Bachiller,Ninguna,No,0,1,Industria manufacturera,0,,,,SIMULADO
+P0091,2025,9,28,Mujer,Bucaramanga,Bachiller,Ninguna,Sí,1,6,Educación,1,Término fijo,Sí,1501000,SIMULADO
+P0092,2025,7,28,Mujer,Medellín,Bachiller,Ninguna,No,1,7,Logística y transporte,0,,,,SIMULADO
+P0093,2025,11,27,Hombre,Bogotá,Tecnólogo,Gestión administrativa,No,1,,Construcción,1,Aprendizaje SENA,Sí,1290000,SIMULADO
+P0094,2025,5,27,Hombre,Cartagena,Universitario,Derecho,No,0,9,Logística y transporte,0,,,,SIMULADO
+P0095,2025,7,23,Mujer,Manizales,Bachiller,Ninguna,No,1,10,Servicios financieros,1,Término fijo,Sí,1766000,SIMULADO
+P0096,2025,3,28,Mujer,Medellín,Técnico,Sistemas e informática,No,0,4,Educación,0,,,,SIMULADO
+P0097,2025,7,20,Hombre,Barranquilla,Bachiller,Ninguna,No,2,6,Logística y transporte,1,Sin contrato,No,1256000,SIMULADO
+P0098,2025,7,21,Mujer,Barranquilla,Bachiller,Ninguna,No,0,6,Industria manufacturera,0,,,,SIMULADO
+P0099,2025,12,28,Mujer,Pasto,Universitario,Salud,No,1,2,Servicios financieros,1,Obra o labor,Sí,1983000,SIMULADO
+P0100,2025,3,27,Mujer,Cartagena,Bachiller,Ninguna,No,2,1,Educación,1,Sin contrato,No,1061000,SIMULADO
+P0101,2025,1,21,Mujer,Barranquilla,Universitario,Salud,Sí,,5,Tecnología,1,Obra o labor,Sí,2295000,SIMULADO
+P0102,2025,1,26,Mujer,Bogotá,Técnico,Salud,Sí,0,4,Atención al cliente / call center,1,Aprendizaje SENA,Sí,1535000,SIMULADO
+P0103,2025,11,22,Hombre,Bucaramanga,Universitario,Educación,No,0,4,Hotelería y restaurantes,1,Sin contrato,No,1843000,SIMULADO
+P0104,2025,1,19,Mujer,Barranquilla,Bachiller,Ninguna,No,3,8,Industria manufacturera,1,Indefinido,Sí,1441000,SIMULADO
+P0105,2025,12,18,Hombre,Barranquilla,Tecnólogo,Gestión administrativa,Sí,1,6,Educación,1,Prestación de servicios,Sí,2043000,SIMULADO
+P0106,2025,4,26,Mujer,Pereira,Universitario,Comunicación,Sí,1,3,Educación,1,Sin contrato,No,2064000,SIMULADO
+P0107,2025,1,25,Mujer,Cali,Bachiller,Ninguna,No,1,2,Logística y transporte,0,,,,SIMULADO
+P0108,2025,2,27,Mujer,Cartagena,Universitario,Educación,Sí,2,1,Construcción,1,Término fijo,Sí,1738000,SIMULADO
+P0109,2025,6,22,Mujer,Pasto,Tecnólogo,Logística,Sí,2,8,Servicios financieros,1,Sin contrato,No,1057000,SIMULADO
+P0110,2025,1,22,Hombre,Bogotá,Técnico,Sistemas e informática,No,2,1,Tecnología,1,Obra o labor,Sí,2705000,SIMULADO
+P0111,2025,4,23,Hombre,Ibagué,Tecnólogo,Contabilidad y finanzas,No,1,3,Industria manufacturera,1,Obra o labor,Sí,1587000,SIMULADO
+P0112,2025,6,18,Mujer,Cali,Técnico,Ventas y mercadeo,No,3,8,Servicios financieros,0,,,,SIMULADO
+P0113,2025,4,18,Hombre,Manizales,Tecnólogo,Logística,No,0,8,Industria manufacturera,1,Término fijo,Sí,1898000,SIMULADO
+P0114,2025,2,27,Hombre,Bogotá,Bachiller,Ninguna,No,1,9,Industria manufacturera,0,,,,SIMULADO
+P0115,2025,9,25,Mujer,Medellín,Tecnólogo,Gestión administrativa,No,3,3,Comercio,1,Indefinido,Sí,1749000,SIMULADO
+P0116,2025,8,19,Hombre,Medellín,Bachiller,Ninguna,No,1,8,Servicios financieros,1,Obra o labor,Sí,1184000,SIMULADO
+P0117,2025,11,23,Hombre,Bogotá,Tecnólogo,Contabilidad y finanzas,Sí,0,3,Industria manufacturera,1,Término fijo,Sí,2411000,SIMULADO
+P0118,2025,10,19,Mujer,Bogotá,Técnico,Salud,No,0,6,Construcción,0,,,,SIMULADO
+P0119,2025,11,25,Hombre,Medellín,Tecnólogo,Contabilidad y finanzas,Sí,2,5,Comercio,1,Obra o labor,Sí,2054000,SIMULADO
+P0120,2025,4,27,Hombre,Bogotá,Técnico,Salud,No,3,0,Tecnología,1,Sin contrato,No,1785000,SIMULADO
+P0121,2025,7,24,Hombre,Pereira,Universitario,Administración,No,1,8,Comercio,1,Aprendizaje SENA,Sí,1165000,SIMULADO
+P0122,2025,7,25,Hombre,Bogotá,Universitario,Derecho,Sí,2,13,Educación,1,Obra o labor,Sí,2084000,SIMULADO
+P0123,2025,11,19,Hombre,Pereira,Bachiller,Ninguna,No,0,3,Hotelería y restaurantes,1,Término fijo,Sí,1464000,SIMULADO
+P0124,2025,8,24,Hombre,Pasto,Tecnólogo,Logística,Sí,3,7,Industria manufacturera,1,Término fijo,Sí,1784000,SIMULADO
+P0125,2025,1,27,Mujer,Medellín,Bachiller,Ninguna,No,1,13,Salud,0,,,,SIMULADO
+P0126,2025,4,27,Hombre,Medellín,Universitario,Administración,Sí,1,2,Tecnología,1,Término fijo,Sí,2865000,SIMULADO
+P0127,2025,3,23,Mujer,Bogotá,Universitario,Administración,Sí,1,10,Construcción,1,Término fijo,Sí,2252000,SIMULADO
+P0128,2025,10,18,Hombre,Bogotá,Técnico,Logística,No,0,,Industria manufacturera,0,,,,SIMULADO
+P0129,2025,2,19,Hombre,Bogotá,Técnico,Logística,No,3,4,Tecnología,1,Término fijo,Sí,2324000,SIMULADO
+P0130,2025,4,23,Mujer,Medellín,Bachiller,Ninguna,No,0,6,Salud,0,,,,SIMULADO
+P0131,2025,5,20,Hombre,Medellín,Técnico,Salud,No,3,2,Atención al cliente / call center,0,,,,SIMULADO
+P0132,2025,12,21,Mujer,Ibagué,Universitario,Ingeniería,No,2,3,Industria manufacturera,0,,,,SIMULADO
+P0133,2025,3,27,Mujer,Manizales,Técnico,Sistemas e informática,Sí,0,6,Salud,1,Término fijo,Sí,1713000,SIMULADO
+P0134,2025,9,26,Hombre,Barranquilla,Tecnólogo,,Sí,0,6,Construcción,1,Aprendizaje SENA,Sí,940000,SIMULADO
+P0135,2025,3,25,Mujer,Barranquilla,Bachiller,Ninguna,No,0,5,Tecnología,1,Sin contrato,No,1572000,SIMULADO
+P0136,2025,2,28,Mujer,Cali,Técnico,Ventas y mercadeo,Sí,1,9,Hotelería y restaurantes,0,,,,SIMULADO
+P0137,2025,12,28,Hombre,Pasto,Universitario,Comunicación,Sí,1,2,Logística y transporte,1,Prestación de servicios,Sí,2488000,SIMULADO
+P0138,2025,1,21,Hombre,Medellín,Bachiller,Ninguna,No,1,4,Tecnología,1,Aprendizaje SENA,Sí,979000,SIMULADO
+P0139,2025,1,22,Mujer,Bogotá,Tecnólogo,Contabilidad y finanzas,No,1,7,Atención al cliente / call center,1,Indefinido,Sí,1885000,SIMULADO
+P0140,2025,11,19,Hombre,Manizales,Tecnólogo,Contabilidad y finanzas,Sí,1,3,Salud,0,,,,SIMULADO
+P0141,2025,10,27,Mujer,Medellín,Técnico,Ventas y mercadeo,No,2,1,Servicios financieros,0,,,,SIMULADO
+P0142,2025,11,28,Hombre,Bogotá,Tecnólogo,Gestión administrativa,No,0,4,Industria manufacturera,1,Término fijo,Sí,2031000,SIMULADO
+P0143,2025,6,25,Mujer,Medellín,Universitario,Administración,No,1,6,Tecnología,0,,,,SIMULADO
+P0144,2025,6,19,Mujer,Barranquilla,Bachiller,Ninguna,No,1,2,Servicios financieros,0,,,,SIMULADO
+P0145,2025,4,26,Mujer,Cartagena,Bachiller,Ninguna,No,0,2,Educación,1,Obra o labor,Sí,1742000,SIMULADO
+P0146,2025,3,25,Hombre,Barranquilla,Tecnólogo,Mecánica y electricidad,Sí,0,18,Atención al cliente / call center,1,Obra o labor,Sí,1553000,SIMULADO
+P0147,2025,10,23,Hombre,Cali,Tecnólogo,Gestión administrativa,Sí,0,2,Industria manufacturera,1,Sin contrato,No,1101000,SIMULADO
+P0148,2025,1,23,Mujer,Medellín,Universitario,Administración,Sí,1,1,Salud,1,Término fijo,Sí,2203000,SIMULADO
+P0149,2025,5,19,Mujer,Medellín,Bachiller,Ninguna,Sí,2,0,Salud,0,,,,SIMULADO
+P0150,2025,5,28,Mujer,Bogotá,Tecnólogo,Mecánica y electricidad,No,0,10,Atención al cliente / call center,1,Término fijo,Sí,2088000,SIMULADO
+P0151,2025,7,26,Hombre,Medellín,Técnico,Mecánica y electricidad,No,1,2,Industria manufacturera,0,,,,SIMULADO
+P0152,2025,6,28,Hombre,Medellín,Universitario,Administración,No,2,4,Construcción,1,Término fijo,Sí,2150000,SIMULADO
+P0153,2025,9,25,Hombre,Cartagena,Universitario,Comunicación,Sí,1,4,Atención al cliente / call center,1,Obra o labor,Sí,2625000,SIMULADO
+P0154,2025,7,27,Hombre,Bogotá,Técnico,Logística,Sí,1,1,Hotelería y restaurantes,1,Obra o labor,Sí,1889000,SIMULADO
+P0155,2025,8,23,Hombre,Cali,Tecnólogo,Logística,No,1,8,Atención al cliente / call center,1,Aprendizaje SENA,Sí,1087000,SIMULADO
+P0156,2025,2,23,Mujer,Bogotá,Universitario,Contaduría,No,2,9,Hotelería y restaurantes,1,Término fijo,Sí,2377000,SIMULADO
+P0157,2025,12,22,Mujer,Cali,Universitario,Comunicación,No,2,3,Servicios financieros,0,,,,SIMULADO
+P0158,2025,2,24,Mujer,Bogotá,Tecnólogo,Logística,Sí,3,2,Industria manufacturera,1,Término fijo,Sí,2186000,SIMULADO
+P0159,2025,11,26,Mujer,Cartagena,Bachiller,Ninguna,No,2,4,Servicios financieros,0,,,,SIMULADO
+P0160,2025,11,23,Hombre,Bogotá,Universitario,Salud,Sí,2,1,Tecnología,0,,,,SIMULADO
+P0161,2025,1,22,Mujer,Barranquilla,Universitario,Salud,Sí,2,17,Construcción,1,Término fijo,Sí,2610000,SIMULADO
+P0162,2025,7,25,Hombre,Bogotá,Universitario,Educación,No,1,9,Comercio,1,Término fijo,Sí,2919000,SIMULADO
+P0163,2025,12,20,Mujer,Cali,Técnico,Sistemas e informática,Sí,1,4,Educación,1,Término fijo,Sí,1511000,SIMULADO
+P0164,2025,11,19,Hombre,Pereira,Bachiller,Ninguna,No,2,1,Hotelería y restaurantes,1,Obra o labor,Sí,1481000,SIMULADO
+P0165,2025,5,21,Mujer,Ibagué,Tecnólogo,Logística,Sí,4,0,Logística y transporte,0,,,,SIMULADO
+P0166,2025,10,22,Mujer,Barranquilla,Bachiller,Ninguna,No,0,2,Atención al cliente / call center,0,,,,SIMULADO
+P0167,2025,1,28,Mujer,Cali,Universitario,Contaduría,Sí,0,5,Atención al cliente / call center,1,Término fijo,Sí,2432000,SIMULADO
+P0168,2025,4,18,Hombre,Bogotá,Bachiller,Ninguna,No,2,12,Construcción,1,Sin contrato,No,1124000,SIMULADO
+P0169,2025,8,18,Hombre,Ibagué,Bachiller,Ninguna,No,4,15,Comercio,0,,,,SIMULADO
+P0170,2025,5,24,Hombre,Cali,Tecnólogo,Contabilidad y finanzas,Sí,1,5,Salud,1,Aprendizaje SENA,Sí,767000,SIMULADO
+P0171,2025,6,20,Hombre,Medellín,Técnico,Ventas y mercadeo,No,3,1,Educación,0,,,,SIMULADO
+P0172,2025,9,27,Mujer,Manizales,Técnico,Sistemas e informática,Sí,3,0,Comercio,1,Término fijo,Sí,1326000,SIMULADO
+P0173,2025,11,26,Hombre,Cartagena,Universitario,Administración,Sí,0,6,Hotelería y restaurantes,1,Término fijo,Sí,2326000,SIMULADO
+P0174,2025,12,20,Hombre,Pereira,Técnico,Contabilidad y finanzas,Sí,1,0,Logística y transporte,1,Aprendizaje SENA,Sí,981000,SIMULADO
+P0175,2025,12,28,Hombre,Bogotá,Bachiller,Ninguna,No,1,4,Atención al cliente / call center,0,,,,SIMULADO
+P0176,2025,9,25,Mujer,Barranquilla,Universitario,Administración,No,0,18,Construcción,0,,,,SIMULADO
+P0177,2025,4,26,Hombre,Bucaramanga,Universitario,Salud,Sí,1,4,Industria manufacturera,0,,,,SIMULADO
+P0178,2025,10,26,Mujer,Bucaramanga,Universitario,Salud,No,1,15,Construcción,0,,,,SIMULADO
+P0179,2025,3,20,Hombre,Barranquilla,Bachiller,Ninguna,No,1,1,Comercio,1,Sin contrato,No,1085000,SIMULADO
+P0180,2025,2,25,Mujer,Pereira,Universitario,Derecho,Sí,1,8,Salud,0,,,,SIMULADO
+P0181,2025,4,24,Mujer,Bucaramanga,Bachiller,Ninguna,No,0,5,Construcción,0,,,,SIMULADO
+P0182,2025,6,28,Mujer,Pereira,Universitario,Administración,No,3,1,Educación,0,,,,SIMULADO
+P0183,2025,7,28,Mujer,Barranquilla,Técnico,Salud,Sí,1,3,Industria manufacturera,1,Prestación de servicios,Sí,1216000,SIMULADO
+P0184,2025,3,18,Hombre,Bogotá,Bachiller,Ninguna,No,2,9,Educación,1,Término fijo,Sí,1253000,SIMULADO
+P0185,2025,4,26,Mujer,Cali,Bachiller,Ninguna,No,0,3,Industria manufacturera,0,,,,SIMULADO
+P0186,2025,4,23,Hombre,Cartagena,Técnico,Salud,Sí,0,2,Logística y transporte,1,Aprendizaje SENA,Sí,1038000,SIMULADO
+P0187,2025,10,18,Hombre,Bogotá,Técnico,Contabilidad y finanzas,No,0,10,Tecnología,0,,,,SIMULADO
+P0188,2025,6,26,Hombre,Pereira,Tecnólogo,Contabilidad y finanzas,Sí,1,2,Industria manufacturera,1,Término fijo,Sí,1832000,SIMULADO
+P0189,2025,12,25,Hombre,Medellín,Universitario,Administración,No,2,7,Hotelería y restaurantes,1,Término fijo,Sí,1596000,SIMULADO
+P0190,2025,3,27,Mujer,Medellín,Técnico,Logística,Sí,1,10,Servicios financieros,1,Indefinido,Sí,1722000,SIMULADO
+P0191,2025,7,28,Hombre,Bogotá,Tecnólogo,Logística,Sí,0,3,Comercio,1,Término fijo,Sí,1908000,SIMULADO
+P0192,2025,11,20,Hombre,Barranquilla,Bachiller,Ninguna,No,2,3,Logística y transporte,0,,,,SIMULADO
+P0193,2025,6,23,Mujer,Pereira,Universitario,Administración,Sí,1,2,Servicios financieros,1,Obra o labor,Sí,2917000,SIMULADO
+P0194,2025,3,21,Mujer,Cali,Universitario,Contaduría,No,0,9,Hotelería y restaurantes,1,Indefinido,Sí,1904000,SIMULADO
+P0195,2025,7,25,Hombre,Barranquilla,Universitario,Salud,Sí,0,12,Salud,1,Prestación de servicios,Sí,2012000,SIMULADO
+P0196,2025,7,28,Hombre,Medellín,Técnico,Sistemas e informática,Sí,0,2,Hotelería y restaurantes,1,Término fijo,Sí,1552000,SIMULADO
+P0197,2025,8,26,Hombre,Cali,Universitario,Salud,Sí,0,5,Tecnología,0,,,,SIMULADO
+P0198,2025,3,26,Mujer,Cali,Técnico,Salud,Sí,1,2,Logística y transporte,1,Obra o labor,Sí,1548000,SIMULADO
+P0199,2025,7,23,Hombre,Bogotá,Tecnólogo,Sistemas e informática,Sí,1,7,Tecnología,1,Obra o labor,Sí,2072000,SIMULADO
+P0200,2025,6,28,Mujer,Bogotá,Técnico,Logística,Sí,1,7,Logística y transporte,1,Término fijo,Sí,2071000,SIMULADO
+P0201,2025,8,26,Hombre,Medellín,Bachiller,Ninguna,No,2,0,Tecnología,0,,,,SIMULADO
+P0202,2025,5,24,Mujer,Barranquilla,Universitario,Comunicación,Sí,1,3,Salud,0,,,,SIMULADO
+P0203,2025,11,21,Mujer,Barranquilla,Bachiller,Ninguna,No,1,6,Logística y transporte,0,,,,SIMULADO
+P0204,2025,12,28,Mujer,Bogotá,Bachiller,Ninguna,No,4,7,Atención al cliente / call center,1,Sin contrato,No,1312000,SIMULADO
+P0205,2025,1,24,Hombre,Bogotá,Técnico,Salud,No,0,3,Salud,0,,,,SIMULADO
+P0206,2025,10,21,Hombre,Cali,Bachiller,Ninguna,No,2,9,Industria manufacturera,1,Término fijo,Sí,1765000,SIMULADO
+P0207,2025,9,26,Hombre,Barranquilla,Técnico,Contabilidad y finanzas,Sí,0,7,Hotelería y restaurantes,1,Término fijo,Sí,1320000,SIMULADO
+P0208,2025,1,19,Mujer,Medellín,Bachiller,Ninguna,No,2,1,Atención al cliente / call center,0,,,,SIMULADO
+P0209,2025,1,23,Mujer,Cartagena,Bachiller,Ninguna,No,1,17,Servicios financieros,1,Obra o labor,Sí,1493000,SIMULADO
+P0210,2025,1,27,Hombre,Bogotá,Tecnólogo,Mecánica y electricidad,Sí,1,3,Hotelería y restaurantes,0,,,,SIMULADO
+P0211,2025,9,23,Hombre,Bucaramanga,Tecnólogo,Mecánica y electricidad,No,2,1,Tecnología,0,,,,SIMULADO
+P0212,2025,6,21,Hombre,Medellín,Universitario,Contaduría,No,1,4,Comercio,1,Aprendizaje SENA,Sí,1214000,SIMULADO
+P0213,2025,4,21,Hombre,Medellín,Universitario,Contaduría,No,0,3,Hotelería y restaurantes,0,,,,SIMULADO
+P0214,2025,1,28,Hombre,Cartagena,Bachiller,Ninguna,No,0,9,Educación,0,,,,SIMULADO
+P0215,2025,6,21,Mujer,Medellín,Universitario,Psicología,No,2,2,Educación,1,Obra o labor,Sí,2705000,SIMULADO
+P0216,2025,1,19,Mujer,Barranquilla,Tecnólogo,Sistemas e informática,Sí,2,2,Tecnología,0,,,,SIMULADO
+P0217,2025,5,21,Hombre,Bucaramanga,Universitario,Educación,Sí,1,4,Comercio,1,Sin contrato,No,2196000,SIMULADO
+P0218,2025,4,22,Hombre,Pereira,Técnico,Contabilidad y finanzas,No,1,3,Industria manufacturera,1,Obra o labor,Sí,1648000,SIMULADO
+P0219,2025,1,24,Mujer,Medellín,Técnico,Contabilidad y finanzas,No,0,7,Industria manufacturera,0,,,,SIMULADO
+P0220,2025,5,23,Mujer,Manizales,Bachiller,Ninguna,No,0,1,Servicios financieros,0,,,,SIMULADO
+P0221,2025,1,27,Hombre,Bucaramanga,Tecnólogo,Logística,Sí,2,9,Comercio,1,Término fijo,Sí,2053000,SIMULADO
+P0222,2025,11,25,Mujer,Pereira,Bachiller,Ninguna,No,0,10,Tecnología,0,,,,SIMULADO
+P0223,2025,10,22,Hombre,Bogotá,Técnico,Salud,No,1,6,Comercio,1,Aprendizaje SENA,Sí,1402000,SIMULADO
+P0224,2025,9,26,Mujer,Bogotá,Bachiller,Ninguna,No,2,11,Industria manufacturera,1,Indefinido,Sí,1726000,SIMULADO
+P0225,2025,8,25,Hombre,Pasto,Técnico,Mecánica y electricidad,No,0,6,Servicios financieros,1,Indefinido,Sí,1613000,SIMULADO
+P0226,2025,9,23,Hombre,Medellín,Universitario,Salud,Sí,4,7,Tecnología,1,Prestación de servicios,Sí,3455000,SIMULADO
+P0227,2025,5,19,Mujer,Manizales,Técnico,Contabilidad y finanzas,No,0,6,Atención al cliente / call center,1,Término fijo,Sí,1541000,SIMULADO
+P0228,2025,6,21,Hombre,Medellín,Bachiller,Ninguna,Sí,3,15,Hotelería y restaurantes,0,,,,SIMULADO
+P0229,2025,7,19,Hombre,Bogotá,Bachiller,Ninguna,No,0,2,Industria manufacturera,1,Obra o labor,Sí,1591000,SIMULADO
+P0230,2025,6,18,Hombre,Bogotá,Técnico,Contabilidad y finanzas,Sí,2,7,Tecnología,1,Aprendizaje SENA,Sí,1529000,SIMULADO
+P0231,2025,12,26,Mujer,Manizales,Universitario,Psicología,No,1,13,Atención al cliente / call center,0,,,,SIMULADO
+P0232,2025,2,27,Mujer,Ibagué,Tecnólogo,Gestión administrativa,No,1,1,Construcción,1,Término fijo,Sí,1610000,SIMULADO
+P0233,2025,12,22,Mujer,Medellín,Técnico,Ventas y mercadeo,Sí,1,1,Logística y transporte,1,Indefinido,Sí,2027000,SIMULADO
+P0234,2025,1,28,Hombre,Medellín,Técnico,Salud,Sí,1,4,Construcción,1,Término fijo,Sí,1110000,SIMULADO
+P0235,2025,8,19,Mujer,Cartagena,Técnico,Sistemas e informática,Sí,1,3,Industria manufacturera,0,,,,SIMULADO
+P0236,2025,5,24,Mujer,Bogotá,Bachiller,Ninguna,No,1,1,Industria manufacturera,0,,,,SIMULADO
+P0237,2025,5,21,Mujer,Cartagena,Bachiller,Ninguna,No,1,6,Industria manufacturera,0,,,,SIMULADO
+P0238,2025,5,26,Mujer,Barranquilla,Universitario,Psicología,No,1,4,Construcción,0,,,,SIMULADO
+P0239,2025,4,22,Mujer,Bucaramanga,Bachiller,Ninguna,No,1,2,Educación,1,Obra o labor,Sí,1909000,SIMULADO
+P0240,2025,11,18,Hombre,Medellín,Técnico,Salud,No,2,1,Hotelería y restaurantes,0,,,,SIMULADO
+P0241,2025,12,27,Hombre,Bogotá,Tecnólogo,Contabilidad y finanzas,No,3,4,Servicios financieros,0,,,,SIMULADO
+P0242,2025,4,28,Hombre,Barranquilla,Bachiller,Ninguna,No,2,3,Construcción,0,,,,SIMULADO
+P0243,2025,2,25,Mujer,Bogotá,Bachiller,Ninguna,No,1,5,Educación,0,,,,SIMULADO
+P0244,2025,10,24,Mujer,Manizales,Universitario,Salud,Sí,0,2,Comercio,1,Prestación de servicios,Sí,2076000,SIMULADO
+P0245,2025,2,28,Hombre,Bucaramanga,Universitario,Psicología,Sí,1,3,Comercio,0,,,,SIMULADO
+P0246,2025,9,26,Mujer,Bogotá,Bachiller,Ninguna,No,0,6,Educación,0,,,,SIMULADO
+P0247,2025,3,25,Hombre,Bogotá,Tecnólogo,Mecánica y electricidad,Sí,1,0,Servicios financieros,0,,,,SIMULADO
+P0248,2025,4,28,Hombre,Bogotá,Universitario,Psicología,No,1,3,Salud,0,,,,SIMULADO
+P0249,2025,2,18,Mujer,Bogotá,Tecnólogo,Gestión administrativa,No,0,0,Atención al cliente / call center,0,,,,SIMULADO
+P0250,2025,3,22,Hombre,Pasto,Técnico,Mecánica y electricidad,Sí,1,6,Educación,0,,,,SIMULADO
+P0251,2025,1,22,Hombre,Barranquilla,Universitario,Psicología,No,0,2,Construcción,0,,,,SIMULADO
+P0252,2025,2,25,Hombre,Bogotá,Técnico,Salud,Sí,4,16,Construcción,1,Sin contrato,No,1119000,SIMULADO
+P0253,2025,2,28,Hombre,Medellín,Técnico,Ventas y mercadeo,Sí,1,5,Construcción,1,Obra o labor,Sí,1352000,SIMULADO
+P0254,2025,10,18,Hombre,Manizales,Bachiller,Ninguna,No,0,,Atención al cliente / call center,1,Sin contrato,No,1225000,SIMULADO
+P0255,2025,3,28,Hombre,Bogotá,Técnico,Logística,Sí,0,22,Industria manufacturera,1,Término fijo,Sí,1909000,SIMULADO
+P0256,2025,6,25,Hombre,Barranquilla,Técnico,Contabilidad y finanzas,No,0,3,Educación,0,,,,SIMULADO
+P0257,2025,11,24,Mujer,Bogotá,Técnico,Sistemas e informática,No,1,1,Construcción,1,Prestación de servicios,Sí,2056000,SIMULADO
+P0258,2025,3,27,Hombre,Medellín,Universitario,Administración,Sí,3,2,Industria manufacturera,0,,,,SIMULADO
+P0259,2025,3,18,Hombre,Barranquilla,Bachiller,Ninguna,No,1,9,Comercio,0,,,,SIMULADO
+P0260,2025,7,27,Hombre,Medellín,Tecnólogo,Contabilidad y finanzas,Sí,0,9,Salud,0,,,,SIMULADO
+P0261,2025,9,25,Mujer,Barranquilla,Técnico,Ventas y mercadeo,Sí,1,6,Educación,1,Prestación de servicios,Sí,1791000,SIMULADO
+P0262,2025,2,23,Mujer,Manizales,Bachiller,Ninguna,No,1,1,Tecnología,1,Sin contrato,No,1510000,SIMULADO
+P0263,2025,6,28,Mujer,Barranquilla,Bachiller,Ninguna,No,1,4,Servicios financieros,0,,,,SIMULADO
+P0264,2025,2,20,Hombre,Pereira,Técnico,Sistemas e informática,No,1,11,Logística y transporte,1,Prestación de servicios,Sí,1518000,SIMULADO
+P0265,2025,1,26,Mujer,Bogotá,Universitario,Educación,No,2,8,Hotelería y restaurantes,1,Término fijo,Sí,2419000,SIMULADO
+P0266,2025,1,25,Mujer,Bogotá,Bachiller,Ninguna,No,0,2,Atención al cliente / call center,1,Obra o labor,Sí,1286000,SIMULADO
+P0267,2025,9,20,Mujer,Pereira,Técnico,Mecánica y electricidad,Sí,1,2,Servicios financieros,0,,,,SIMULADO
+P0268,2025,11,21,Mujer,Manizales,Universitario,Salud,No,1,7,Atención al cliente / call center,1,Indefinido,Sí,2781000,SIMULADO
+P0269,2025,9,21,Hombre,Bucaramanga,Tecnólogo,Mecánica y electricidad,No,0,8,Atención al cliente / call center,0,,,,SIMULADO
+P0270,2025,11,28,Mujer,Pereira,Universitario,Ingeniería,Sí,2,3,Tecnología,0,,,,SIMULADO
+P0271,2025,8,20,Hombre,Medellín,Tecnólogo,Contabilidad y finanzas,No,3,4,Educación,1,Prestación de servicios,Sí,1935000,SIMULADO
+P0272,2025,11,27,Mujer,Pasto,Técnico,Contabilidad y finanzas,No,3,4,Construcción,0,,,,SIMULADO
+P0273,2025,10,26,Mujer,Manizales,Universitario,Ingeniería,Sí,1,3,Industria manufacturera,1,Prestación de servicios,Sí,1844000,SIMULADO
+P0274,2025,1,22,Mujer,Bucaramanga,Técnico,Sistemas e informática,No,1,6,Industria manufacturera,1,Término fijo,Sí,1559000,SIMULADO
+P0275,2025,7,22,Hombre,Cali,Universitario,Salud,No,0,3,Comercio,1,Indefinido,Sí,2358000,SIMULADO
+P0276,2025,8,25,Mujer,Medellín,Bachiller,Ninguna,No,3,10,Tecnología,1,Prestación de servicios,Sí,1482000,SIMULADO
+P0277,2025,12,26,Hombre,Barranquilla,Bachiller,Ninguna,No,1,5,Comercio,0,,,,SIMULADO
+P0278,2025,5,19,Hombre,Barranquilla,Bachiller,Ninguna,No,4,0,Tecnología,1,Obra o labor,Sí,1624000,SIMULADO
+P0279,2025,2,20,Hombre,Bogotá,Bachiller,Ninguna,No,2,3,Construcción,0,,,,SIMULADO
+P0280,2025,3,27,Hombre,Ibagué,Bachiller,Ninguna,No,1,6,Educación,1,Prestación de servicios,Sí,1395000,SIMULADO
+P0281,2025,6,23,Mujer,Bogotá,Técnico,Mecánica y electricidad,Sí,1,8,Salud,1,Término fijo,Sí,1392000,SIMULADO
+P0282,2025,11,28,Hombre,Pereira,Universitario,Educación,Sí,1,9,Comercio,0,,,,SIMULADO
+P0283,2025,10,27,Mujer,Medellín,Tecnólogo,Gestión administrativa,Sí,0,2,Logística y transporte,1,Sin contrato,No,1244000,SIMULADO
+P0284,2025,6,22,Mujer,Medellín,Universitario,Psicología,Sí,2,7,Hotelería y restaurantes,0,,,,SIMULADO
+P0285,2025,1,19,Hombre,Cali,Tecnólogo,Gestión administrativa,Sí,1,4,Educación,1,Aprendizaje SENA,Sí,1195000,SIMULADO
+P0286,2025,11,24,Hombre,Pereira,Bachiller,Ninguna,No,0,5,Construcción,0,,,,SIMULADO
+P0287,2025,4,21,Hombre,Pasto,Bachiller,Ninguna,No,2,,Tecnología,1,Sin contrato,No,1140000,SIMULADO
+P0288,2025,6,21,Hombre,Barranquilla,Universitario,Psicología,No,1,13,Hotelería y restaurantes,0,,,,SIMULADO
+P0289,2025,12,26,Mujer,Bogotá,Universitario,Administración,Sí,2,1,Atención al cliente / call center,0,,,,SIMULADO
+P0290,2025,12,28,Hombre,Manizales,Tecnólogo,Logística,Sí,1,9,Servicios financieros,0,,,,SIMULADO
+P0291,2025,2,26,Hombre,Medellín,Bachiller,Ninguna,No,2,4,Comercio,1,Prestación de servicios,Sí,1360000,SIMULADO
+P0292,2025,11,28,Hombre,Manizales,Universitario,Administración,No,1,3,Industria manufacturera,1,Sin contrato,No,1823000,SIMULADO
+P0293,2025,1,25,Hombre,Cali,Universitario,Ingeniería,No,0,,Comercio,1,Prestación de servicios,Sí,2743000,SIMULADO
+P0294,2025,8,20,Mujer,Cali,Bachiller,Ninguna,No,2,6,Construcción,1,Término fijo,Sí,1254000,SIMULADO
+P0295,2025,5,28,Hombre,Cali,Tecnólogo,Sistemas e informática,No,0,,Tecnología,1,Término fijo,Sí,2749000,SIMULADO
+P0296,2025,3,28,Mujer,Bucaramanga,Técnico,Logística,No,4,9,Construcción,1,Sin contrato,No,1132000,SIMULADO
+P0297,2025,2,24,Hombre,Barranquilla,Bachiller,Ninguna,No,2,2,Salud,0,,,,SIMULADO
+P0298,2025,3,18,Mujer,Cali,Tecnólogo,Gestión administrativa,No,3,4,Hotelería y restaurantes,0,,,,SIMULADO
+P0299,2025,2,27,Mujer,Barranquilla,Técnico,Sistemas e informática,Sí,2,2,Tecnología,1,Sin contrato,No,1401000,SIMULADO
+P0300,2025,4,24,Hombre,Pereira,Bachiller,Ninguna,No,0,9,Hotelería y restaurantes,0,,,,SIMULADO
+P0301,2025,12,28,Hombre,Bogotá,Tecnólogo,Sistemas e informática,Sí,0,8,Atención al cliente / call center,0,,,,SIMULADO
+P0302,2025,4,27,Mujer,Medellín,Bachiller,Ninguna,No,0,3,Servicios financieros,0,,,,SIMULADO
+P0303,2025,10,27,Hombre,Bucaramanga,Universitario,Derecho,No,1,4,Comercio,0,,,,SIMULADO
+P0304,2025,12,18,Mujer,Cartagena,Técnico,Salud,Sí,1,10,Educación,1,Prestación de servicios,Sí,2337000,SIMULADO
+P0305,2025,4,19,Hombre,Cali,Tecnólogo,Gestión administrativa,Sí,2,4,Servicios financieros,1,Indefinido,Sí,1566000,SIMULADO
+P0306,2025,8,21,Hombre,Bogotá,Técnico,Salud,Sí,2,0,Industria manufacturera,1,Término fijo,Sí,1847000,SIMULADO
+P0307,2025,10,18,Mujer,Bogotá,Técnico,Salud,No,2,20,Hotelería y restaurantes,1,Término fijo,Sí,2053000,SIMULADO
+P0308,2025,6,24,Mujer,Bogotá,Universitario,Derecho,Sí,1,1,Servicios financieros,1,Prestación de servicios,Sí,2163000,SIMULADO
+P0309,2025,3,28,Mujer,Pasto,Universitario,Ingeniería,Sí,0,12,Comercio,1,Término fijo,Sí,2333000,SIMULADO
+P0310,2025,10,24,Mujer,Cali,Técnico,Salud,Sí,1,7,Logística y transporte,0,,,,SIMULADO
+P0311,2025,12,22,Hombre,Bogotá,Bachiller,Ninguna,No,2,2,Hotelería y restaurantes,0,,,,SIMULADO
+P0312,2025,12,24,Hombre,Barranquilla,Técnico,Mecánica y electricidad,No,4,0,Servicios financieros,1,Término fijo,Sí,1434000,SIMULADO
+P0313,2025,8,25,Mujer,Bogotá,Técnico,Sistemas e informática,No,3,3,Industria manufacturera,1,Término fijo,Sí,2273000,SIMULADO
+P0314,2025,7,22,Mujer,Manizales,Bachiller,Ninguna,No,3,8,Logística y transporte,1,Obra o labor,Sí,1545000,SIMULADO
+P0315,2025,9,25,Mujer,Cali,Bachiller,Ninguna,No,1,5,Atención al cliente / call center,1,Sin contrato,No,1188000,SIMULADO
+P0316,2025,2,21,Mujer,Bogotá,Técnico,Contabilidad y finanzas,No,1,3,Hotelería y restaurantes,1,Indefinido,Sí,1462000,SIMULADO
+P0317,2025,3,22,Hombre,Cali,Universitario,Educación,No,1,5,Educación,1,Prestación de servicios,Sí,2290000,SIMULADO
+P0318,2025,4,28,Mujer,Cali,Técnico,Logística,Sí,1,15,Tecnología,0,,,,SIMULADO
+P0319,2025,11,28,Mujer,Cali,Universitario,Administración,No,4,,Salud,0,,,,SIMULADO
+P0320,2025,10,21,Mujer,Bogotá,Bachiller,Ninguna,No,0,3,Atención al cliente / call center,0,,,,SIMULADO
+P0321,2025,8,27,Mujer,Bucaramanga,Bachiller,Ninguna,Sí,2,2,Atención al cliente / call center,0,,,,SIMULADO
+P0322,2025,12,20,Mujer,Bogotá,Tecnólogo,Mecánica y electricidad,No,1,4,Atención al cliente / call center,1,Prestación de servicios,Sí,1857000,SIMULADO
+P0323,2025,2,18,Mujer,Barranquilla,Bachiller,Ninguna,No,,10,Servicios financieros,0,,,,SIMULADO
+P0324,2025,6,24,Mujer,Medellín,Universitario,Derecho,Sí,0,4,Tecnología,1,Término fijo,Sí,2756000,SIMULADO
+P0325,2025,6,25,Mujer,Bucaramanga,Bachiller,Ninguna,No,1,1,Tecnología,0,,,,SIMULADO
+P0326,2025,4,23,Mujer,Cali,Bachiller,Ninguna,No,1,2,Construcción,0,,,,SIMULADO
+P0327,2025,9,27,Hombre,Manizales,Tecnólogo,Contabilidad y finanzas,No,0,5,Servicios financieros,0,,,,SIMULADO
+P0328,2025,11,18,Hombre,Bogotá,Bachiller,Ninguna,No,,1,Hotelería y restaurantes,0,,,,SIMULADO
+P0329,2025,4,27,Mujer,Medellín,Universitario,Derecho,No,1,3,Comercio,1,Obra o labor,Sí,2050000,SIMULADO
+P0330,2025,8,26,Mujer,Bucaramanga,Universitario,Comunicación,No,1,5,Construcción,0,,,,SIMULADO
+P0331,2025,2,18,Mujer,Bogotá,Técnico,Contabilidad y finanzas,Sí,1,1,Servicios financieros,0,,,,SIMULADO
+P0332,2025,8,24,Mujer,Bogotá,Técnico,Contabilidad y finanzas,No,1,4,Industria manufacturera,1,Sin contrato,No,1326000,SIMULADO
+P0333,2025,12,28,Mujer,Cartagena,Técnico,Mecánica y electricidad,Sí,1,6,Industria manufacturera,1,Prestación de servicios,Sí,1468000,SIMULADO
+P0334,2025,8,24,Mujer,Medellín,Bachiller,Ninguna,No,0,8,Logística y transporte,1,Sin contrato,No,1264000,SIMULADO
+P0335,2025,9,28,Hombre,Bogotá,Universitario,Ingeniería,Sí,1,11,Hotelería y restaurantes,0,,,,SIMULADO
+P0336,2025,10,18,Mujer,Barranquilla,Tecnólogo,Mecánica y electricidad,Sí,0,7,Hotelería y restaurantes,1,Indefinido,Sí,1559000,SIMULADO
+P0337,2025,8,25,Hombre,Bogotá,Bachiller,Ninguna,No,2,4,Atención al cliente / call center,1,Indefinido,Sí,1177000,SIMULADO
+P0338,2025,12,19,Hombre,Cartagena,Tecnólogo,Mecánica y electricidad,No,0,0,Atención al cliente / call center,1,Sin contrato,No,1229000,SIMULADO
+P0339,2025,6,28,Hombre,Barranquilla,Técnico,Contabilidad y finanzas,No,5,2,Salud,0,,,,SIMULADO
+P0340,2025,12,25,Hombre,Bucaramanga,Universitario,Psicología,No,4,5,Atención al cliente / call center,1,Indefinido,Sí,2344000,SIMULADO
+P0341,2025,9,23,Mujer,Barranquilla,Técnico,Ventas y mercadeo,No,0,2,Atención al cliente / call center,1,Aprendizaje SENA,Sí,1183000,SIMULADO
+P0342,2025,2,20,Mujer,Bucaramanga,Técnico,Logística,Sí,2,6,Logística y transporte,1,Prestación de servicios,Sí,1680000,SIMULADO
+P0343,2025,11,22,Hombre,Pereira,Universitario,Salud,Sí,5,5,Industria manufacturera,0,,,,SIMULADO
+P0344,2025,1,23,Hombre,Medellín,Técnico,Salud,Sí,0,3,Atención al cliente / call center,1,Obra o labor,Sí,1827000,SIMULADO
+P0345,2025,11,19,Hombre,Cali,Bachiller,Ninguna,No,1,0,Industria manufacturera,0,,,,SIMULADO
+P0346,2025,10,26,Hombre,Ibagué,Tecnólogo,Contabilidad y finanzas,Sí,1,1,Servicios financieros,1,Aprendizaje SENA,Sí,1212000,SIMULADO
+P0347,2025,7,27,Mujer,Bogotá,Técnico,Contabilidad y finanzas,No,3,10,Comercio,1,Prestación de servicios,Sí,2042000,SIMULADO
+P0348,2025,12,25,Hombre,Cartagena,Universitario,Comunicación,Sí,2,10,Educación,0,,,,SIMULADO
+P0349,2025,12,25,Mujer,Pasto,Universitario,Contaduría,No,3,1,Hotelería y restaurantes,1,Término fijo,Sí,2119000,SIMULADO
+P0350,2025,1,18,Hombre,Bogotá,Bachiller,Ninguna,No,1,10,Educación,1,Sin contrato,No,1291000,SIMULADO
+P0351,2025,11,26,Mujer,Bucaramanga,Universitario,Educación,No,2,7,Logística y transporte,1,Indefinido,Sí,1509000,SIMULADO
+P0352,2025,12,27,Hombre,Cartagena,Técnico,Contabilidad y finanzas,Sí,1,6,Construcción,1,Término fijo,Sí,1174000,SIMULADO
+P0353,2025,8,28,Mujer,Manizales,Tecnólogo,Mecánica y electricidad,No,1,3,Tecnología,0,,,,SIMULADO
+P0354,2025,7,23,Hombre,Barranquilla,Bachiller,Ninguna,No,2,5,Comercio,1,Obra o labor,Sí,1905000,SIMULADO
+P0355,2025,12,21,Mujer,Bogotá,Universitario,Administración,Sí,1,9,Atención al cliente / call center,1,Término fijo,Sí,2597000,SIMULADO
+P0356,2025,11,25,Mujer,Bogotá,Tecnólogo,Gestión administrativa,Sí,3,12,Comercio,1,Prestación de servicios,Sí,2083000,SIMULADO
+P0357,2025,2,27,Hombre,Cartagena,Bachiller,,No,0,8,Salud,1,Obra o labor,Sí,1470000,SIMULADO
+P0358,2025,1,19,Hombre,Bucaramanga,Técnico,Logística,Sí,0,3,Salud,1,Término fijo,Sí,1497000,SIMULADO
+P0359,2025,6,20,Hombre,Pereira,Técnico,Contabilidad y finanzas,Sí,2,2,Educación,1,Sin contrato,No,1067000,SIMULADO
+P0360,2025,9,24,Mujer,Bogotá,Tecnólogo,Contabilidad y finanzas,Sí,2,0,Hotelería y restaurantes,1,Sin contrato,No,1613000,SIMULADO
+P0361,2025,3,21,Hombre,Cali,Técnico,Mecánica y electricidad,Sí,2,10,Atención al cliente / call center,1,Indefinido,Sí,1697000,SIMULADO
+P0362,2025,4,23,Hombre,Bogotá,Bachiller,Ninguna,No,0,8,Construcción,0,,,,SIMULADO
+P0363,2025,8,26,Hombre,Bogotá,Técnico,Ventas y mercadeo,Sí,0,0,Hotelería y restaurantes,1,Indefinido,Sí,1805000,SIMULADO
+P0364,2025,9,23,Mujer,Barranquilla,Bachiller,Ninguna,No,1,2,Hotelería y restaurantes,0,,,,SIMULADO
+P0365,2025,12,22,Mujer,Pereira,Tecnólogo,Contabilidad y finanzas,No,1,2,Salud,0,,,,SIMULADO
+P0366,2025,12,26,Mujer,Ibagué,Universitario,Derecho,No,0,10,Comercio,1,Sin contrato,No,2100000,SIMULADO
+P0367,2025,9,23,Mujer,Bogotá,Universitario,Administración,Sí,3,9,Logística y transporte,1,Aprendizaje SENA,Sí,1214000,SIMULADO
+P0368,2025,6,24,Mujer,Bogotá,Universitario,Salud,No,2,3,Tecnología,1,Obra o labor,Sí,3454000,SIMULADO
+P0369,2025,12,24,Mujer,Pereira,Universitario,Contaduría,Sí,0,3,Salud,0,,,,SIMULADO
+P0370,2025,4,26,Hombre,Cali,Bachiller,Ninguna,No,0,8,Comercio,1,Sin contrato,No,1462000,SIMULADO
+P0371,2025,2,19,Hombre,Pereira,Tecnólogo,Sistemas e informática,No,2,5,Educación,1,Indefinido,Sí,1623000,SIMULADO
+P0372,2025,6,24,Mujer,Bucaramanga,Tecnólogo,Sistemas e informática,No,0,16,Salud,1,Término fijo,Sí,2082000,SIMULADO
+P0373,2025,11,24,Hombre,Bogotá,Bachiller,Ninguna,No,2,3,Hotelería y restaurantes,0,,,,SIMULADO
+P0374,2025,1,27,Mujer,Cartagena,Bachiller,Ninguna,No,1,1,Hotelería y restaurantes,1,Sin contrato,No,940000,SIMULADO
+P0375,2025,11,21,Mujer,Bogotá,Universitario,Salud,No,2,2,Comercio,1,Obra o labor,Sí,2833000,SIMULADO
+P0376,2025,6,24,Hombre,Bogotá,Universitario,Comunicación,No,0,1,Logística y transporte,1,Obra o labor,Sí,2309000,SIMULADO
+P0377,2025,7,28,Mujer,Cartagena,Universitario,Administración,Sí,1,11,Hotelería y restaurantes,0,,,,SIMULADO
+P0378,2025,11,26,Mujer,Medellín,Bachiller,Ninguna,No,0,5,Comercio,1,Sin contrato,No,1045000,SIMULADO
+P0379,2025,12,27,Hombre,Bogotá,Técnico,Ventas y mercadeo,No,0,3,Comercio,1,Sin contrato,No,1182000,SIMULADO
+P0380,2025,11,18,Mujer,Cali,Técnico,Logística,No,0,4,Servicios financieros,1,Aprendizaje SENA,Sí,1011000,SIMULADO
+P0381,2025,7,22,Hombre,Cali,Universitario,Educación,No,1,10,Construcción,1,Obra o labor,Sí,2239000,SIMULADO
+P0382,2025,6,26,Mujer,Bucaramanga,Bachiller,Ninguna,No,1,24,Comercio,0,,,,SIMULADO
+P0383,2025,6,20,Mujer,Pereira,Bachiller,Ninguna,No,2,4,Industria manufacturera,0,,,,SIMULADO
+P0384,2025,5,28,Hombre,Bogotá,Técnico,Salud,Sí,0,1,Atención al cliente / call center,1,Término fijo,Sí,1785000,SIMULADO
+P0385,2025,1,25,Hombre,Medellín,Universitario,Contaduría,No,3,3,Industria manufacturera,1,Sin contrato,No,2483000,SIMULADO
+P0386,2025,10,24,Mujer,Bucaramanga,Bachiller,Ninguna,No,1,1,Comercio,0,,,,SIMULADO
+P0387,2025,4,21,Hombre,Bucaramanga,Bachiller,Ninguna,No,1,2,Educación,1,Indefinido,Sí,1233000,SIMULADO
+P0388,2025,12,28,Mujer,Pasto,Universitario,Contaduría,Sí,1,3,Salud,1,Sin contrato,No,1879000,SIMULADO
+P0389,2025,1,27,Mujer,Bucaramanga,Técnico,Salud,Sí,0,7,Tecnología,0,,,,SIMULADO
+P0390,2025,3,20,Mujer,Manizales,Técnico,Mecánica y electricidad,No,1,9,Hotelería y restaurantes,0,,,,SIMULADO
+P0391,2025,4,18,Hombre,Ibagué,Tecnólogo,Sistemas e informática,No,2,7,Industria manufacturera,0,,,,SIMULADO
+P0392,2025,7,28,Hombre,Cartagena,Técnico,Salud,Sí,2,4,Construcción,0,,,,SIMULADO
+P0393,2025,3,22,Mujer,Bogotá,Universitario,Ingeniería,No,2,3,Hotelería y restaurantes,1,Indefinido,Sí,2342000,SIMULADO
+P0394,2025,11,21,Mujer,Manizales,Técnico,Salud,Sí,1,7,Servicios financieros,1,Término fijo,Sí,1852000,SIMULADO
+P0395,2025,9,27,Hombre,Bogotá,Tecnólogo,Mecánica y electricidad,No,1,7,Industria manufacturera,1,Indefinido,Sí,2287000,SIMULADO
+P0396,2025,7,23,Hombre,Cali,Técnico,Contabilidad y finanzas,Sí,0,3,Educación,1,Indefinido,Sí,1966000,SIMULADO
+P0397,2025,5,25,Mujer,Bucaramanga,Técnico,Ventas y mercadeo,No,2,6,Servicios financieros,1,Sin contrato,No,1551000,SIMULADO
+P0398,2025,12,27,Mujer,Cali,Universitario,Comunicación,Sí,1,0,Salud,0,,,,SIMULADO
+P0399,2025,12,27,Mujer,Medellín,Técnico,Ventas y mercadeo,Sí,1,7,Construcción,1,Indefinido,Sí,1457000,SIMULADO
+P0400,2025,7,24,Mujer,Bucaramanga,Técnico,Logística,No,2,8,Servicios financieros,0,,,,SIMULADO
+P0401,2025,7,23,Hombre,Barranquilla,Bachiller,Ninguna,No,5,3,Industria manufacturera,0,,,,SIMULADO
+P0402,2025,4,21,Mujer,Cali,Técnico,Salud,Sí,1,9,Construcción,1,Término fijo,Sí,1569000,SIMULADO
+P0403,2025,12,28,Mujer,Medellín,Universitario,Comunicación,No,0,3,Tecnología,1,Aprendizaje SENA,Sí,1206000,SIMULADO
+P0404,2025,9,21,Mujer,Medellín,Técnico,Ventas y mercadeo,Sí,1,4,Atención al cliente / call center,1,Indefinido,Sí,1880000,SIMULADO
+P0405,2025,9,26,Hombre,Cali,Universitario,Salud,No,1,7,Servicios financieros,1,Término fijo,Sí,1899000,SIMULADO
+P0406,2025,8,22,Hombre,Cartagena,Universitario,Derecho,Sí,2,3,Construcción,1,Sin contrato,No,1553000,SIMULADO
+P0407,2025,11,25,Hombre,Pereira,Técnico,Ventas y mercadeo,No,0,0,Atención al cliente / call center,0,,,,SIMULADO
+P0408,2025,1,27,Mujer,Medellín,Tecnólogo,Logística,No,0,9,Tecnología,1,Término fijo,Sí,1865000,SIMULADO
+P0409,2025,8,22,Hombre,Pereira,Tecnólogo,Sistemas e informática,Sí,2,4,Salud,1,Obra o labor,Sí,1733000,SIMULADO
+P0410,2025,8,27,Hombre,Pereira,Tecnólogo,Mecánica y electricidad,No,3,3,Construcción,1,Término fijo,Sí,1464000,SIMULADO
+P0411,2025,6,26,Mujer,Bogotá,Universitario,Educación,No,2,19,Servicios financieros,1,Sin contrato,No,1427000,SIMULADO
+P0412,2025,5,19,Hombre,Ibagué,Técnico,Logística,Sí,0,5,Construcción,1,Obra o labor,Sí,1792000,SIMULADO
+P0413,2025,1,28,Mujer,Ibagué,Técnico,Sistemas e informática,No,0,3,Logística y transporte,0,,,,SIMULADO
+P0414,2025,7,22,Hombre,Medellín,Técnico,Salud,Sí,3,6,Servicios financieros,1,Término fijo,Sí,1690000,SIMULADO
+P0415,2025,11,28,Hombre,Bogotá,Bachiller,Ninguna,Sí,1,2,Hotelería y restaurantes,1,Término fijo,Sí,1559000,SIMULADO
+P0416,2025,9,26,Mujer,Bogotá,Tecnólogo,Gestión administrativa,No,1,9,Hotelería y restaurantes,1,Sin contrato,No,1749000,SIMULADO
+P0417,2025,8,18,Mujer,Cartagena,Tecnólogo,Gestión administrativa,No,0,9,Construcción,0,,,,SIMULADO
+P0418,2025,5,24,Hombre,Bogotá,Técnico,Sistemas e informática,No,1,2,Hotelería y restaurantes,1,Obra o labor,Sí,2064000,SIMULADO
+P0419,2025,7,28,Mujer,Bogotá,Técnico,Logística,No,1,4,Logística y transporte,0,,,,SIMULADO
+P0420,2025,9,19,Hombre,Manizales,Bachiller,Ninguna,No,3,1,Comercio,1,Sin contrato,No,1105000,SIMULADO
+P0421,2025,8,21,Mujer,Pasto,Universitario,Salud,Sí,0,5,Educación,1,Sin contrato,No,2223000,SIMULADO
+P0422,2025,11,22,Mujer,Bogotá,Tecnólogo,Logística,No,1,3,Salud,0,,,,SIMULADO
+P0423,2025,4,23,Hombre,Barranquilla,Universitario,Comunicación,Sí,2,4,Tecnología,1,Término fijo,Sí,2437000,SIMULADO
+P0424,2025,4,26,Hombre,Ibagué,Bachiller,Ninguna,No,3,4,Hotelería y restaurantes,1,Sin contrato,No,1284000,SIMULADO
+P0425,2025,5,25,Hombre,Manizales,Tecnólogo,Contabilidad y finanzas,No,2,2,Servicios financieros,1,Término fijo,Sí,2171000,SIMULADO
+P0426,2025,10,26,Hombre,Cali,Tecnólogo,Mecánica y electricidad,Sí,0,3,Hotelería y restaurantes,1,Prestación de servicios,Sí,1826000,SIMULADO
+P0427,2025,8,22,Mujer,Cali,Universitario,Salud,Sí,3,1,Educación,1,Sin contrato,No,2084000,SIMULADO
+P0428,2025,8,18,Hombre,Cali,Técnico,Contabilidad y finanzas,No,0,2,Educación,1,Obra o labor,Sí,1583000,SIMULADO
+P0429,2025,8,21,Mujer,Barranquilla,Técnico,Sistemas e informática,Sí,2,4,Educación,0,,,,SIMULADO
+P0430,2025,6,23,Mujer,Cali,Universitario,Salud,No,0,1,Atención al cliente / call center,1,Indefinido,Sí,2077000,SIMULADO
+P0431,2025,11,28,Hombre,Cali,Bachiller,Ninguna,No,,7,Construcción,0,,,,SIMULADO
+P0432,2025,6,24,Mujer,Cali,Universitario,Administración,No,0,10,Industria manufacturera,1,Prestación de servicios,Sí,2095000,SIMULADO
+P0433,2025,10,24,Hombre,Bucaramanga,Universitario,Salud,Sí,1,4,Construcción,1,Término fijo,Sí,2041000,SIMULADO
+P0434,2025,5,26,Mujer,Cartagena,Técnico,Ventas y mercadeo,Sí,1,3,Industria manufacturera,1,Indefinido,Sí,1605000,SIMULADO
+P0435,2025,11,22,Mujer,Bogotá,Bachiller,Ninguna,No,0,16,Salud,0,,,,SIMULADO
+P0436,2025,2,20,Mujer,Ibagué,Bachiller,Ninguna,No,0,16,Comercio,0,,,,SIMULADO
+P0437,2025,1,28,Hombre,Medellín,Universitario,Derecho,No,1,6,Educación,0,,,,SIMULADO
+P0438,2025,10,25,Mujer,Barranquilla,Universitario,Contaduría,Sí,3,7,Construcción,0,,,,SIMULADO
+P0439,2025,9,27,Hombre,Bucaramanga,Bachiller,Ninguna,No,0,3,Salud,1,Término fijo,Sí,1389000,SIMULADO
+P0440,2025,5,23,Hombre,Barranquilla,Técnico,Logística,Sí,1,8,Salud,0,,,,SIMULADO
+P0441,2025,2,21,Mujer,Ibagué,Bachiller,Ninguna,No,0,1,Logística y transporte,0,,,,SIMULADO
+P0442,2025,6,22,Mujer,Cali,Universitario,Derecho,Sí,1,4,Hotelería y restaurantes,1,Prestación de servicios,Sí,2962000,SIMULADO
+P0443,2025,5,28,Mujer,Cali,Tecnólogo,Mecánica y electricidad,Sí,1,5,Atención al cliente / call center,1,Obra o labor,Sí,1795000,SIMULADO
+P0444,2025,6,27,Hombre,Cali,Bachiller,,No,0,2,Hotelería y restaurantes,1,Sin contrato,No,645000,SIMULADO
+P0445,2025,10,20,Hombre,Bucaramanga,Bachiller,Ninguna,No,0,5,Hotelería y restaurantes,1,Obra o labor,Sí,1103000,SIMULADO
+P0446,2025,6,21,Mujer,Bogotá,Universitario,Contaduría,No,3,5,Salud,1,Término fijo,Sí,2547000,SIMULADO
+P0447,2025,3,22,Hombre,Medellín,Bachiller,Ninguna,No,0,3,Construcción,0,,,,SIMULADO
+P0448,2025,4,22,Mujer,Bogotá,Universitario,Psicología,No,1,3,Servicios financieros,0,,,,SIMULADO
+P0449,2025,8,20,Hombre,Bogotá,Tecnólogo,Sistemas e informática,No,2,4,Construcción,0,,,,SIMULADO
+P0450,2025,12,18,Hombre,Ibagué,Tecnólogo,Sistemas e informática,No,0,6,Tecnología,0,,,,SIMULADO
+P0451,2025,11,27,Hombre,Pereira,Técnico,Contabilidad y finanzas,Sí,1,2,Hotelería y restaurantes,0,,,,SIMULADO
+P0452,2025,6,25,Mujer,Bogotá,Bachiller,Ninguna,No,,0,Salud,1,Indefinido,Sí,1411000,SIMULADO
+P0453,2025,1,28,Hombre,Barranquilla,Universitario,Administración,No,1,5,Construcción,1,Aprendizaje SENA,Sí,1039000,SIMULADO
+P0454,2025,4,28,Hombre,Bogotá,Técnico,Sistemas e informática,Sí,1,5,Salud,1,Aprendizaje SENA,Sí,977000,SIMULADO
+P0455,2025,5,22,Mujer,Barranquilla,Técnico,Salud,Sí,1,1,Servicios financieros,0,,,,SIMULADO
+P0456,2025,8,25,Hombre,Medellín,Bachiller,Ninguna,No,1,5,Construcción,1,Indefinido,Sí,1883000,SIMULADO
+P0457,2025,5,24,Hombre,Manizales,Bachiller,Ninguna,No,2,4,Logística y transporte,0,,,,SIMULADO
+P0458,2025,7,25,Hombre,Bogotá,Tecnólogo,Contabilidad y finanzas,Sí,0,1,Atención al cliente / call center,1,Aprendizaje SENA,Sí,938000,SIMULADO
+P0459,2025,10,26,Hombre,Bogotá,Bachiller,Ninguna,No,2,0,Construcción,0,,,,SIMULADO
+P0460,2025,11,21,Mujer,Cali,Universitario,Educación,No,2,1,Servicios financieros,0,,,,SIMULADO
+P0461,2025,6,20,Mujer,Bogotá,Bachiller,Ninguna,No,1,3,Tecnología,0,,,,SIMULADO
+P0462,2025,9,19,Mujer,Manizales,Tecnólogo,Sistemas e informática,No,5,4,Hotelería y restaurantes,1,Sin contrato,No,1006000,SIMULADO
+P0463,2025,9,22,Hombre,Medellín,Universitario,Derecho,No,1,13,Construcción,0,,,,SIMULADO
+P0464,2025,4,24,Hombre,Bucaramanga,Universitario,Contaduría,No,4,6,Atención al cliente / call center,1,Prestación de servicios,Sí,1736000,SIMULADO
+P0465,2025,11,22,Mujer,Cali,Bachiller,Ninguna,No,0,0,Logística y transporte,1,Término fijo,Sí,1206000,SIMULADO
+P0466,2025,2,25,Mujer,Pereira,Bachiller,Ninguna,No,1,20,Servicios financieros,1,Indefinido,Sí,1786000,SIMULADO
+P0467,2025,9,22,Hombre,Barranquilla,Tecnólogo,Gestión administrativa,Sí,1,2,Comercio,1,Sin contrato,No,1274000,SIMULADO
+P0468,2025,11,28,Mujer,Bogotá,Tecnólogo,Gestión administrativa,No,1,0,Comercio,1,Término fijo,Sí,1452000,SIMULADO
+P0469,2025,11,28,Hombre,Pereira,Universitario,Salud,No,1,7,Logística y transporte,1,Sin contrato,No,1726000,SIMULADO
+P0470,2025,3,26,Mujer,Barranquilla,Bachiller,Ninguna,No,4,6,Salud,1,Término fijo,Sí,1532000,SIMULADO
+P0471,2025,11,25,Mujer,Barranquilla,Técnico,Sistemas e informática,Sí,1,20,Tecnología,1,Obra o labor,Sí,1732000,SIMULADO
+P0472,2025,4,24,Mujer,Pasto,Bachiller,Ninguna,No,2,12,Logística y transporte,1,Sin contrato,No,1321000,SIMULADO
+P0473,2025,8,23,Mujer,Bucaramanga,Tecnólogo,Gestión administrativa,No,0,1,Servicios financieros,1,Sin contrato,No,844000,SIMULADO
+P0474,2025,1,27,Mujer,Bogotá,Técnico,Ventas y mercadeo,No,0,5,Comercio,0,,,,SIMULADO
+P0475,2025,5,21,Hombre,Bogotá,Universitario,Contaduría,Sí,0,4,Educación,1,Indefinido,Sí,2571000,SIMULADO
+P0476,2025,7,23,Hombre,Medellín,Universitario,Salud,No,1,5,Atención al cliente / call center,1,Obra o labor,Sí,2786000,SIMULADO
+P0477,2025,10,25,Mujer,Bogotá,Técnico,Ventas y mercadeo,No,0,1,Hotelería y restaurantes,1,Término fijo,Sí,1992000,SIMULADO
+P0478,2025,4,27,Hombre,Medellín,Bachiller,Ninguna,No,2,2,Comercio,1,Sin contrato,No,736000,SIMULADO
+P0479,2025,5,20,Mujer,Bogotá,Bachiller,Ninguna,No,1,4,Comercio,0,,,,SIMULADO
+P0480,2025,9,22,Mujer,Cali,Técnico,Sistemas e informática,Sí,1,6,Comercio,1,Término fijo,Sí,1342000,SIMULADO
+P0481,2025,10,21,Hombre,Bogotá,Bachiller,Ninguna,No,2,,Industria manufacturera,0,,,,SIMULADO
+P0482,2025,8,22,Mujer,Pereira,Bachiller,Ninguna,No,2,11,Comercio,0,,,,SIMULADO
+P0483,2025,10,20,Mujer,Bucaramanga,Bachiller,Ninguna,No,2,2,Salud,1,Sin contrato,No,1517000,SIMULADO
+P0484,2025,4,22,Mujer,Bogotá,Técnico,Sistemas e informática,Sí,1,24,Servicios financieros,1,Sin contrato,No,1378000,SIMULADO
+P0485,2025,2,20,Mujer,Pereira,Técnico,Logística,No,0,6,Industria manufacturera,1,Aprendizaje SENA,Sí,1085000,SIMULADO
+P0486,2025,4,25,Hombre,Manizales,Tecnólogo,Gestión administrativa,No,1,4,Educación,1,Sin contrato,No,1413000,SIMULADO
+P0487,2025,9,26,Hombre,Pereira,Técnico,Logística,Sí,0,1,Atención al cliente / call center,1,Aprendizaje SENA,Sí,1140000,SIMULADO
+P0488,2025,3,18,Mujer,Bogotá,Bachiller,Ninguna,No,1,5,Salud,0,,,,SIMULADO
+P0489,2025,5,27,Hombre,Bogotá,Técnico,Sistemas e informática,Sí,0,4,Logística y transporte,1,Indefinido,Sí,1689000,SIMULADO
+P0490,2025,11,26,Hombre,Barranquilla,Bachiller,Ninguna,Sí,0,7,Atención al cliente / call center,1,Prestación de servicios,Sí,1418000,SIMULADO
+P0491,2025,2,21,Hombre,Bogotá,Técnico,Mecánica y electricidad,Sí,1,6,Tecnología,1,Aprendizaje SENA,Sí,1443000,SIMULADO
+P0492,2025,12,25,Mujer,Manizales,Técnico,Contabilidad y finanzas,Sí,0,0,Industria manufacturera,1,Obra o labor,Sí,1932000,SIMULADO
+P0493,2025,11,28,Mujer,Bucaramanga,Técnico,Ventas y mercadeo,Sí,1,5,Comercio,1,Aprendizaje SENA,Sí,828000,SIMULADO
+P0494,2025,1,27,Hombre,Bogotá,Técnico,Mecánica y electricidad,Sí,0,0,Construcción,1,Indefinido,Sí,2096000,SIMULADO
+P0495,2025,11,20,Hombre,Bucaramanga,Bachiller,Ninguna,No,2,2,Atención al cliente / call center,1,Término fijo,Sí,1916000,SIMULADO
+P0496,2025,11,18,Hombre,Cali,Bachiller,Ninguna,No,2,10,Construcción,0,,,,SIMULADO
+P0497,2025,7,22,Hombre,Pereira,Universitario,Salud,Sí,1,2,Comercio,1,Prestación de servicios,Sí,2193000,SIMULADO
+P0498,2025,8,25,Mujer,Cali,Tecnólogo,Mecánica y electricidad,Sí,3,2,Hotelería y restaurantes,1,Prestación de servicios,Sí,2039000,SIMULADO
+P0499,2025,6,20,Hombre,Cali,Técnico,Ventas y mercadeo,Sí,1,9,Construcción,1,Aprendizaje SENA,Sí,1437000,SIMULADO
+P0500,2025,3,25,Hombre,Bucaramanga,Universitario,Derecho,Sí,1,1,Industria manufacturera,1,Aprendizaje SENA,Sí,1034000,SIMULADO
+P0501,2025,10,24,Hombre,Bucaramanga,Técnico,Mecánica y electricidad,Sí,0,4,Comercio,0,,,,SIMULADO
+P0502,2025,4,27,Mujer,Bucaramanga,Universitario,Administración,Sí,2,5,Logística y transporte,1,Término fijo,Sí,2594000,SIMULADO
+P0503,2025,10,25,Hombre,Cali,Universitario,Derecho,No,5,3,Salud,1,Término fijo,Sí,2238000,SIMULADO
+P0504,2025,2,20,Mujer,Cali,Bachiller,Ninguna,No,1,2,Industria manufacturera,1,Término fijo,Sí,1230000,SIMULADO
+P0505,2025,11,20,Hombre,Cali,Bachiller,Ninguna,No,0,8,Educación,0,,,,SIMULADO
+P0506,2025,8,25,Mujer,Barranquilla,Tecnólogo,Contabilidad y finanzas,Sí,3,2,Atención al cliente / call center,1,Sin contrato,No,1343000,SIMULADO
+P0507,2025,7,22,Hombre,Bogotá,Técnico,Sistemas e informática,Sí,3,2,Comercio,0,,,,SIMULADO
+P0508,2025,9,28,Hombre,Cali,Universitario,Contaduría,Sí,0,2,Tecnología,0,,,,SIMULADO
+P0509,2025,7,27,Mujer,Bogotá,Técnico,Contabilidad y finanzas,No,1,7,Tecnología,1,Indefinido,Sí,2039000,SIMULADO
+P0510,2025,12,21,Mujer,Bucaramanga,Universitario,Psicología,No,2,7,Atención al cliente / call center,0,,,,SIMULADO
+P0511,2025,4,18,Hombre,Bucaramanga,Bachiller,Ninguna,No,0,1,Educación,0,,,,SIMULADO
+P0512,2025,10,19,Mujer,Manizales,Tecnólogo,Logística,No,2,1,Industria manufacturera,1,Prestación de servicios,Sí,2256000,SIMULADO
+P0513,2025,3,18,Hombre,Bogotá,Bachiller,Ninguna,No,2,,Industria manufacturera,1,Sin contrato,No,1605000,SIMULADO
+P0514,2025,11,26,Mujer,Cartagena,Tecnólogo,Mecánica y electricidad,Sí,1,4,Servicios financieros,1,Término fijo,Sí,1842000,SIMULADO
+P0515,2025,7,28,Mujer,Bogotá,Técnico,Mecánica y electricidad,Sí,1,9,Hotelería y restaurantes,1,Sin contrato,No,1145000,SIMULADO
+P0516,2025,7,21,Hombre,Barranquilla,Universitario,Comunicación,No,1,2,Servicios financieros,0,,,,SIMULADO
+P0517,2025,11,28,Hombre,Bucaramanga,Bachiller,Ninguna,No,0,9,Salud,0,,,,SIMULADO
+P0518,2025,1,20,Hombre,Bogotá,Bachiller,Ninguna,No,1,16,Educación,1,Término fijo,Sí,1780000,SIMULADO
+P0519,2025,2,22,Mujer,Medellín,Técnico,Sistemas e informática,No,2,7,Comercio,1,Indefinido,Sí,1537000,SIMULADO
+P0520,2025,9,19,Hombre,Pereira,Técnico,Salud,Sí,1,10,Atención al cliente / call center,1,Obra o labor,Sí,1527000,SIMULADO
+P0521,2025,9,22,Mujer,Ibagué,Técnico,Sistemas e informática,Sí,0,2,Industria manufacturera,1,Sin contrato,No,1663000,SIMULADO
+P0522,2025,2,28,Hombre,Ibagué,Tecnólogo,Contabilidad y finanzas,No,1,2,Educación,1,Aprendizaje SENA,Sí,929000,SIMULADO
+P0523,2025,5,25,Hombre,Pasto,Técnico,Contabilidad y finanzas,Sí,3,6,Comercio,0,,,,SIMULADO
+P0524,2025,2,26,Mujer,Bogotá,Bachiller,Ninguna,Sí,1,14,Tecnología,1,Prestación de servicios,Sí,2278000,SIMULADO
+P0525,2025,6,23,Mujer,Bogotá,Técnico,Salud,Sí,0,2,Industria manufacturera,1,Sin contrato,No,1439000,SIMULADO
+P0526,2025,3,24,Hombre,Bucaramanga,Bachiller,Ninguna,No,0,1,Salud,1,Indefinido,Sí,1128000,SIMULADO
+P0527,2025,6,28,Mujer,Manizales,Bachiller,Ninguna,No,2,6,Salud,1,Sin contrato,No,1207000,SIMULADO
+P0528,2025,6,26,Mujer,Cali,Bachiller,Ninguna,No,2,2,Servicios financieros,1,Sin contrato,No,1418000,SIMULADO
+P0529,2025,6,27,Hombre,Cali,Tecnólogo,Mecánica y electricidad,No,2,5,Hotelería y restaurantes,1,Término fijo,Sí,1963000,SIMULADO
+P0530,2025,1,27,Hombre,Cali,Tecnólogo,Gestión administrativa,No,0,5,Tecnología,1,Sin contrato,No,1475000,SIMULADO
+P0531,2025,9,25,Mujer,Bucaramanga,Bachiller,Ninguna,No,0,13,Comercio,1,Indefinido,Sí,1392000,SIMULADO
+P0532,2025,7,21,Mujer,Medellín,Bachiller,Ninguna,No,4,14,Tecnología,1,Sin contrato,No,1711000,SIMULADO
+P0533,2025,2,28,Mujer,Bogotá,Tecnólogo,Logística,Sí,2,4,Industria manufacturera,1,Aprendizaje SENA,Sí,1069000,SIMULADO
+P0534,2025,1,25,Mujer,Bogotá,Universitario,Contaduría,Sí,1,1,Hotelería y restaurantes,0,,,,SIMULADO
+P0535,2025,11,18,Mujer,Bogotá,Técnico,Sistemas e informática,Sí,1,4,Logística y transporte,1,Indefinido,Sí,1922000,SIMULADO
+P0536,2025,3,26,Mujer,Bogotá,Universitario,Comunicación,Sí,0,5,Comercio,1,Término fijo,Sí,2341000,SIMULADO
+P0537,2025,2,20,Mujer,Medellín,Bachiller,Ninguna,No,1,17,Atención al cliente / call center,1,Obra o labor,Sí,1311000,SIMULADO
+P0538,2025,12,28,Mujer,Medellín,Bachiller,Ninguna,No,0,5,Comercio,1,Sin contrato,No,1309000,SIMULADO
+P0539,2025,6,26,Hombre,Bucaramanga,Tecnólogo,Mecánica y electricidad,No,0,8,Hotelería y restaurantes,1,Obra o labor,Sí,1287000,SIMULADO
+P0540,2025,1,22,Hombre,Pereira,Técnico,Sistemas e informática,Sí,1,5,Educación,1,Indefinido,Sí,1583000,SIMULADO
+P0541,2025,7,22,Mujer,Ibagué,Bachiller,Ninguna,No,1,1,Logística y transporte,0,,,,SIMULADO
+P0542,2025,10,25,Hombre,Pereira,Tecnólogo,Gestión administrativa,Sí,2,3,Salud,1,Sin contrato,No,1440000,SIMULADO
+P0543,2025,4,21,Hombre,Medellín,Tecnólogo,Sistemas e informática,Sí,1,2,Atención al cliente / call center,0,,,,SIMULADO
+P0544,2025,1,23,Mujer,Barranquilla,Universitario,Administración,Sí,0,9,Atención al cliente / call center,0,,,,SIMULADO
+P0545,2025,4,22,Hombre,Bogotá,Universitario,Psicología,Sí,1,1,Construcción,1,Término fijo,Sí,1955000,SIMULADO
+P0546,2025,9,23,Mujer,Ibagué,Bachiller,Ninguna,No,0,9,Tecnología,0,,,,SIMULADO
+P0547,2025,11,26,Hombre,Ibagué,Universitario,Administración,Sí,3,2,Logística y transporte,0,,,,SIMULADO
+P0548,2025,10,20,Mujer,Manizales,Bachiller,Ninguna,No,1,3,Salud,1,Aprendizaje SENA,Sí,782000,SIMULADO
+P0549,2025,9,21,Hombre,Bogotá,Universitario,Psicología,No,3,8,Educación,1,Sin contrato,No,2101000,SIMULADO
+P0550,2025,8,24,Mujer,Pasto,Tecnólogo,Gestión administrativa,Sí,3,7,Educación,0,,,,SIMULADO
+P0551,2025,7,25,Hombre,Bogotá,Universitario,Comunicación,Sí,2,5,Logística y transporte,0,,,,SIMULADO
+P0552,2025,2,26,Mujer,Medellín,Universitario,Derecho,No,1,8,Hotelería y restaurantes,0,,,,SIMULADO
+P0553,2025,4,28,Mujer,Bogotá,Universitario,Contaduría,No,0,3,Servicios financieros,1,Indefinido,Sí,1853000,SIMULADO
+P0554,2025,1,20,Hombre,Manizales,Técnico,Salud,No,1,4,Educación,0,,,,SIMULADO
+P0555,2025,11,24,Hombre,Barranquilla,Técnico,Mecánica y electricidad,Sí,3,8,Atención al cliente / call center,1,Término fijo,Sí,1677000,SIMULADO
+P0556,2025,1,21,Hombre,Medellín,Universitario,Contaduría,No,1,2,Tecnología,0,,,,SIMULADO
+P0557,2025,6,23,Hombre,Medellín,Técnico,Ventas y mercadeo,Sí,0,11,Hotelería y restaurantes,1,Término fijo,Sí,1384000,SIMULADO
+P0558,2025,5,21,Mujer,Cali,Universitario,Contaduría,No,1,9,Atención al cliente / call center,0,,,,SIMULADO
+P0559,2025,11,28,Hombre,Bogotá,Técnico,Mecánica y electricidad,Sí,1,6,Educación,1,Indefinido,Sí,1611000,SIMULADO
+P0560,2025,3,22,Hombre,Pasto,Bachiller,Ninguna,No,1,2,Industria manufacturera,1,Término fijo,Sí,1567000,SIMULADO
+P0561,2025,10,26,Hombre,Cali,Tecnólogo,Sistemas e informática,Sí,0,1,Educación,0,,,,SIMULADO
+P0562,2025,6,23,Hombre,Bogotá,Técnico,Contabilidad y finanzas,No,0,12,Industria manufacturera,0,,,,SIMULADO
+P0563,2025,1,27,Hombre,Bogotá,Técnico,Mecánica y electricidad,Sí,1,8,Logística y transporte,0,,,,SIMULADO
+P0564,2025,12,18,Hombre,Pereira,Tecnólogo,Sistemas e informática,Sí,2,6,Salud,1,Prestación de servicios,Sí,1838000,SIMULADO
+P0565,2025,1,19,Hombre,Manizales,Bachiller,Ninguna,No,1,8,Industria manufacturera,1,Sin contrato,No,1136000,SIMULADO
+P0566,2025,7,27,Mujer,Bogotá,Universitario,Derecho,Sí,2,11,Educación,1,Obra o labor,Sí,2833000,SIMULADO
+P0567,2025,12,25,Hombre,Bogotá,Bachiller,Ninguna,No,2,1,Comercio,1,Término fijo,Sí,1476000,SIMULADO
+P0568,2025,7,20,Hombre,Medellín,Bachiller,Ninguna,No,1,6,Educación,0,,,,SIMULADO
+P0569,2025,10,26,Hombre,Pasto,Universitario,Administración,Sí,2,1,Industria manufacturera,1,Obra o labor,Sí,2311000,SIMULADO
+P0570,2025,11,21,Hombre,Bogotá,Tecnólogo,Mecánica y electricidad,No,0,4,Industria manufacturera,0,,,,SIMULADO
+P0571,2025,8,19,Hombre,Bogotá,Bachiller,Ninguna,No,2,0,Construcción,1,Obra o labor,Sí,1346000,SIMULADO
+P0572,2025,6,23,Hombre,Cali,Bachiller,Ninguna,No,1,13,Tecnología,0,,,,SIMULADO
+P0573,2025,7,27,Hombre,Bucaramanga,Bachiller,Ninguna,No,1,9,Comercio,0,,,,SIMULADO
+P0574,2025,1,28,Hombre,Medellín,Técnico,Mecánica y electricidad,Sí,1,14,Atención al cliente / call center,1,Término fijo,Sí,1494000,SIMULADO
+P0575,2025,1,28,Hombre,Pereira,Técnico,Salud,No,1,1,Construcción,0,,,,SIMULADO
+P0576,2025,3,21,Mujer,Ibagué,Tecnólogo,Logística,Sí,1,2,Industria manufacturera,1,Obra o labor,Sí,2217000,SIMULADO
+P0577,2025,3,28,Hombre,Pereira,Universitario,Salud,Sí,2,0,Logística y transporte,1,Obra o labor,Sí,1889000,SIMULADO
+P0578,2025,10,22,Hombre,Cali,Tecnólogo,Gestión administrativa,No,1,2,Industria manufacturera,0,,,,SIMULADO
+P0579,2025,6,23,Mujer,Manizales,Universitario,Educación,No,1,7,Logística y transporte,0,,,,SIMULADO
+P0580,2025,2,20,Mujer,Medellín,Técnico,Sistemas e informática,Sí,1,2,Industria manufacturera,1,Prestación de servicios,Sí,1798000,SIMULADO
+P0581,2025,8,18,Mujer,Bogotá,Técnico,,Sí,2,1,Hotelería y restaurantes,0,,,,SIMULADO
+P0582,2025,10,23,Hombre,Medellín,Bachiller,Ninguna,No,2,2,Hotelería y restaurantes,1,Sin contrato,No,1307000,SIMULADO
+P0583,2025,7,28,Hombre,Bogotá,Técnico,Sistemas e informática,No,2,7,Industria manufacturera,0,,,,SIMULADO
+P0584,2025,11,20,Hombre,Medellín,Técnico,Logística,Sí,3,1,Logística y transporte,1,Sin contrato,No,1162000,SIMULADO
+P0585,2025,10,22,Hombre,Medellín,Universitario,Contaduría,No,2,1,Industria manufacturera,1,Sin contrato,No,1698000,SIMULADO
+P0586,2025,3,18,Mujer,Cartagena,Tecnólogo,Mecánica y electricidad,Sí,0,5,Comercio,1,Obra o labor,Sí,1879000,SIMULADO
+P0587,2025,1,26,Mujer,Ibagué,Universitario,Comunicación,Sí,2,2,Servicios financieros,0,,,,SIMULADO
+P0588,2025,3,28,Mujer,Medellín,Universitario,Administración,Sí,0,4,Comercio,1,Término fijo,Sí,2144000,SIMULADO
+P0589,2025,7,22,Hombre,Pasto,Bachiller,Ninguna,No,0,9,Tecnología,1,Aprendizaje SENA,Sí,1107000,SIMULADO
+P0590,2025,8,23,Mujer,Bogotá,Técnico,Logística,Sí,2,17,Industria manufacturera,1,Obra o labor,Sí,1469000,SIMULADO
+P0591,2025,1,21,Mujer,Ibagué,Bachiller,Ninguna,No,2,1,Logística y transporte,1,Sin contrato,No,890000,SIMULADO
+P0592,2025,9,25,Mujer,Cartagena,Bachiller,Ninguna,No,2,0,Logística y transporte,1,Sin contrato,No,957000,SIMULADO
+P0593,2025,5,22,Hombre,Medellín,Bachiller,Ninguna,No,1,9,Salud,1,Término fijo,Sí,1440000,SIMULADO
+P0594,2025,12,18,Hombre,Bogotá,Bachiller,Ninguna,No,0,3,Logística y transporte,1,Sin contrato,No,982000,SIMULADO
+P0595,2025,10,24,Mujer,Medellín,Bachiller,Ninguna,No,2,2,Servicios financieros,1,Término fijo,Sí,1615000,SIMULADO
+P0596,2025,9,27,Hombre,Cali,Técnico,Contabilidad y finanzas,Sí,,5,Salud,1,Indefinido,Sí,1274000,SIMULADO
+P0597,2025,9,23,Hombre,Cali,Bachiller,Ninguna,No,1,0,Logística y transporte,0,,,,SIMULADO
+P0598,2025,12,22,Hombre,Pereira,Bachiller,Ninguna,No,0,3,Hotelería y restaurantes,1,Término fijo,Sí,1509000,SIMULADO
+P0599,2025,10,24,Mujer,Bogotá,Bachiller,Ninguna,No,0,7,Comercio,1,Sin contrato,No,1545000,SIMULADO
+P0600,2025,6,20,Mujer,Barranquilla,Tecnólogo,Gestión administrativa,No,1,5,Educación,0,,,,SIMULADO
+P0601,2025,8,20,Mujer,Bogotá,Técnico,Ventas y mercadeo,No,1,10,Tecnología,1,Sin contrato,No,1628000,SIMULADO
+P0602,2025,1,23,Mujer,Manizales,Técnico,Salud,Sí,2,0,Atención al cliente / call center,1,Sin contrato,No,1279000,SIMULADO
+P0603,2025,6,23,Hombre,Medellín,Bachiller,Ninguna,No,4,6,Educación,0,,,,SIMULADO
+P0604,2025,1,22,Hombre,Medellín,Técnico,Salud,Sí,1,10,Logística y transporte,1,Aprendizaje SENA,Sí,1204000,SIMULADO
+P0605,2025,5,19,Hombre,Bucaramanga,Técnico,Mecánica y electricidad,Sí,0,10,Atención al cliente / call center,1,Sin contrato,No,1050000,SIMULADO
+P0606,2025,3,20,Hombre,Cali,Técnico,Logística,Sí,0,5,Industria manufacturera,1,Indefinido,Sí,1551000,SIMULADO
+P0607,2025,10,28,Mujer,Barranquilla,Bachiller,Ninguna,No,1,2,Educación,0,,,,SIMULADO
+P0608,2025,6,22,Mujer,Bogotá,Universitario,Psicología,Sí,1,9,Logística y transporte,1,Término fijo,Sí,1787000,SIMULADO
+P0609,2025,1,24,Mujer,Bogotá,Tecnólogo,Mecánica y electricidad,Sí,0,3,Atención al cliente / call center,1,Término fijo,Sí,2021000,SIMULADO
+P0610,2025,7,28,Mujer,Bucaramanga,Bachiller,Ninguna,No,1,0,Educación,0,,,,SIMULADO
+P0611,2025,4,22,Hombre,Cartagena,Tecnólogo,Gestión administrativa,No,0,7,Logística y transporte,0,,,,SIMULADO
+P0612,2025,2,22,Mujer,Manizales,Bachiller,Ninguna,No,1,2,Construcción,0,,,,SIMULADO
+P0613,2025,12,27,Mujer,Barranquilla,Universitario,Ingeniería,No,0,2,Tecnología,0,,,,SIMULADO
+P0614,2025,5,26,Mujer,Barranquilla,Universitario,Educación,Sí,1,4,Comercio,0,,,,SIMULADO
+P0615,2025,12,26,Hombre,Ibagué,Universitario,Administración,No,1,8,Hotelería y restaurantes,0,,,,SIMULADO
+P0616,2025,10,25,Mujer,Bucaramanga,Universitario,Psicología,No,1,1,Salud,1,Término fijo,Sí,2615000,SIMULADO
+P0617,2025,8,20,Hombre,Bucaramanga,Técnico,Sistemas e informática,Sí,2,1,Logística y transporte,1,Obra o labor,Sí,1128000,SIMULADO
+P0618,2025,4,27,Mujer,Manizales,Tecnólogo,Mecánica y electricidad,No,2,0,Servicios financieros,1,Indefinido,Sí,1602000,SIMULADO
+P0619,2025,6,26,Hombre,Medellín,Universitario,Comunicación,No,0,2,Servicios financieros,0,,,,SIMULADO
+P0620,2025,1,22,Hombre,Bogotá,Bachiller,Ninguna,No,1,8,Salud,0,,,,SIMULADO
+P0621,2025,5,18,Mujer,Manizales,Bachiller,Ninguna,No,0,0,Logística y transporte,1,Obra o labor,Sí,1294000,SIMULADO
+P0622,2025,9,25,Mujer,Bogotá,Universitario,Contaduría,Sí,1,12,Atención al cliente / call center,1,Indefinido,Sí,2592000,SIMULADO
+P0623,2025,11,27,Hombre,Barranquilla,Tecnólogo,Mecánica y electricidad,No,1,9,Comercio,0,,,,SIMULADO
+P0624,2025,1,19,Mujer,Bogotá,Técnico,Mecánica y electricidad,Sí,1,6,Educación,1,Aprendizaje SENA,Sí,899000,SIMULADO
+P0625,2025,9,24,Mujer,Cartagena,Bachiller,Ninguna,Sí,1,7,Servicios financieros,1,Sin contrato,No,1179000,SIMULADO
+P0626,2025,3,28,Mujer,Cali,Tecnólogo,Mecánica y electricidad,Sí,0,3,Industria manufacturera,1,Aprendizaje SENA,Sí,1316000,SIMULADO
+P0627,2025,6,28,Mujer,Bucaramanga,Tecnólogo,Sistemas e informática,No,1,4,Logística y transporte,1,Sin contrato,No,1001000,SIMULADO
+P0628,2025,5,27,Mujer,Bogotá,Universitario,Salud,No,2,1,Salud,1,Prestación de servicios,Sí,2093000,SIMULADO
+P0629,2025,10,28,Hombre,Bogotá,Técnico,Sistemas e informática,Sí,1,11,Logística y transporte,1,Sin contrato,No,1239000,SIMULADO
+P0630,2025,6,22,Mujer,Cali,Bachiller,Ninguna,No,1,7,Educación,0,,,,SIMULADO
+P0631,2025,11,19,Hombre,Cali,Técnico,Salud,Sí,4,5,Comercio,1,Obra o labor,Sí,1463000,SIMULADO
+P0632,2025,8,22,Mujer,Bogotá,Técnico,Logística,Sí,1,14,Comercio,1,Término fijo,Sí,1789000,SIMULADO
+P0633,2025,12,20,Mujer,Bogotá,Tecnólogo,Mecánica y electricidad,Sí,2,3,Comercio,0,,,,SIMULADO
+P0634,2025,5,18,Hombre,Manizales,Bachiller,Ninguna,No,0,5,Atención al cliente / call center,0,,,,SIMULADO
+P0635,2025,10,28,Mujer,Pereira,Tecnólogo,Sistemas e informática,Sí,0,6,Educación,0,,,,SIMULADO
+P0636,2025,5,26,Hombre,Ibagué,Tecnólogo,Mecánica y electricidad,Sí,1,2,Hotelería y restaurantes,1,Obra o labor,Sí,1610000,SIMULADO
+P0637,2025,11,24,Mujer,Cartagena,Bachiller,Ninguna,No,2,8,Tecnología,0,,,,SIMULADO
+P0638,2025,5,26,Hombre,Bogotá,Bachiller,Ninguna,No,0,4,Tecnología,0,,,,SIMULADO
+P0639,2025,6,20,Mujer,Cali,Bachiller,Ninguna,No,4,3,Salud,1,Prestación de servicios,Sí,1816000,SIMULADO
+P0640,2025,6,24,Hombre,Pasto,Técnico,Mecánica y electricidad,No,3,4,Salud,1,Prestación de servicios,Sí,2108000,SIMULADO
+P0641,2025,9,21,Hombre,Bogotá,Técnico,Sistemas e informática,Sí,2,2,Construcción,1,Indefinido,Sí,1606000,SIMULADO
+P0642,2025,8,22,Hombre,Barranquilla,Universitario,Psicología,No,1,3,Hotelería y restaurantes,0,,,,SIMULADO
+P0643,2025,5,25,Mujer,Bogotá,Bachiller,Ninguna,No,6,5,Tecnología,1,Sin contrato,No,1319000,SIMULADO
+P0644,2025,7,27,Mujer,Barranquilla,Bachiller,Ninguna,No,1,4,Comercio,1,Obra o labor,Sí,1134000,SIMULADO
+P0645,2025,8,24,Hombre,Bogotá,Universitario,Derecho,No,0,3,Comercio,1,Obra o labor,Sí,3583000,SIMULADO
+P0646,2025,12,27,Hombre,Bucaramanga,Técnico,Ventas y mercadeo,No,0,8,Construcción,0,,,,SIMULADO
+P0647,2025,6,18,Mujer,Bogotá,Tecnólogo,Gestión administrativa,No,1,1,Construcción,1,Término fijo,Sí,1681000,SIMULADO
+P0648,2025,4,23,Mujer,Medellín,Universitario,Salud,Sí,1,8,Salud,1,Término fijo,Sí,2040000,SIMULADO
+P0649,2025,10,23,Hombre,Bucaramanga,Universitario,Administración,Sí,0,5,Educación,1,Prestación de servicios,Sí,1918000,SIMULADO
+P0650,2025,10,21,Mujer,Ibagué,Universitario,Salud,No,1,1,Tecnología,0,,,,SIMULADO
+P0651,2025,11,20,Hombre,Bogotá,Tecnólogo,Sistemas e informática,Sí,0,3,Industria manufacturera,1,Indefinido,Sí,1818000,SIMULADO
+P0652,2025,5,25,Hombre,Cali,Tecnólogo,Sistemas e informática,No,2,8,Industria manufacturera,1,Término fijo,Sí,2026000,SIMULADO
+P0653,2025,8,23,Hombre,Bogotá,Tecnólogo,Logística,No,0,6,Comercio,1,Obra o labor,Sí,2059000,SIMULADO
+P0654,2025,1,27,Mujer,Bogotá,Universitario,Derecho,No,1,2,Tecnología,0,,,,SIMULADO
+P0655,2025,7,24,Hombre,Bogotá,Tecnólogo,Logística,Sí,3,6,Logística y transporte,1,Obra o labor,Sí,2089000,SIMULADO
+P0656,2025,6,24,Hombre,Bogotá,Bachiller,Ninguna,No,0,14,Comercio,1,Indefinido,Sí,1831000,SIMULADO
+P0657,2025,4,24,Hombre,Barranquilla,Bachiller,Ninguna,No,0,1,Tecnología,0,,,,SIMULADO
+P0658,2025,7,27,Mujer,Cali,Técnico,Mecánica y electricidad,No,0,1,Atención al cliente / call center,0,,,,SIMULADO
+P0659,2025,1,21,Hombre,Pasto,Técnico,Salud,No,0,2,Comercio,1,Prestación de servicios,Sí,1539000,SIMULADO
+P0660,2025,9,23,Hombre,Ibagué,Bachiller,Ninguna,No,0,2,Servicios financieros,0,,,,SIMULADO
+P0661,2025,1,24,Mujer,Medellín,Bachiller,Ninguna,No,0,2,Servicios financieros,0,,,,SIMULADO
+P0662,2025,10,25,Hombre,Ibagué,Técnico,Sistemas e informática,No,0,4,Logística y transporte,0,,,,SIMULADO
+P0663,2025,7,20,Mujer,Bogotá,Bachiller,Ninguna,No,1,6,Atención al cliente / call center,1,Sin contrato,No,1657000,SIMULADO
+P0664,2025,1,27,Mujer,Medellín,Técnico,Logística,Sí,0,13,Logística y transporte,1,Término fijo,Sí,1416000,SIMULADO
+P0665,2025,8,19,Mujer,Barranquilla,Tecnólogo,Mecánica y electricidad,Sí,2,14,Tecnología,1,Obra o labor,Sí,2120000,SIMULADO
+P0666,2025,6,18,Mujer,Medellín,Tecnólogo,Sistemas e informática,Sí,2,6,Salud,1,Prestación de servicios,Sí,1677000,SIMULADO
+P0667,2025,8,23,Hombre,Cali,Universitario,Derecho,No,4,1,Construcción,1,Sin contrato,No,1506000,SIMULADO
+P0668,2025,10,26,Mujer,Ibagué,Bachiller,Ninguna,No,0,2,Industria manufacturera,1,Indefinido,Sí,1196000,SIMULADO
+P0669,2025,1,21,Hombre,Pereira,Técnico,Ventas y mercadeo,No,1,1,Atención al cliente / call center,1,Indefinido,Sí,1437000,SIMULADO
+P0670,2025,3,23,Mujer,Manizales,Universitario,Derecho,No,2,2,Comercio,0,,,,SIMULADO
+P0671,2025,3,26,Mujer,Bogotá,Tecnólogo,Gestión administrativa,Sí,1,21,Atención al cliente / call center,1,Aprendizaje SENA,Sí,1098000,SIMULADO
+P0672,2025,10,22,Hombre,Cali,Técnico,Ventas y mercadeo,Sí,2,20,Educación,1,Término fijo,Sí,1412000,SIMULADO
+P0673,2025,8,24,Mujer,Medellín,Técnico,Sistemas e informática,Sí,0,2,Hotelería y restaurantes,1,Sin contrato,No,1168000,SIMULADO
+P0674,2025,9,18,Mujer,Medellín,Bachiller,Ninguna,No,1,0,Logística y transporte,1,Término fijo,Sí,1589000,SIMULADO
+P0675,2025,1,28,Hombre,Manizales,Técnico,Logística,No,1,4,Educación,0,,,,SIMULADO
+P0676,2025,6,21,Hombre,Cali,Tecnólogo,Logística,No,1,1,Salud,0,,,,SIMULADO
+P0677,2025,2,28,Mujer,Bucaramanga,Universitario,Administración,Sí,2,1,Comercio,1,Término fijo,Sí,2714000,SIMULADO
+P0678,2025,8,27,Mujer,Medellín,Universitario,Educación,No,0,4,Comercio,0,,,,SIMULADO
+P0679,2025,4,28,Mujer,Barranquilla,Bachiller,Ninguna,No,2,2,Atención al cliente / call center,1,Sin contrato,No,980000,SIMULADO
+P0680,2025,10,20,Hombre,Bogotá,Tecnólogo,Mecánica y electricidad,Sí,2,0,Servicios financieros,1,Aprendizaje SENA,Sí,963000,SIMULADO
+P0681,2025,5,26,Mujer,Cali,Bachiller,Ninguna,No,0,15,Logística y transporte,1,Sin contrato,No,1239000,SIMULADO
+P0682,2025,1,25,Mujer,Pasto,Universitario,Administración,No,1,5,Servicios financieros,0,,,,SIMULADO
+P0683,2025,3,18,Mujer,Bogotá,Bachiller,Ninguna,No,1,10,Industria manufacturera,1,Prestación de servicios,Sí,1755000,SIMULADO
+P0684,2025,6,23,Mujer,Ibagué,Técnico,Ventas y mercadeo,Sí,3,7,Atención al cliente / call center,1,Sin contrato,No,1096000,SIMULADO
+P0685,2025,9,25,Mujer,Medellín,Bachiller,Ninguna,No,4,0,Educación,0,,,,SIMULADO
+P0686,2025,3,27,Mujer,Pereira,Bachiller,Ninguna,No,2,1,Construcción,1,Sin contrato,No,1149000,SIMULADO
+P0687,2025,9,27,Mujer,Bogotá,Tecnólogo,Logística,Sí,2,2,Educación,0,,,,SIMULADO
+P0688,2025,8,27,Mujer,Pasto,Técnico,Ventas y mercadeo,No,0,0,Construcción,1,Prestación de servicios,Sí,1275000,SIMULADO
+P0689,2025,2,26,Hombre,Bogotá,Tecnólogo,Logística,No,1,1,Logística y transporte,1,Indefinido,Sí,2042000,SIMULADO
+P0690,2025,7,26,Hombre,Pereira,Universitario,Derecho,Sí,4,4,Logística y transporte,0,,,,SIMULADO
+P0691,2025,3,25,Hombre,Pasto,Bachiller,Ninguna,No,0,2,Industria manufacturera,0,,,,SIMULADO
+P0692,2025,1,21,Mujer,Medellín,Tecnólogo,Sistemas e informática,No,1,13,Atención al cliente / call center,1,Sin contrato,No,1095000,SIMULADO
+P0693,2025,3,22,Mujer,Ibagué,Técnico,Salud,Sí,0,7,Hotelería y restaurantes,1,Prestación de servicios,Sí,1432000,SIMULADO
+P0694,2025,7,24,Hombre,Medellín,Universitario,Educación,Sí,2,0,Servicios financieros,1,Término fijo,Sí,1877000,SIMULADO
+P0695,2025,6,25,Mujer,Bucaramanga,Universitario,Salud,Sí,2,,Atención al cliente / call center,1,Obra o labor,Sí,2330000,SIMULADO
+P0696,2025,7,28,Hombre,Bogotá,Universitario,Educación,Sí,0,2,Construcción,0,,,,SIMULADO
+P0697,2025,5,23,Hombre,Cali,Bachiller,Ninguna,No,3,3,Construcción,0,,,,SIMULADO
+P0698,2025,4,28,Hombre,Cali,Universitario,Educación,Sí,1,,Servicios financieros,0,,,,SIMULADO
+P0699,2025,6,27,Hombre,Bucaramanga,Universitario,Psicología,Sí,0,2,Industria manufacturera,1,Término fijo,Sí,2111000,SIMULADO
+P0700,2025,1,26,Hombre,Bucaramanga,Bachiller,Ninguna,No,0,4,Comercio,1,Sin contrato,No,1075000,SIMULADO
+P0701,2025,6,25,Hombre,Bogotá,Tecnólogo,Contabilidad y finanzas,Sí,,6,Educación,1,Indefinido,Sí,1901000,SIMULADO
+P0702,2025,6,22,Mujer,Cartagena,Bachiller,Ninguna,No,0,7,Hotelería y restaurantes,1,Sin contrato,No,895000,SIMULADO
+P0703,2025,3,26,Mujer,Pereira,Tecnólogo,Logística,Sí,0,,Hotelería y restaurantes,0,,,,SIMULADO
+P0704,2025,4,27,Hombre,Cali,Tecnólogo,Mecánica y electricidad,Sí,0,9,Educación,0,,,,SIMULADO
+P0705,2025,10,21,Mujer,Medellín,Universitario,Salud,No,2,10,Industria manufacturera,0,,,,SIMULADO
+P0706,2025,3,25,Mujer,Medellín,Tecnólogo,Sistemas e informática,No,0,1,Atención al cliente / call center,1,Término fijo,Sí,2260000,SIMULADO
+P0707,2025,4,22,Mujer,Barranquilla,Tecnólogo,Contabilidad y finanzas,No,1,7,Comercio,1,Indefinido,Sí,1522000,SIMULADO
+P0708,2025,3,28,Mujer,Ibagué,Tecnólogo,Gestión administrativa,Sí,2,9,Construcción,1,Término fijo,Sí,1724000,SIMULADO
+P0709,2025,4,26,Mujer,Bogotá,Universitario,Administración,No,1,2,Construcción,1,Término fijo,Sí,2327000,SIMULADO
+P0710,2025,8,23,Hombre,Medellín,Bachiller,Ninguna,No,0,0,Educación,1,Obra o labor,Sí,1489000,SIMULADO
+P0711,2025,12,26,Mujer,Bucaramanga,Técnico,Ventas y mercadeo,Sí,1,0,Logística y transporte,1,Indefinido,Sí,1202000,SIMULADO
+P0712,2025,9,25,Mujer,Bogotá,Bachiller,Ninguna,No,1,3,Industria manufacturera,0,,,,SIMULADO
+P0713,2025,4,27,Mujer,Ibagué,Tecnólogo,Gestión administrativa,Sí,1,,Industria manufacturera,1,Obra o labor,Sí,1843000,SIMULADO
+P0714,2025,6,22,Hombre,Bogotá,Técnico,Contabilidad y finanzas,No,1,4,Servicios financieros,0,,,,SIMULADO
+P0715,2025,12,21,Hombre,Bogotá,Bachiller,Ninguna,No,0,12,Servicios financieros,1,Sin contrato,No,1163000,SIMULADO
+P0716,2025,2,26,Hombre,Bogotá,Universitario,Ingeniería,No,2,6,Logística y transporte,1,Término fijo,Sí,2389000,SIMULADO
+P0717,2025,2,21,Mujer,Medellín,Universitario,Educación,No,0,2,Educación,1,Aprendizaje SENA,Sí,1185000,SIMULADO
+P0718,2025,6,18,Mujer,Cartagena,Tecnólogo,Mecánica y electricidad,No,2,5,Logística y transporte,1,Término fijo,Sí,1514000,SIMULADO
+P0719,2025,8,19,Mujer,Bucaramanga,Técnico,Mecánica y electricidad,Sí,0,11,Tecnología,1,Término fijo,Sí,1687000,SIMULADO
+P0720,2025,7,25,Mujer,Cali,Tecnólogo,Logística,No,1,4,Comercio,1,Obra o labor,Sí,1896000,SIMULADO
+P0721,2025,7,28,Mujer,Ibagué,Técnico,Salud,No,2,4,Servicios financieros,0,,,,SIMULADO
+P0722,2025,12,27,Mujer,Bogotá,Universitario,Psicología,No,2,,Tecnología,1,Término fijo,Sí,2114000,SIMULADO
+P0723,2025,10,27,Hombre,Pereira,Universitario,Comunicación,Sí,1,3,Logística y transporte,1,Prestación de servicios,Sí,1605000,SIMULADO
+P0724,2025,3,21,Hombre,Barranquilla,Tecnólogo,Mecánica y electricidad,No,1,10,Logística y transporte,0,,,,SIMULADO
+P0725,2025,6,25,Hombre,Cali,Bachiller,Ninguna,No,2,3,Atención al cliente / call center,0,,,,SIMULADO
+P0726,2025,12,22,Mujer,Bucaramanga,Bachiller,Ninguna,No,2,8,Hotelería y restaurantes,0,,,,SIMULADO
+P0727,2025,4,21,Mujer,Cali,Bachiller,Ninguna,No,3,4,Hotelería y restaurantes,0,,,,SIMULADO
+P0728,2025,1,23,Mujer,Barranquilla,Bachiller,Ninguna,No,3,2,Salud,0,,,,SIMULADO
+P0729,2025,10,24,Mujer,Cartagena,Universitario,Salud,Sí,0,8,Hotelería y restaurantes,1,Aprendizaje SENA,Sí,1072000,SIMULADO
+P0730,2025,9,24,Hombre,Ibagué,Universitario,Psicología,Sí,1,1,Construcción,1,Obra o labor,Sí,2342000,SIMULADO
+P0731,2025,3,18,Hombre,Pasto,Bachiller,Ninguna,No,0,4,Educación,0,,,,SIMULADO
+P0732,2025,9,25,Mujer,Bucaramanga,Universitario,Comunicación,Sí,2,1,Tecnología,1,Término fijo,Sí,3094000,SIMULADO
+P0733,2025,5,28,Mujer,Cali,Universitario,Educación,No,0,11,Educación,1,Obra o labor,Sí,2232000,SIMULADO
+P0734,2025,8,19,Mujer,Bucaramanga,Tecnólogo,Contabilidad y finanzas,Sí,2,2,Atención al cliente / call center,1,Aprendizaje SENA,Sí,859000,SIMULADO
+P0735,2025,2,27,Mujer,Bogotá,Universitario,Derecho,No,0,3,Atención al cliente / call center,0,,,,SIMULADO
+P0736,2025,2,26,Mujer,Cartagena,Bachiller,Ninguna,No,,8,Servicios financieros,1,Sin contrato,No,766000,SIMULADO
+P0737,2025,9,21,Mujer,Cartagena,Técnico,Sistemas e informática,Sí,3,6,Industria manufacturera,0,,,,SIMULADO
+P0738,2025,7,27,Mujer,Medellín,Universitario,Contaduría,Sí,1,1,Hotelería y restaurantes,1,Sin contrato,No,2200000,SIMULADO
+P0739,2025,7,24,Mujer,Bogotá,Técnico,Mecánica y electricidad,Sí,2,1,Tecnología,1,Obra o labor,Sí,1645000,SIMULADO
+P0740,2025,6,26,Mujer,Bogotá,Técnico,Mecánica y electricidad,Sí,1,8,Atención al cliente / call center,1,Obra o labor,Sí,2024000,SIMULADO
+P0741,2025,8,22,Mujer,Bucaramanga,Técnico,Salud,Sí,0,4,Comercio,1,Prestación de servicios,Sí,1392000,SIMULADO
+P0742,2025,4,28,Hombre,Medellín,Bachiller,Ninguna,No,2,8,Educación,1,Sin contrato,No,899000,SIMULADO
+P0743,2025,2,24,Hombre,Cali,Bachiller,Ninguna,No,2,5,Servicios financieros,0,,,,SIMULADO
+P0744,2025,5,27,Mujer,Manizales,Bachiller,Ninguna,Sí,0,8,Hotelería y restaurantes,0,,,,SIMULADO
+P0745,2025,4,21,Mujer,Ibagué,Bachiller,Ninguna,No,1,14,Tecnología,1,Obra o labor,Sí,1649000,SIMULADO
+P0746,2025,11,24,Mujer,Cali,Universitario,Derecho,Sí,2,1,Industria manufacturera,1,Indefinido,Sí,2356000,SIMULADO
+P0747,2025,7,28,Mujer,Pereira,Tecnólogo,Mecánica y electricidad,No,0,0,Comercio,0,,,,SIMULADO
+P0748,2025,12,26,Hombre,Bucaramanga,Tecnólogo,,Sí,1,7,Educación,1,Término fijo,Sí,1410000,SIMULADO
+P0749,2025,12,23,Mujer,Bucaramanga,Bachiller,Ninguna,No,2,,Atención al cliente / call center,0,,,,SIMULADO
+P0750,2025,2,20,Mujer,Cartagena,Bachiller,Ninguna,No,2,,Educación,1,Indefinido,Sí,1374000,SIMULADO
+P0751,2025,10,22,Mujer,Bogotá,Universitario,Comunicación,Sí,3,7,Comercio,1,Término fijo,Sí,2043000,SIMULADO
+P0752,2025,10,28,Mujer,Medellín,Universitario,Comunicación,No,4,8,Salud,1,Indefinido,Sí,2234000,SIMULADO
+P0753,2025,12,27,Mujer,Pasto,Tecnólogo,Mecánica y electricidad,Sí,4,1,Tecnología,1,Obra o labor,Sí,2073000,SIMULADO
+P0754,2025,2,27,Mujer,Pasto,Técnico,Salud,Sí,1,4,Construcción,1,Término fijo,Sí,1797000,SIMULADO
+P0755,2025,10,25,Hombre,Pereira,Universitario,Ingeniería,Sí,1,2,Educación,1,Término fijo,Sí,2479000,SIMULADO
+P0756,2025,8,24,Mujer,Ibagué,Universitario,Comunicación,Sí,0,5,Tecnología,0,,,,SIMULADO
+P0757,2025,8,18,Mujer,Bogotá,Tecnólogo,Contabilidad y finanzas,No,1,15,Industria manufacturera,1,Obra o labor,Sí,2061000,SIMULADO
+P0758,2025,2,22,Mujer,Bogotá,Universitario,Educación,No,0,6,Educación,1,Término fijo,Sí,2243000,SIMULADO
+P0759,2025,4,21,Hombre,Cartagena,Técnico,Salud,No,1,6,Educación,0,,,,SIMULADO
+P0760,2025,5,25,Hombre,Cali,Universitario,Educación,Sí,1,6,Servicios financieros,0,,,,SIMULADO
+P0761,2025,2,25,Mujer,Medellín,Bachiller,Ninguna,No,1,3,Atención al cliente / call center,0,,,,SIMULADO
+P0762,2025,3,21,Hombre,Cali,Universitario,Salud,Sí,2,8,Hotelería y restaurantes,1,Término fijo,Sí,1547000,SIMULADO
+P0763,2025,2,27,Mujer,Bogotá,Tecnólogo,Contabilidad y finanzas,No,2,19,Salud,1,Indefinido,Sí,1715000,SIMULADO
+P0764,2025,4,22,Hombre,Pereira,Tecnólogo,Mecánica y electricidad,No,4,5,Logística y transporte,1,Término fijo,Sí,1790000,SIMULADO
+P0765,2025,2,28,Hombre,Pereira,Tecnólogo,Contabilidad y finanzas,Sí,,2,Comercio,1,Indefinido,Sí,2036000,SIMULADO
+P0766,2025,2,22,Mujer,Bogotá,Tecnólogo,Sistemas e informática,No,1,5,Servicios financieros,0,,,,SIMULADO
+P0767,2025,2,28,Hombre,Bogotá,Bachiller,Ninguna,No,3,5,Hotelería y restaurantes,1,Prestación de servicios,Sí,1909000,SIMULADO
+P0768,2025,5,26,Hombre,Bogotá,Universitario,Educación,No,0,6,Educación,1,Obra o labor,Sí,2672000,SIMULADO
+P0769,2025,4,28,Mujer,Pereira,Técnico,Logística,Sí,2,12,Atención al cliente / call center,1,Término fijo,Sí,1364000,SIMULADO
+P0770,2025,12,25,Hombre,Bogotá,Tecnólogo,Gestión administrativa,Sí,0,6,Atención al cliente / call center,1,Sin contrato,No,1244000,SIMULADO
+P0771,2025,5,22,Mujer,Pereira,Técnico,,Sí,2,15,Logística y transporte,1,Indefinido,Sí,1673000,SIMULADO
+P0772,2025,1,19,Hombre,Cali,Bachiller,Ninguna,No,1,11,Comercio,1,Término fijo,Sí,1640000,SIMULADO
+P0773,2025,4,24,Mujer,Bogotá,Universitario,Salud,Sí,0,8,Tecnología,1,Obra o labor,Sí,2956000,SIMULADO
+P0774,2025,7,21,Mujer,Bucaramanga,Tecnólogo,Contabilidad y finanzas,Sí,0,5,Atención al cliente / call center,1,Término fijo,Sí,1124000,SIMULADO
+P0775,2025,12,22,Mujer,Bogotá,Bachiller,Ninguna,No,1,6,Salud,1,Término fijo,Sí,1446000,SIMULADO
+P0776,2025,2,19,Mujer,Bogotá,Bachiller,Ninguna,Sí,1,5,Industria manufacturera,1,Prestación de servicios,Sí,1204000,SIMULADO
+P0777,2025,4,22,Mujer,Manizales,Tecnólogo,Gestión administrativa,No,0,2,Tecnología,1,Término fijo,Sí,2368000,SIMULADO
+P0778,2025,12,23,Hombre,Bogotá,Bachiller,Ninguna,No,1,2,Hotelería y restaurantes,1,Término fijo,Sí,1418000,SIMULADO
+P0779,2025,9,22,Mujer,Bogotá,Tecnólogo,Sistemas e informática,Sí,0,5,Construcción,1,Indefinido,Sí,1694000,SIMULADO
+P0780,2025,11,28,Mujer,Cali,Técnico,Contabilidad y finanzas,Sí,4,7,Hotelería y restaurantes,1,Término fijo,Sí,1685000,SIMULADO
+P0781,2025,12,21,Mujer,Medellín,Universitario,Salud,Sí,1,12,Servicios financieros,1,Indefinido,Sí,2497000,SIMULADO
+P0782,2025,4,28,Mujer,Medellín,Técnico,Salud,Sí,0,1,Hotelería y restaurantes,1,Obra o labor,Sí,1417000,SIMULADO
+P0783,2025,7,26,Mujer,Cartagena,Universitario,Comunicación,No,4,7,Hotelería y restaurantes,1,Obra o labor,Sí,2891000,SIMULADO
+P0784,2025,5,20,Mujer,Pereira,Tecnólogo,Gestión administrativa,No,0,14,Logística y transporte,1,Indefinido,Sí,1694000,SIMULADO
+P0785,2025,12,28,Hombre,Bogotá,Bachiller,Ninguna,No,3,8,Comercio,0,,,,SIMULADO
+P0786,2025,5,20,Hombre,Bogotá,Técnico,Ventas y mercadeo,Sí,0,5,Servicios financieros,1,Aprendizaje SENA,Sí,1161000,SIMULADO
+P0787,2025,5,26,Hombre,Cartagena,Tecnólogo,Mecánica y electricidad,No,2,2,Industria manufacturera,0,,,,SIMULADO
+P0788,2025,5,24,Mujer,Ibagué,Bachiller,Ninguna,No,0,14,Comercio,1,Término fijo,Sí,1311000,SIMULADO
+P0789,2025,10,26,Mujer,Medellín,Bachiller,Ninguna,No,4,8,Comercio,0,,,,SIMULADO
+P0790,2025,4,21,Hombre,Medellín,Bachiller,Ninguna,No,1,4,Servicios financieros,1,Sin contrato,No,793000,SIMULADO
+P0791,2025,8,28,Hombre,Cali,Universitario,Ingeniería,Sí,1,7,Logística y transporte,1,Prestación de servicios,Sí,2451000,SIMULADO
+P0792,2025,5,27,Hombre,Cali,Tecnólogo,Sistemas e informática,No,2,1,Atención al cliente / call center,1,Prestación de servicios,Sí,1641000,SIMULADO
+P0793,2025,11,28,Mujer,Cali,Bachiller,Ninguna,No,1,7,Construcción,1,Sin contrato,No,1027000,SIMULADO
+P0794,2025,10,19,Mujer,Cartagena,Técnico,Mecánica y electricidad,No,1,5,Servicios financieros,1,Término fijo,Sí,1799000,SIMULADO
+P0795,2025,12,24,Mujer,Cartagena,Bachiller,Ninguna,No,1,3,Construcción,1,Término fijo,Sí,1185000,SIMULADO
+P0796,2025,10,26,Hombre,Cartagena,Universitario,Comunicación,No,3,4,Salud,1,Obra o labor,Sí,2460000,SIMULADO
+P0797,2025,10,22,Hombre,Bucaramanga,Universitario,Contaduría,Sí,1,5,Servicios financieros,0,,,,SIMULADO
+P0798,2025,8,24,Hombre,Bogotá,Bachiller,Ninguna,No,0,4,Hotelería y restaurantes,0,,,,SIMULADO
+P0799,2025,10,21,Mujer,Pereira,Bachiller,Ninguna,Sí,2,2,Logística y transporte,0,,,,SIMULADO
+P0800,2025,3,26,Mujer,Cali,Bachiller,Ninguna,No,3,12,Hotelería y restaurantes,1,Término fijo,Sí,1633000,SIMULADO
+P0801,2025,8,28,Mujer,Cali,Universitario,Ingeniería,No,2,7,Logística y transporte,0,,,,SIMULADO
+P0802,2025,5,23,Mujer,Bucaramanga,Bachiller,Ninguna,No,1,,Logística y transporte,1,Obra o labor,Sí,1653000,SIMULADO
+P0803,2025,3,23,Mujer,Pasto,Bachiller,Ninguna,No,2,5,Salud,0,,,,SIMULADO
+P0804,2025,3,21,Hombre,Manizales,Bachiller,Ninguna,No,1,24,Industria manufacturera,1,Sin contrato,No,989000,SIMULADO
+P0805,2025,12,23,Hombre,Cali,Técnico,Logística,Sí,3,3,Construcción,1,Obra o labor,Sí,1817000,SIMULADO
+P0806,2025,10,20,Hombre,Bogotá,Tecnólogo,Contabilidad y finanzas,Sí,2,9,Educación,1,Sin contrato,No,1364000,SIMULADO
+P0807,2025,10,24,Hombre,Cartagena,Tecnólogo,Mecánica y electricidad,No,1,4,Salud,1,Obra o labor,Sí,1769000,SIMULADO
+P0808,2025,4,28,Mujer,Bogotá,Técnico,Ventas y mercadeo,Sí,1,2,Tecnología,1,Prestación de servicios,Sí,1591000,SIMULADO
+P0809,2025,7,26,Mujer,Manizales,Tecnólogo,Sistemas e informática,No,0,1,Atención al cliente / call center,1,Obra o labor,Sí,2192000,SIMULADO
+P0810,2025,12,21,Hombre,Medellín,Universitario,Administración,No,3,8,Industria manufacturera,0,,,,SIMULADO
+P0811,2025,5,18,Mujer,Medellín,Bachiller,Ninguna,No,0,3,Hotelería y restaurantes,0,,,,SIMULADO
+P0812,2025,3,24,Mujer,Bogotá,Técnico,Logística,Sí,1,9,Industria manufacturera,1,Obra o labor,Sí,1559000,SIMULADO
+P0813,2025,8,24,Hombre,Barranquilla,Universitario,Administración,No,3,5,Comercio,0,,,,SIMULADO
+P0814,2025,2,27,Mujer,Bogotá,Técnico,Contabilidad y finanzas,Sí,2,4,Construcción,1,Indefinido,Sí,1886000,SIMULADO
+P0815,2025,8,23,Hombre,Cartagena,Bachiller,Ninguna,No,1,7,Salud,0,,,,SIMULADO
+P0816,2025,10,28,Mujer,Bogotá,Tecnólogo,Logística,Sí,2,3,Educación,1,Sin contrato,No,1776000,SIMULADO
+P0817,2025,2,24,Hombre,Medellín,Universitario,Contaduría,No,2,1,Atención al cliente / call center,1,Término fijo,Sí,2219000,SIMULADO
+P0818,2025,10,27,Hombre,Manizales,Universitario,Educación,No,,4,Hotelería y restaurantes,1,Término fijo,Sí,2443000,SIMULADO
+P0819,2025,10,20,Mujer,Medellín,Técnico,Mecánica y electricidad,Sí,1,12,Atención al cliente / call center,1,Término fijo,Sí,1274000,SIMULADO
+P0820,2025,1,21,Mujer,Bogotá,Universitario,Administración,No,1,6,Atención al cliente / call center,1,Obra o labor,Sí,2552000,SIMULADO
+P0821,2025,1,27,Hombre,Bogotá,Bachiller,Ninguna,No,0,1,Tecnología,0,,,,SIMULADO
+P0822,2025,8,21,Mujer,Ibagué,Tecnólogo,Mecánica y electricidad,Sí,2,1,Construcción,1,Sin contrato,No,1291000,SIMULADO
+P0823,2025,4,23,Hombre,Ibagué,Bachiller,Ninguna,No,2,3,Construcción,1,Término fijo,Sí,1597000,SIMULADO
+P0824,2025,12,25,Mujer,Medellín,Bachiller,Ninguna,Sí,0,4,Industria manufacturera,1,Término fijo,Sí,1389000,SIMULADO
+P0825,2025,12,23,Hombre,Pereira,Técnico,Mecánica y electricidad,No,2,3,Logística y transporte,1,Obra o labor,Sí,1833000,SIMULADO
+P0826,2025,7,26,Hombre,Bogotá,Universitario,Comunicación,Sí,1,10,Atención al cliente / call center,1,Indefinido,Sí,3063000,SIMULADO
+P0827,2025,8,23,Mujer,Manizales,Universitario,Comunicación,No,0,5,Educación,1,Término fijo,Sí,2592000,SIMULADO
+P0828,2025,6,28,Hombre,Pasto,Bachiller,Ninguna,No,2,3,Construcción,0,,,,SIMULADO
+P0829,2025,3,22,Mujer,Medellín,Técnico,Sistemas e informática,Sí,1,3,Logística y transporte,1,Término fijo,Sí,1701000,SIMULADO
+P0830,2025,12,22,Hombre,Cali,Técnico,Mecánica y electricidad,Sí,1,4,Salud,1,Obra o labor,Sí,1393000,SIMULADO
+P0831,2025,9,27,Hombre,Medellín,Técnico,Contabilidad y finanzas,No,2,8,Tecnología,1,Obra o labor,Sí,1914000,SIMULADO
+P0832,2025,9,19,Hombre,Bogotá,Bachiller,Ninguna,No,,1,Comercio,0,,,,SIMULADO
+P0833,2025,5,23,Mujer,Pereira,Técnico,Salud,Sí,1,9,Salud,1,Término fijo,Sí,1854000,SIMULADO
+P0834,2025,9,21,Hombre,Cali,Bachiller,Ninguna,No,1,4,Servicios financieros,0,,,,SIMULADO
+P0835,2025,3,21,Mujer,Barranquilla,Técnico,Ventas y mercadeo,Sí,3,3,Servicios financieros,0,,,,SIMULADO
+P0836,2025,5,25,Mujer,Pereira,Universitario,Administración,Sí,0,4,Logística y transporte,1,Aprendizaje SENA,Sí,933000,SIMULADO
+P0837,2025,8,26,Hombre,Barranquilla,Universitario,Psicología,Sí,2,6,Salud,0,,,,SIMULADO
+P0838,2025,3,25,Hombre,Bogotá,Bachiller,Ninguna,No,1,5,Educación,0,,,,SIMULADO
+P0839,2025,12,23,Hombre,Bogotá,Tecnólogo,Contabilidad y finanzas,No,0,7,Atención al cliente / call center,1,Término fijo,Sí,1683000,SIMULADO
+P0840,2025,2,21,Hombre,Medellín,Bachiller,Ninguna,No,0,1,Educación,0,,,,SIMULADO
+P0841,2025,2,24,Hombre,Ibagué,Bachiller,Ninguna,No,0,6,Atención al cliente / call center,0,,,,SIMULADO
+P0842,2025,3,27,Mujer,Manizales,Bachiller,Ninguna,No,0,6,Comercio,0,,,,SIMULADO
+P0843,2025,7,27,Mujer,Pereira,Bachiller,Ninguna,No,1,2,Hotelería y restaurantes,1,Sin contrato,No,1092000,SIMULADO
+P0844,2025,5,21,Mujer,Bogotá,Tecnólogo,Logística,Sí,0,10,Logística y transporte,1,Prestación de servicios,Sí,1565000,SIMULADO
+P0845,2025,12,20,Mujer,Barranquilla,Bachiller,Ninguna,No,3,13,Comercio,0,,,,SIMULADO
+P0846,2025,8,25,Mujer,Pereira,Bachiller,Ninguna,No,1,4,Logística y transporte,0,,,,SIMULADO
+P0847,2025,9,28,Mujer,Bucaramanga,Bachiller,Ninguna,No,0,4,Comercio,1,Sin contrato,No,1187000,SIMULADO
+P0848,2025,9,25,Hombre,Cali,Bachiller,Ninguna,No,0,1,Industria manufacturera,0,,,,SIMULADO
+P0849,2025,9,23,Mujer,Ibagué,Universitario,Educación,No,3,1,Atención al cliente / call center,1,Obra o labor,Sí,2048000,SIMULADO
+P0850,2025,11,25,Hombre,Bogotá,Bachiller,Ninguna,No,2,0,Comercio,0,,,,SIMULADO
+P0851,2025,2,24,Hombre,Manizales,Universitario,Contaduría,No,4,2,Educación,1,Obra o labor,Sí,2167000,SIMULADO
+P0852,2025,7,21,Mujer,Cali,Universitario,Administración,Sí,1,5,Hotelería y restaurantes,1,Término fijo,Sí,2210000,SIMULADO
+P0853,2025,3,22,Hombre,Bogotá,Bachiller,Ninguna,No,0,4,Servicios financieros,0,,,,SIMULADO
+P0854,2025,12,28,Hombre,Bogotá,Universitario,Contaduría,Sí,2,8,Servicios financieros,0,,,,SIMULADO
+P0855,2025,1,28,Mujer,Bogotá,Tecnólogo,Gestión administrativa,Sí,0,1,Industria manufacturera,1,Término fijo,Sí,2187000,SIMULADO
+P0856,2025,3,27,Hombre,Bogotá,Tecnólogo,Logística,No,2,3,Logística y transporte,1,Sin contrato,No,1008000,SIMULADO
+P0857,2025,8,28,Hombre,Bogotá,Universitario,Ingeniería,No,0,0,Logística y transporte,0,,,,SIMULADO
+P0858,2025,6,28,Hombre,Bucaramanga,Bachiller,Ninguna,No,1,3,Educación,0,,,,SIMULADO
+P0859,2025,10,18,Hombre,Bogotá,Tecnólogo,Mecánica y electricidad,No,1,1,Salud,1,Prestación de servicios,Sí,1857000,SIMULADO
+P0860,2025,1,24,Hombre,Medellín,Bachiller,Ninguna,No,3,5,Servicios financieros,1,Término fijo,Sí,1603000,SIMULADO
+P0861,2025,5,25,Mujer,Bogotá,Universitario,Contaduría,Sí,2,4,Comercio,1,Prestación de servicios,Sí,2151000,SIMULADO
+P0862,2025,6,21,Hombre,Pereira,Bachiller,Ninguna,No,0,0,Hotelería y restaurantes,0,,,,SIMULADO
+P0863,2025,10,20,Mujer,Bucaramanga,Bachiller,Ninguna,No,3,2,Educación,0,,,,SIMULADO
+P0864,2025,12,23,Mujer,Medellín,Tecnólogo,Gestión administrativa,No,,4,Industria manufacturera,1,Término fijo,Sí,1560000,SIMULADO
+P0865,2025,6,26,Mujer,Manizales,Tecnólogo,Sistemas e informática,Sí,2,1,Industria manufacturera,1,Obra o labor,Sí,1507000,SIMULADO
+P0866,2025,7,18,Hombre,Cali,Bachiller,Ninguna,No,2,12,Hotelería y restaurantes,1,Sin contrato,No,1294000,SIMULADO
+P0867,2025,5,26,Mujer,Cali,Bachiller,,No,1,4,Salud,1,Obra o labor,Sí,2033000,SIMULADO
+P0868,2025,4,21,Mujer,Barranquilla,Técnico,Ventas y mercadeo,Sí,,13,Construcción,1,Prestación de servicios,Sí,1959000,SIMULADO
+P0869,2025,4,28,Hombre,Bucaramanga,Técnico,Contabilidad y finanzas,Sí,1,0,Construcción,1,Sin contrato,No,909000,SIMULADO
+P0870,2025,11,19,Hombre,Cali,Bachiller,Ninguna,No,1,4,Educación,1,Sin contrato,No,1165000,SIMULADO
+P0871,2025,12,21,Mujer,Pereira,Bachiller,Ninguna,No,0,13,Industria manufacturera,0,,,,SIMULADO
+P0872,2025,4,28,Mujer,Bogotá,Técnico,Salud,No,0,11,Hotelería y restaurantes,1,Sin contrato,No,1473000,SIMULADO
+P0873,2025,6,27,Hombre,Bogotá,Bachiller,Ninguna,No,0,7,Industria manufacturera,1,Sin contrato,No,1405000,SIMULADO
+P0874,2025,3,18,Mujer,Barranquilla,Técnico,Ventas y mercadeo,Sí,1,2,Educación,0,,,,SIMULADO
+P0875,2025,3,18,Hombre,Bogotá,Bachiller,Ninguna,No,0,4,Tecnología,1,Sin contrato,No,1364000,SIMULADO
+P0876,2025,5,20,Mujer,Medellín,Técnico,Contabilidad y finanzas,No,1,,Comercio,1,Prestación de servicios,Sí,1289000,SIMULADO
+P0877,2025,11,22,Hombre,Manizales,Bachiller,Ninguna,No,2,3,Logística y transporte,1,Sin contrato,No,1163000,SIMULADO
+P0878,2025,5,25,Mujer,Medellín,Bachiller,Ninguna,No,0,2,Salud,1,Obra o labor,Sí,1370000,SIMULADO
+P0879,2025,9,22,Mujer,Bogotá,Bachiller,Ninguna,No,0,5,Servicios financieros,0,,,,SIMULADO
+P0880,2025,11,27,Mujer,Bucaramanga,Universitario,Comunicación,No,0,7,Industria manufacturera,0,,,,SIMULADO
+P0881,2025,9,25,Hombre,Bogotá,Bachiller,Ninguna,No,2,2,Servicios financieros,0,,,,SIMULADO
+P0882,2025,12,26,Mujer,Medellín,Universitario,Ingeniería,No,4,8,Hotelería y restaurantes,1,Sin contrato,No,1771000,SIMULADO
+P0883,2025,2,20,Mujer,Cartagena,Bachiller,Ninguna,No,3,1,Comercio,1,Indefinido,Sí,1200000,SIMULADO
+P0884,2025,5,21,Mujer,Bogotá,Bachiller,Ninguna,No,4,3,Hotelería y restaurantes,0,,,,SIMULADO
+P0885,2025,3,22,Mujer,Cali,Bachiller,Ninguna,No,0,6,Salud,0,,,,SIMULADO
+P0886,2025,5,27,Hombre,Barranquilla,Técnico,Logística,Sí,2,2,Salud,1,Prestación de servicios,Sí,1974000,SIMULADO
+P0887,2025,1,25,Mujer,Bogotá,Bachiller,Ninguna,No,0,6,Salud,0,,,,SIMULADO
+P0888,2025,2,25,Mujer,Bogotá,Bachiller,Ninguna,No,2,13,Salud,0,,,,SIMULADO
+P0889,2025,3,23,Mujer,Medellín,Bachiller,Ninguna,No,1,2,Logística y transporte,0,,,,SIMULADO
+P0890,2025,11,24,Mujer,Cartagena,Universitario,Educación,No,2,7,Hotelería y restaurantes,0,,,,SIMULADO
+P0891,2025,9,25,Hombre,Medellín,Técnico,Contabilidad y finanzas,No,,13,Educación,0,,,,SIMULADO
+P0892,2025,12,23,Hombre,Cali,Universitario,Educación,Sí,1,5,Educación,1,Sin contrato,No,1912000,SIMULADO
+P0893,2025,5,28,Mujer,Bogotá,Universitario,Ingeniería,Sí,2,7,Atención al cliente / call center,0,,,,SIMULADO
+P0894,2025,11,18,Mujer,Medellín,Bachiller,Ninguna,No,1,,Industria manufacturera,0,,,,SIMULADO
+P0895,2025,1,18,Hombre,Bogotá,Tecnólogo,Contabilidad y finanzas,No,1,9,Educación,0,,,,SIMULADO
+P0896,2025,7,28,Hombre,Cali,Bachiller,Ninguna,No,2,5,Hotelería y restaurantes,0,,,,SIMULADO
+P0897,2025,5,23,Mujer,Medellín,Universitario,Ingeniería,Sí,1,4,Servicios financieros,1,Obra o labor,Sí,2292000,SIMULADO
+P0898,2025,10,21,Mujer,Cali,Bachiller,Ninguna,No,1,19,Industria manufacturera,1,Sin contrato,No,858000,SIMULADO
+P0899,2025,8,21,Mujer,Pasto,Técnico,Sistemas e informática,Sí,2,1,Construcción,1,Término fijo,Sí,1373000,SIMULADO
+P0900,2025,11,25,Hombre,Bucaramanga,Técnico,Sistemas e informática,Sí,2,4,Atención al cliente / call center,1,Término fijo,Sí,1448000,SIMULADO
+P0901,2025,5,21,Mujer,Barranquilla,Técnico,Salud,Sí,1,8,Tecnología,1,Obra o labor,Sí,1744000,SIMULADO
+P0902,2025,1,28,Hombre,Pasto,Bachiller,Ninguna,No,1,3,Salud,1,Indefinido,Sí,1337000,SIMULADO
+P0903,2025,12,25,Mujer,Medellín,Técnico,Ventas y mercadeo,Sí,2,10,Atención al cliente / call center,0,,,,SIMULADO
+P0904,2025,6,28,Hombre,Bogotá,Bachiller,Ninguna,No,1,2,Tecnología,0,,,,SIMULADO
+P0905,2025,4,21,Hombre,Bogotá,Bachiller,Ninguna,No,1,2,Hotelería y restaurantes,1,Obra o labor,Sí,1858000,SIMULADO
+P0906,2025,5,28,Mujer,Cali,Universitario,Salud,No,1,6,Logística y transporte,0,,,,SIMULADO
+P0907,2025,3,19,Hombre,Cartagena,Técnico,Ventas y mercadeo,Sí,0,0,Industria manufacturera,1,Indefinido,Sí,1541000,SIMULADO
+P0908,2025,8,26,Hombre,Bogotá,Técnico,Mecánica y electricidad,Sí,4,6,Hotelería y restaurantes,1,Indefinido,Sí,2225000,SIMULADO
+P0909,2025,5,26,Hombre,Cali,Bachiller,Ninguna,No,1,4,Comercio,0,,,,SIMULADO
+P0910,2025,11,28,Mujer,Bogotá,Bachiller,Ninguna,No,1,14,Construcción,0,,,,SIMULADO
+P0911,2025,12,28,Hombre,Medellín,Universitario,Administración,Sí,1,8,Comercio,1,Obra o labor,Sí,1900000,SIMULADO
+P0912,2025,4,26,Hombre,Medellín,Tecnólogo,Logística,Sí,0,6,Comercio,1,Indefinido,Sí,2030000,SIMULADO
+P0913,2025,4,24,Hombre,Medellín,Bachiller,Ninguna,No,3,4,Logística y transporte,1,Sin contrato,No,835000,SIMULADO
+P0914,2025,12,28,Hombre,Bogotá,Universitario,Comunicación,Sí,1,7,Comercio,0,,,,SIMULADO
+P0915,2025,2,20,Hombre,Pereira,Bachiller,Ninguna,No,3,1,Atención al cliente / call center,1,Sin contrato,No,990000,SIMULADO
+P0916,2025,3,25,Hombre,Barranquilla,Bachiller,Ninguna,No,1,11,Educación,0,,,,SIMULADO
+P0917,2025,2,23,Mujer,Bucaramanga,Universitario,Derecho,No,1,1,Servicios financieros,0,,,,SIMULADO
+P0918,2025,2,24,Mujer,Cali,Universitario,Administración,No,2,7,Atención al cliente / call center,1,Prestación de servicios,Sí,1933000,SIMULADO
+P0919,2025,3,21,Mujer,Bogotá,Tecnólogo,Gestión administrativa,Sí,4,1,Atención al cliente / call center,1,Aprendizaje SENA,Sí,1504000,SIMULADO
+P0920,2025,6,25,Mujer,Medellín,Bachiller,Ninguna,No,2,7,Atención al cliente / call center,0,,,,SIMULADO
+P0921,2025,1,23,Mujer,Bucaramanga,Bachiller,Ninguna,No,0,4,Salud,0,,,,SIMULADO
+P0922,2025,7,28,Mujer,Bogotá,Universitario,Educación,No,3,,Industria manufacturera,1,Prestación de servicios,Sí,2582000,SIMULADO
+P0923,2025,5,24,Hombre,Bogotá,Bachiller,Ninguna,No,0,4,Tecnología,0,,,,SIMULADO
+P0924,2025,5,19,Mujer,Cartagena,Bachiller,Ninguna,No,2,1,Salud,1,Obra o labor,Sí,1176000,SIMULADO
+P0925,2025,11,26,Hombre,Medellín,Técnico,Mecánica y electricidad,Sí,1,6,Salud,0,,,,SIMULADO
+P0926,2025,8,28,Hombre,Cali,Universitario,Administración,No,2,6,Logística y transporte,1,Aprendizaje SENA,Sí,1011000,SIMULADO
+P0927,2025,6,22,Mujer,Cali,Universitario,Psicología,No,2,11,Logística y transporte,1,Prestación de servicios,Sí,2131000,SIMULADO
+P0928,2025,8,20,Hombre,Bogotá,Técnico,Salud,No,0,5,Hotelería y restaurantes,1,Sin contrato,No,1240000,SIMULADO
+P0929,2025,8,27,Hombre,Bogotá,Técnico,Salud,Sí,1,3,Atención al cliente / call center,1,Indefinido,Sí,1639000,SIMULADO
+P0930,2025,9,18,Mujer,Bogotá,Bachiller,Ninguna,No,2,4,Industria manufacturera,1,Sin contrato,No,1539000,SIMULADO
+P0931,2025,10,24,Hombre,Manizales,Universitario,Comunicación,No,1,6,Logística y transporte,0,,,,SIMULADO
+P0932,2025,3,23,Mujer,Cali,Universitario,Derecho,Sí,3,11,Industria manufacturera,1,Indefinido,Sí,2321000,SIMULADO
+P0933,2025,1,25,Mujer,Medellín,Tecnólogo,Logística,Sí,2,6,Salud,1,Sin contrato,No,1151000,SIMULADO
+P0934,2025,11,22,Mujer,Medellín,Bachiller,Ninguna,No,1,6,Salud,1,Término fijo,Sí,1485000,SIMULADO
+P0935,2025,1,26,Mujer,Bucaramanga,Bachiller,Ninguna,Sí,1,7,Logística y transporte,1,Sin contrato,No,981000,SIMULADO
+P0936,2025,5,26,Mujer,Pereira,Bachiller,Ninguna,No,0,8,Construcción,1,Término fijo,Sí,1318000,SIMULADO
+P0937,2025,2,28,Mujer,Bucaramanga,Bachiller,Ninguna,No,0,7,Educación,1,Obra o labor,Sí,1740000,SIMULADO
+P0938,2025,10,28,Hombre,Bogotá,Bachiller,Ninguna,No,0,5,Salud,0,,,,SIMULADO
+P0939,2025,11,21,Hombre,Barranquilla,Universitario,Salud,No,1,7,Industria manufacturera,1,Sin contrato,No,2095000,SIMULADO
+P0940,2025,6,26,Hombre,Cali,Bachiller,Ninguna,No,0,10,Construcción,0,,,,SIMULADO
+P0941,2025,7,19,Hombre,Medellín,Técnico,Contabilidad y finanzas,No,1,,Salud,1,Prestación de servicios,Sí,1398000,SIMULADO
+P0942,2025,11,24,Mujer,Bogotá,Universitario,Administración,Sí,0,5,Atención al cliente / call center,0,,,,SIMULADO
+P0943,2025,10,27,Mujer,Bogotá,Tecnólogo,Logística,No,1,4,Servicios financieros,1,Aprendizaje SENA,Sí,1224000,SIMULADO
+P0944,2025,12,28,Hombre,Bogotá,Universitario,Comunicación,Sí,3,1,Construcción,1,Término fijo,Sí,2479000,SIMULADO
+P0945,2025,10,28,Mujer,Barranquilla,Universitario,Psicología,Sí,0,8,Hotelería y restaurantes,0,,,,SIMULADO
+P0946,2025,11,21,Hombre,Bogotá,Técnico,Contabilidad y finanzas,No,0,4,Salud,1,Aprendizaje SENA,Sí,1471000,SIMULADO
+P0947,2025,6,18,Mujer,Bucaramanga,Bachiller,Ninguna,No,1,2,Salud,0,,,,SIMULADO
+P0948,2025,11,23,Mujer,Cali,Universitario,Educación,Sí,1,4,Educación,1,Indefinido,Sí,2478000,SIMULADO
+P0949,2025,4,23,Hombre,Medellín,Técnico,Mecánica y electricidad,No,0,2,Hotelería y restaurantes,0,,,,SIMULADO
+P0950,2025,3,28,Mujer,Bogotá,Universitario,Comunicación,No,0,4,Tecnología,1,Aprendizaje SENA,Sí,1342000,SIMULADO
+P0951,2025,5,21,Mujer,Barranquilla,Universitario,Comunicación,Sí,1,1,Educación,0,,,,SIMULADO
+P0952,2025,11,26,Mujer,Medellín,Bachiller,Ninguna,No,1,1,Salud,1,Término fijo,Sí,1501000,SIMULADO
+P0953,2025,6,24,Mujer,Medellín,Bachiller,Ninguna,No,1,2,Construcción,0,,,,SIMULADO
+P0954,2025,5,27,Mujer,Cartagena,Bachiller,Ninguna,Sí,1,1,Hotelería y restaurantes,0,,,,SIMULADO
+P0955,2025,5,25,Mujer,Manizales,Técnico,Ventas y mercadeo,No,2,2,Tecnología,0,,,,SIMULADO
+P0956,2025,4,27,Mujer,Bogotá,Universitario,Ingeniería,No,0,9,Educación,0,,,,SIMULADO
+P0957,2025,12,21,Hombre,Bogotá,Tecnólogo,Sistemas e informática,No,0,9,Construcción,1,Obra o labor,Sí,1687000,SIMULADO
+P0958,2025,1,23,Mujer,Barranquilla,Bachiller,Ninguna,No,1,0,Logística y transporte,1,Sin contrato,No,1093000,SIMULADO
+P0959,2025,3,27,Hombre,Bogotá,Técnico,Ventas y mercadeo,Sí,1,11,Logística y transporte,1,Indefinido,Sí,1510000,SIMULADO
+P0960,2025,4,19,Hombre,Manizales,Tecnólogo,Gestión administrativa,Sí,1,3,Atención al cliente / call center,1,Aprendizaje SENA,Sí,1024000,SIMULADO
+P0961,2025,1,21,Mujer,Barranquilla,Tecnólogo,Sistemas e informática,Sí,1,0,Servicios financieros,1,Término fijo,Sí,1652000,SIMULADO
+P0962,2025,9,23,Mujer,Cali,Universitario,Contaduría,Sí,1,4,Atención al cliente / call center,0,,,,SIMULADO
+P0963,2025,10,26,Mujer,Barranquilla,Bachiller,Ninguna,No,0,10,Logística y transporte,1,Indefinido,Sí,1092000,SIMULADO
+P0964,2025,6,18,Mujer,Manizales,Bachiller,Ninguna,Sí,1,2,Hotelería y restaurantes,0,,,,SIMULADO
+P0965,2025,11,28,Hombre,Bogotá,Universitario,Educación,No,1,14,Comercio,1,Obra o labor,Sí,2326000,SIMULADO
+P0966,2025,4,23,Mujer,Ibagué,Tecnólogo,Contabilidad y finanzas,No,0,7,Industria manufacturera,0,,,,SIMULADO
+P0967,2025,2,24,Hombre,Cali,Bachiller,Ninguna,No,0,13,Construcción,1,Aprendizaje SENA,Sí,1194000,SIMULADO
+P0968,2025,4,20,Hombre,Cali,Bachiller,Ninguna,No,0,3,Logística y transporte,1,Sin contrato,No,1044000,SIMULADO
+P0969,2025,2,27,Hombre,Cali,Técnico,Sistemas e informática,No,1,9,Logística y transporte,0,,,,SIMULADO
+P0970,2025,4,22,Mujer,Bogotá,Bachiller,Ninguna,Sí,0,4,Logística y transporte,0,,,,SIMULADO
+P0971,2025,10,20,Hombre,Bogotá,Técnico,Sistemas e informática,Sí,0,3,Educación,0,,,,SIMULADO
+P0972,2025,11,22,Mujer,Manizales,Universitario,Psicología,No,2,4,Construcción,0,,,,SIMULADO
+P0973,2025,2,24,Hombre,Bogotá,Técnico,Ventas y mercadeo,No,1,9,Industria manufacturera,1,Término fijo,Sí,1628000,SIMULADO
+P0974,2025,12,25,Mujer,Medellín,Técnico,Salud,Sí,1,2,Construcción,1,Término fijo,Sí,1988000,SIMULADO
+P0975,2025,6,22,Hombre,Pereira,Técnico,Logística,No,3,2,Industria manufacturera,0,,,,SIMULADO
+P0976,2025,2,18,Mujer,Pereira,Técnico,Logística,No,0,7,Tecnología,1,Obra o labor,Sí,1955000,SIMULADO
+P0977,2025,1,26,Hombre,Bogotá,Técnico,Salud,Sí,0,3,Logística y transporte,0,,,,SIMULADO
+P0978,2025,3,27,Mujer,Pereira,Técnico,Salud,No,1,3,Hotelería y restaurantes,1,Prestación de servicios,Sí,1742000,SIMULADO
+P0979,2025,6,19,Mujer,Bogotá,Bachiller,Ninguna,No,1,2,Educación,0,,,,SIMULADO
+P0980,2025,7,28,Mujer,Bucaramanga,Universitario,Administración,Sí,0,3,Atención al cliente / call center,1,Sin contrato,No,1174000,SIMULADO
+P0981,2025,10,22,Mujer,Cali,Bachiller,Ninguna,No,3,0,Comercio,1,Sin contrato,No,1156000,SIMULADO
+P0982,2025,8,26,Hombre,Cartagena,Tecnólogo,Gestión administrativa,Sí,0,2,Educación,1,Aprendizaje SENA,Sí,1009000,SIMULADO
+P0983,2025,10,20,Hombre,Cali,Bachiller,Ninguna,No,2,2,Tecnología,0,,,,SIMULADO
+P0984,2025,6,26,Hombre,Manizales,Universitario,Comunicación,Sí,3,6,Atención al cliente / call center,0,,,,SIMULADO
+P0985,2025,2,25,Hombre,Cartagena,Universitario,Ingeniería,Sí,,7,Educación,1,Término fijo,Sí,2171000,SIMULADO
+P0986,2025,6,27,Hombre,Cali,Bachiller,Ninguna,No,0,4,Hotelería y restaurantes,0,,,,SIMULADO
+P0987,2025,7,23,Mujer,Bogotá,Bachiller,Ninguna,No,1,4,Atención al cliente / call center,1,Sin contrato,No,1211000,SIMULADO
+P0988,2025,9,19,Hombre,Barranquilla,Técnico,,Sí,0,6,Servicios financieros,1,Indefinido,Sí,1738000,SIMULADO
+P0989,2025,1,21,Hombre,Ibagué,Tecnólogo,Mecánica y electricidad,Sí,2,4,Construcción,0,,,,SIMULADO
+P0990,2025,1,27,Mujer,Barranquilla,Universitario,Salud,Sí,3,4,Servicios financieros,1,Sin contrato,No,1692000,SIMULADO
+P0991,2025,11,24,Hombre,Medellín,Tecnólogo,Contabilidad y finanzas,No,0,6,Tecnología,1,Prestación de servicios,Sí,2141000,SIMULADO
+P0992,2025,3,28,Hombre,Bogotá,Bachiller,Ninguna,No,0,8,Servicios financieros,1,Término fijo,Sí,1256000,SIMULADO
+P0993,2025,11,22,Hombre,Barranquilla,Universitario,Derecho,Sí,0,1,Industria manufacturera,0,,,,SIMULADO
+P0994,2025,2,27,Hombre,Cali,Universitario,Comunicación,Sí,1,6,Servicios financieros,1,Prestación de servicios,Sí,1996000,SIMULADO
+P0995,2025,11,27,Mujer,Manizales,Universitario,Comunicación,No,1,13,Tecnología,1,Sin contrato,No,1480000,SIMULADO
+P0996,2025,11,23,Hombre,Bogotá,Universitario,Comunicación,Sí,2,0,Construcción,1,Término fijo,Sí,3138000,SIMULADO
+P0997,2025,3,19,Mujer,Barranquilla,Técnico,Sistemas e informática,No,,0,Comercio,1,Prestación de servicios,Sí,1821000,SIMULADO
+P0998,2025,4,19,Mujer,Ibagué,Bachiller,Ninguna,No,1,9,Logística y transporte,1,Obra o labor,Sí,1459000,SIMULADO
+P0999,2025,7,19,Hombre,Cali,Bachiller,Ninguna,No,1,7,Construcción,1,Obra o labor,Sí,1476000,SIMULADO
+P1000,2025,9,28,Hombre,Barranquilla,Universitario,Derecho,No,2,3,Atención al cliente / call center,1,Prestación de servicios,Sí,2444000,SIMULADO
+P1001,2025,9,28,Hombre,Bogotá,Técnico,Logística,No,1,8,Industria manufacturera,1,Sin contrato,No,1441000,SIMULADO
+P1002,2025,3,21,Mujer,Cartagena,Bachiller,Ninguna,No,3,9,Industria manufacturera,0,,,,SIMULADO
+P1003,2025,8,26,Hombre,Bogotá,Universitario,Psicología,Sí,0,3,Educación,1,Término fijo,Sí,2189000,SIMULADO
+P1004,2025,1,28,Hombre,Bucaramanga,Bachiller,Ninguna,No,1,4,Atención al cliente / call center,1,Término fijo,Sí,1479000,SIMULADO
+P1005,2025,4,20,Hombre,Bucaramanga,Técnico,Logística,Sí,1,2,Logística y transporte,1,Aprendizaje SENA,Sí,1409000,SIMULADO
+P1006,2025,6,28,Mujer,Bogotá,Tecnólogo,Logística,No,1,7,Educación,1,Término fijo,Sí,1931000,SIMULADO
+P1007,2025,12,25,Hombre,Cartagena,Bachiller,Ninguna,No,2,2,Logística y transporte,1,Sin contrato,No,829000,SIMULADO
+P1008,2025,9,28,Hombre,Barranquilla,Tecnólogo,Gestión administrativa,Sí,1,9,Servicios financieros,1,Obra o labor,Sí,1966000,SIMULADO
+P1009,2025,1,21,Mujer,Pasto,Tecnólogo,Gestión administrativa,No,0,0,Comercio,1,Término fijo,Sí,1447000,SIMULADO
+P1010,2025,3,26,Hombre,Cali,Bachiller,Ninguna,No,1,4,Salud,0,,,,SIMULADO
+P1011,2025,7,21,Hombre,Bogotá,Técnico,Mecánica y electricidad,Sí,0,10,Atención al cliente / call center,0,,,,SIMULADO
+P1012,2025,3,21,Hombre,Ibagué,Bachiller,Ninguna,No,2,7,Servicios financieros,0,,,,SIMULADO
+P1013,2025,12,26,Mujer,Bogotá,Universitario,Educación,No,0,1,Salud,0,,,,SIMULADO
+P1014,2025,9,25,Hombre,Medellín,Bachiller,Ninguna,No,0,0,Industria manufacturera,0,,,,SIMULADO
+P1015,2025,4,24,Hombre,Bogotá,Universitario,Psicología,No,2,17,Logística y transporte,0,,,,SIMULADO
+P1016,2025,9,26,Hombre,Cali,Técnico,Mecánica y electricidad,Sí,1,7,Salud,0,,,,SIMULADO
+P1017,2025,5,21,Hombre,Medellín,Técnico,Sistemas e informática,Sí,1,4,Construcción,0,,,,SIMULADO
+P1018,2025,9,28,Hombre,Barranquilla,Universitario,Salud,No,0,6,Educación,0,,,,SIMULADO
+P1019,2025,12,19,Hombre,Pasto,Bachiller,Ninguna,No,2,2,Hotelería y restaurantes,1,Obra o labor,Sí,1435000,SIMULADO
+P1020,2025,5,22,Hombre,Bucaramanga,Bachiller,,No,0,5,Salud,0,,,,SIMULADO
+P1021,2025,3,26,Mujer,Manizales,Universitario,Contaduría,No,1,0,Atención al cliente / call center,0,,,,SIMULADO
+P1022,2025,6,18,Hombre,Cali,Técnico,Contabilidad y finanzas,No,0,1,Hotelería y restaurantes,1,Término fijo,Sí,1584000,SIMULADO
+P1023,2025,12,21,Mujer,Ibagué,Universitario,Educación,No,0,3,Servicios financieros,1,Aprendizaje SENA,Sí,1010000,SIMULADO
+P1024,2025,6,28,Hombre,Pereira,Universitario,Derecho,No,1,2,Hotelería y restaurantes,1,Prestación de servicios,Sí,2380000,SIMULADO
+P1025,2025,11,24,Mujer,Bogotá,Técnico,Sistemas e informática,Sí,2,4,Salud,1,Prestación de servicios,Sí,2146000,SIMULADO
+P1026,2025,11,22,Hombre,Bogotá,Técnico,Logística,Sí,1,2,Industria manufacturera,0,,,,SIMULADO
+P1027,2025,10,28,Mujer,Cartagena,Técnico,Logística,Sí,1,3,Servicios financieros,1,Sin contrato,No,1338000,SIMULADO
+P1028,2025,1,22,Hombre,Bogotá,Técnico,Sistemas e informática,Sí,1,5,Servicios financieros,1,Obra o labor,Sí,1923000,SIMULADO
+P1029,2025,11,21,Hombre,Bogotá,Técnico,Logística,Sí,0,1,Hotelería y restaurantes,1,Obra o labor,Sí,2074000,SIMULADO
+P1030,2025,3,27,Hombre,Bogotá,Bachiller,Ninguna,No,0,8,Salud,1,Obra o labor,Sí,1500000,SIMULADO
+P1031,2025,7,24,Mujer,Barranquilla,Universitario,Administración,Sí,2,7,Comercio,1,Obra o labor,Sí,1734000,SIMULADO
+P1032,2025,7,28,Mujer,Bogotá,Universitario,Salud,Sí,2,9,Educación,0,,,,SIMULADO
+P1033,2025,7,24,Hombre,Cali,Técnico,Contabilidad y finanzas,Sí,0,3,Tecnología,1,Indefinido,Sí,1809000,SIMULADO
+P1034,2025,9,19,Hombre,Pasto,Tecnólogo,Sistemas e informática,Sí,0,6,Atención al cliente / call center,1,Obra o labor,Sí,2362000,SIMULADO
+P1035,2025,3,21,Mujer,Bucaramanga,Tecnólogo,Sistemas e informática,Sí,3,8,Industria manufacturera,1,Término fijo,Sí,1617000,SIMULADO
+P1036,2025,4,23,Hombre,Bucaramanga,Universitario,Psicología,Sí,1,12,Comercio,0,,,,SIMULADO
+P1037,2025,7,27,Mujer,Pereira,Tecnólogo,Logística,Sí,0,3,Servicios financieros,1,Aprendizaje SENA,Sí,1197000,SIMULADO
+P1038,2025,4,24,Mujer,Pasto,Bachiller,Ninguna,No,1,16,Hotelería y restaurantes,0,,,,SIMULADO
+P1039,2025,10,18,Mujer,Barranquilla,Técnico,Mecánica y electricidad,Sí,3,4,Servicios financieros,1,Obra o labor,Sí,1686000,SIMULADO
+P1040,2025,12,21,Hombre,Bogotá,Bachiller,Ninguna,No,1,0,Construcción,1,Obra o labor,Sí,1527000,SIMULADO
+P1041,2025,6,25,Mujer,Bogotá,Tecnólogo,Gestión administrativa,No,2,7,Educación,0,,,,SIMULADO
+P1042,2025,7,21,Mujer,Bogotá,Universitario,Administración,No,0,1,Tecnología,0,,,,SIMULADO
+P1043,2025,3,24,Mujer,Medellín,Técnico,Sistemas e informática,Sí,1,11,Servicios financieros,1,Término fijo,Sí,1809000,SIMULADO
+P1044,2025,5,18,Hombre,Manizales,Tecnólogo,Sistemas e informática,Sí,2,7,Atención al cliente / call center,1,Obra o labor,Sí,1450000,SIMULADO
+P1045,2025,2,20,Hombre,Pasto,Tecnólogo,Mecánica y electricidad,No,0,1,Servicios financieros,0,,,,SIMULADO
+P1046,2025,4,22,Hombre,Bogotá,Técnico,Mecánica y electricidad,No,1,2,Industria manufacturera,0,,,,SIMULADO
+P1047,2025,9,25,Hombre,Manizales,Bachiller,Ninguna,No,2,1,Tecnología,1,Prestación de servicios,Sí,1993000,SIMULADO
+P1048,2025,10,25,Hombre,Ibagué,Bachiller,Ninguna,No,3,4,Tecnología,1,Prestación de servicios,Sí,1653000,SIMULADO
+P1049,2025,8,23,Hombre,Cartagena,Bachiller,Ninguna,No,0,6,Tecnología,0,,,,SIMULADO
+P1050,2025,2,28,Hombre,Cartagena,Técnico,Mecánica y electricidad,No,2,9,Servicios financieros,1,Obra o labor,Sí,2029000,SIMULADO
+P1051,2025,11,21,Hombre,Cartagena,Bachiller,Ninguna,No,1,2,Hotelería y restaurantes,1,Prestación de servicios,Sí,1578000,SIMULADO
+P1052,2025,12,28,Hombre,Bucaramanga,Técnico,Sistemas e informática,No,0,13,Educación,1,Indefinido,Sí,1538000,SIMULADO
+P1053,2025,7,20,Hombre,Bogotá,Tecnólogo,Contabilidad y finanzas,Sí,1,3,Construcción,1,Prestación de servicios,Sí,1746000,SIMULADO
+P1054,2025,8,19,Hombre,Cartagena,Bachiller,Ninguna,No,4,3,Industria manufacturera,0,,,,SIMULADO
+P1055,2025,6,28,Hombre,Bogotá,Tecnólogo,Mecánica y electricidad,Sí,0,10,Hotelería y restaurantes,1,Sin contrato,No,1394000,SIMULADO
+P1056,2025,6,18,Mujer,Pereira,Bachiller,Ninguna,No,1,7,Logística y transporte,1,Prestación de servicios,Sí,1229000,SIMULADO
+P1057,2025,2,25,Hombre,Bogotá,Universitario,Ingeniería,No,2,3,Educación,1,Aprendizaje SENA,Sí,1334000,SIMULADO
+P1058,2025,12,21,Mujer,Manizales,Técnico,Mecánica y electricidad,No,3,4,Salud,0,,,,SIMULADO
+P1059,2025,12,25,Mujer,Medellín,Técnico,Contabilidad y finanzas,Sí,1,4,Salud,1,Término fijo,Sí,1532000,SIMULADO
+P1060,2025,11,26,Hombre,Cali,Bachiller,Ninguna,No,0,3,Servicios financieros,0,,,,SIMULADO
+P1061,2025,11,22,Mujer,Barranquilla,Bachiller,Ninguna,No,1,9,Tecnología,1,Sin contrato,No,1345000,SIMULADO
+P1062,2025,12,28,Mujer,Medellín,Universitario,Salud,Sí,1,10,Comercio,1,Obra o labor,Sí,1967000,SIMULADO
+P1063,2025,9,25,Hombre,Manizales,Bachiller,Ninguna,No,1,21,Servicios financieros,0,,,,SIMULADO
+P1064,2025,5,21,Mujer,Barranquilla,Técnico,Salud,No,3,6,Comercio,1,Sin contrato,No,1041000,SIMULADO
+P1065,2025,2,28,Hombre,Bogotá,Universitario,Educación,No,1,6,Logística y transporte,0,,,,SIMULADO
+P1066,2025,5,28,Hombre,Bogotá,Universitario,Contaduría,No,1,5,Industria manufacturera,1,Sin contrato,No,1600000,SIMULADO
+P1067,2025,5,25,Hombre,Pereira,Técnico,Ventas y mercadeo,Sí,1,9,Educación,1,Indefinido,Sí,1595000,SIMULADO
+P1068,2025,4,19,Hombre,Bogotá,Tecnólogo,Logística,Sí,2,1,Construcción,0,,,,SIMULADO
+P1069,2025,6,21,Hombre,Barranquilla,Universitario,Educación,No,0,5,Construcción,0,,,,SIMULADO
+P1070,2025,6,19,Hombre,Pereira,Tecnólogo,Gestión administrativa,No,1,6,Hotelería y restaurantes,0,,,,SIMULADO
+P1071,2025,12,20,Hombre,Bogotá,Bachiller,Ninguna,No,2,13,Salud,1,Prestación de servicios,Sí,1682000,SIMULADO
+P1072,2025,9,24,Hombre,Cartagena,Universitario,Psicología,Sí,3,3,Industria manufacturera,0,,,,SIMULADO
+P1073,2025,6,22,Hombre,Cartagena,Técnico,Salud,Sí,1,5,Servicios financieros,1,Término fijo,Sí,1194000,SIMULADO
+P1074,2025,3,28,Mujer,Cali,Bachiller,Ninguna,No,2,1,Comercio,1,Obra o labor,Sí,1706000,SIMULADO
+P1075,2025,4,26,Hombre,Medellín,Bachiller,Ninguna,No,0,4,Comercio,0,,,,SIMULADO
+P1076,2025,8,28,Hombre,Medellín,Tecnólogo,Logística,Sí,1,2,Atención al cliente / call center,1,Aprendizaje SENA,Sí,1132000,SIMULADO
+P1077,2025,4,23,Hombre,Cali,Universitario,Administración,No,1,10,Logística y transporte,1,Indefinido,Sí,1744000,SIMULADO
+P1078,2025,8,25,Hombre,Barranquilla,Bachiller,Ninguna,No,2,4,Comercio,0,,,,SIMULADO
+P1079,2025,1,28,Hombre,Bogotá,Universitario,Comunicación,Sí,4,10,Tecnología,1,Término fijo,Sí,2851000,SIMULADO
+P1080,2025,12,21,Hombre,Cartagena,Universitario,Educación,No,1,,Construcción,1,Prestación de servicios,Sí,2148000,SIMULADO
+P1081,2025,12,24,Hombre,Bogotá,Técnico,Salud,Sí,2,12,Comercio,1,Obra o labor,Sí,1528000,SIMULADO
+P1082,2025,6,24,Mujer,Pereira,Tecnólogo,Logística,Sí,2,4,Salud,1,Término fijo,Sí,1890000,SIMULADO
+P1083,2025,6,27,Mujer,Bucaramanga,Técnico,Ventas y mercadeo,Sí,0,6,Comercio,0,,,,SIMULADO
+P1084,2025,3,27,Hombre,Bucaramanga,Técnico,Salud,Sí,0,1,Hotelería y restaurantes,1,Obra o labor,Sí,1464000,SIMULADO
+P1085,2025,1,28,Mujer,Cali,Técnico,Ventas y mercadeo,Sí,1,4,Educación,1,Sin contrato,No,1774000,SIMULADO
+P1086,2025,1,18,Mujer,Cali,Bachiller,Ninguna,No,0,14,Comercio,1,Sin contrato,No,885000,SIMULADO
+P1087,2025,2,23,Mujer,Medellín,Bachiller,Ninguna,No,1,4,Tecnología,1,Obra o labor,Sí,1548000,SIMULADO
+P1088,2025,7,23,Hombre,Cartagena,Universitario,Ingeniería,No,0,17,Comercio,1,Obra o labor,Sí,2319000,SIMULADO
+P1089,2025,12,24,Hombre,Bogotá,Bachiller,Ninguna,No,1,13,Logística y transporte,1,Obra o labor,Sí,1615000,SIMULADO
+P1090,2025,1,27,Mujer,Medellín,Técnico,Sistemas e informática,No,0,3,Industria manufacturera,1,Término fijo,Sí,1669000,SIMULADO
+P1091,2025,5,26,Mujer,Pereira,Técnico,,Sí,1,14,Atención al cliente / call center,1,Obra o labor,Sí,1731000,SIMULADO
+P1092,2025,11,21,Hombre,Medellín,Universitario,Derecho,No,1,7,Construcción,0,,,,SIMULADO
+P1093,2025,9,21,Mujer,Pasto,Bachiller,Ninguna,No,0,6,Construcción,0,,,,SIMULADO
+P1094,2025,7,20,Hombre,Ibagué,Bachiller,Ninguna,No,1,1,Comercio,1,Sin contrato,No,999000,SIMULADO
+P1095,2025,1,21,Mujer,Bogotá,Bachiller,Ninguna,No,1,2,Logística y transporte,0,,,,SIMULADO
+P1096,2025,4,26,Mujer,Medellín,Tecnólogo,Contabilidad y finanzas,No,1,4,Educación,0,,,,SIMULADO
+P1097,2025,6,25,Hombre,Ibagué,Universitario,Psicología,Sí,0,5,Industria manufacturera,1,Aprendizaje SENA,Sí,1344000,SIMULADO
+P1098,2025,2,21,Hombre,Medellín,Tecnólogo,Gestión administrativa,Sí,2,3,Servicios financieros,1,Aprendizaje SENA,Sí,974000,SIMULADO
+P1099,2025,3,24,Mujer,Bogotá,Técnico,Ventas y mercadeo,Sí,1,13,Industria manufacturera,1,Prestación de servicios,Sí,2044000,SIMULADO
+P1100,2025,4,21,Hombre,Bogotá,Tecnólogo,Mecánica y electricidad,Sí,1,3,Comercio,1,Término fijo,Sí,1951000,SIMULADO
+P1101,2025,10,25,Mujer,Bogotá,Universitario,Administración,Sí,1,6,Industria manufacturera,0,,,,SIMULADO
+P1102,2025,3,19,Hombre,Manizales,Bachiller,Ninguna,No,0,5,Salud,0,,,,SIMULADO
+P1103,2025,10,20,Mujer,Cali,Tecnólogo,Gestión administrativa,No,3,11,Salud,0,,,,SIMULADO
+P1104,2025,11,28,Hombre,Cali,Tecnólogo,Logística,Sí,2,9,Construcción,1,Término fijo,Sí,1385000,SIMULADO
+P1105,2025,3,25,Mujer,Bogotá,Universitario,Comunicación,No,1,6,Atención al cliente / call center,0,,,,SIMULADO
+P1106,2025,1,24,Mujer,Cali,Técnico,Mecánica y electricidad,Sí,1,9,Servicios financieros,1,Término fijo,Sí,1719000,SIMULADO
+P1107,2025,4,21,Mujer,Pasto,Universitario,Salud,No,0,2,Construcción,1,Indefinido,Sí,2226000,SIMULADO
+P1108,2025,3,24,Hombre,Barranquilla,Tecnólogo,Mecánica y electricidad,No,3,7,Tecnología,1,Sin contrato,No,1714000,SIMULADO
+P1109,2025,5,26,Hombre,Cali,Universitario,Contaduría,Sí,0,4,Logística y transporte,0,,,,SIMULADO
+P1110,2025,3,20,Mujer,Bogotá,Técnico,Mecánica y electricidad,Sí,0,,Tecnología,1,Término fijo,Sí,1710000,SIMULADO
+P1111,2025,1,21,Mujer,Pasto,Bachiller,Ninguna,No,2,1,Comercio,1,Sin contrato,No,1376000,SIMULADO
+P1112,2025,3,21,Mujer,Bogotá,Técnico,Logística,No,1,3,Comercio,0,,,,SIMULADO
+P1113,2025,4,26,Hombre,Bogotá,Tecnólogo,Mecánica y electricidad,No,0,5,Industria manufacturera,1,Prestación de servicios,Sí,1707000,SIMULADO
+P1114,2025,8,22,Mujer,Bogotá,Tecnólogo,Logística,Sí,0,3,Salud,1,Término fijo,Sí,1609000,SIMULADO
+P1115,2025,9,28,Hombre,Pereira,Técnico,Ventas y mercadeo,Sí,0,6,Industria manufacturera,1,Término fijo,Sí,1781000,SIMULADO
+P1116,2025,10,18,Mujer,Medellín,Bachiller,Ninguna,No,1,3,Logística y transporte,1,Sin contrato,No,1171000,SIMULADO
+P1117,2025,11,20,Mujer,Cali,Bachiller,Ninguna,No,0,10,Atención al cliente / call center,0,,,,SIMULADO
+P1118,2025,11,27,Hombre,Pasto,Bachiller,Ninguna,No,3,1,Construcción,1,Obra o labor,Sí,1167000,SIMULADO
+P1119,2025,10,27,Mujer,Bucaramanga,Bachiller,Ninguna,No,1,10,Tecnología,0,,,,SIMULADO
+P1120,2025,2,24,Hombre,Medellín,Técnico,Ventas y mercadeo,Sí,2,15,Atención al cliente / call center,1,Obra o labor,Sí,2052000,SIMULADO
+P1121,2025,3,24,Hombre,Bogotá,Bachiller,Ninguna,No,2,11,Salud,1,Prestación de servicios,Sí,1335000,SIMULADO
+P1122,2025,9,21,Mujer,Cali,Técnico,Ventas y mercadeo,Sí,0,3,Construcción,0,,,,SIMULADO
+P1123,2025,1,21,Hombre,Medellín,Universitario,Administración,No,2,7,Construcción,1,Término fijo,Sí,2010000,SIMULADO
+P1124,2025,9,27,Hombre,Medellín,Bachiller,Ninguna,No,2,18,Hotelería y restaurantes,1,Aprendizaje SENA,Sí,1226000,SIMULADO
+P1125,2025,2,24,Hombre,Bucaramanga,Universitario,Derecho,Sí,2,3,Educación,0,,,,SIMULADO
+P1126,2025,6,28,Hombre,Ibagué,Tecnólogo,Gestión administrativa,Sí,2,0,Construcción,0,,,,SIMULADO
+P1127,2025,3,23,Mujer,Bogotá,Universitario,Comunicación,No,0,7,Tecnología,1,Aprendizaje SENA,Sí,1383000,SIMULADO
+P1128,2025,10,18,Mujer,Cartagena,Bachiller,Ninguna,No,1,8,Educación,0,,,,SIMULADO
+P1129,2025,1,20,Hombre,Bogotá,Bachiller,Ninguna,No,1,5,Servicios financieros,1,Sin contrato,No,1252000,SIMULADO
+P1130,2025,8,20,Hombre,Bogotá,Técnico,Logística,Sí,0,1,Atención al cliente / call center,0,,,,SIMULADO
+P1131,2025,3,22,Mujer,Bogotá,Técnico,Contabilidad y finanzas,Sí,5,2,Hotelería y restaurantes,1,Indefinido,Sí,1757000,SIMULADO
+P1132,2025,5,23,Hombre,Bogotá,Universitario,Derecho,No,3,2,Tecnología,1,Indefinido,Sí,3171000,SIMULADO
+P1133,2025,6,18,Mujer,Medellín,Bachiller,Ninguna,No,0,3,Tecnología,1,Obra o labor,Sí,1656000,SIMULADO
+P1134,2025,1,21,Hombre,Bogotá,Bachiller,Ninguna,Sí,0,1,Industria manufacturera,1,Sin contrato,No,909000,SIMULADO
+P1135,2025,12,27,Mujer,Pasto,Universitario,Comunicación,Sí,0,6,Tecnología,0,,,,SIMULADO
+P1136,2025,12,22,Mujer,Bucaramanga,Bachiller,Ninguna,No,0,1,Salud,1,Sin contrato,No,1190000,SIMULADO
+P1137,2025,8,21,Hombre,Cartagena,Bachiller,Ninguna,No,1,3,Industria manufacturera,1,Obra o labor,Sí,1713000,SIMULADO
+P1138,2025,9,23,Mujer,Pereira,Universitario,Administración,Sí,1,3,Comercio,1,Prestación de servicios,Sí,2345000,SIMULADO
+P1139,2025,3,28,Hombre,Barranquilla,Tecnólogo,Logística,Sí,1,16,Salud,0,,,,SIMULADO
+P1140,2025,1,24,Hombre,Bogotá,Bachiller,Ninguna,No,0,1,Comercio,1,Aprendizaje SENA,Sí,1621000,SIMULADO
+P1141,2025,11,26,Hombre,Manizales,Técnico,Contabilidad y finanzas,No,1,11,Construcción,1,Término fijo,Sí,1732000,SIMULADO
+P1142,2025,4,24,Hombre,Cartagena,Técnico,Logística,No,2,0,Atención al cliente / call center,0,,,,SIMULADO
+P1143,2025,2,25,Hombre,Bogotá,Universitario,Ingeniería,No,1,2,Construcción,1,Término fijo,Sí,2258000,SIMULADO
+P1144,2025,10,21,Hombre,Cali,Bachiller,Ninguna,No,0,3,Tecnología,1,Prestación de servicios,Sí,1294000,SIMULADO
+P1145,2025,5,22,Mujer,Bogotá,Universitario,Administración,No,1,2,Salud,0,,,,SIMULADO
+P1146,2025,11,21,Hombre,Cali,Bachiller,Ninguna,No,0,6,Comercio,0,,,,SIMULADO
+P1147,2025,6,24,Mujer,Bogotá,Universitario,Contaduría,No,1,8,Logística y transporte,0,,,,SIMULADO
+P1148,2025,10,28,Mujer,Manizales,Universitario,Administración,No,0,8,Educación,0,,,,SIMULADO
+P1149,2025,9,24,Mujer,Bogotá,Universitario,Ingeniería,No,1,2,Educación,1,Prestación de servicios,Sí,2042000,SIMULADO
+P1150,2025,3,21,Mujer,Cartagena,Bachiller,Ninguna,No,3,4,Educación,0,,,,SIMULADO
+P1151,2025,10,23,Hombre,Barranquilla,Bachiller,Ninguna,No,0,5,Educación,0,,,,SIMULADO
+P1152,2025,11,19,Hombre,Cali,Tecnólogo,Logística,Sí,3,3,Servicios financieros,1,Prestación de servicios,Sí,1878000,SIMULADO
+P1153,2025,12,23,Mujer,Medellín,Bachiller,Ninguna,No,,3,Educación,1,Prestación de servicios,Sí,1304000,SIMULADO
+P1154,2025,9,23,Mujer,Medellín,Universitario,Psicología,Sí,1,5,Logística y transporte,1,Sin contrato,No,1660000,SIMULADO
+P1155,2025,9,27,Mujer,Medellín,Bachiller,Ninguna,No,1,2,Servicios financieros,0,,,,SIMULADO
+P1156,2025,12,23,Mujer,Cartagena,Bachiller,Ninguna,No,2,5,Hotelería y restaurantes,0,,,,SIMULADO
+P1157,2025,2,25,Hombre,Cali,Bachiller,Ninguna,No,0,3,Tecnología,1,Prestación de servicios,Sí,1781000,SIMULADO
+P1158,2025,8,28,Mujer,Manizales,Técnico,Mecánica y electricidad,Sí,2,1,Servicios financieros,0,,,,SIMULADO
+P1159,2025,3,24,Mujer,Barranquilla,Tecnólogo,Sistemas e informática,No,1,13,Educación,1,Término fijo,Sí,1924000,SIMULADO
+P1160,2025,5,27,Mujer,Medellín,Tecnólogo,Gestión administrativa,No,0,2,Salud,1,Término fijo,Sí,1619000,SIMULADO
+P1161,2025,5,21,Hombre,Barranquilla,Técnico,Sistemas e informática,Sí,1,19,Tecnología,1,Obra o labor,Sí,1765000,SIMULADO
+P1162,2025,7,27,Mujer,Bogotá,Universitario,Administración,Sí,1,1,Educación,0,,,,SIMULADO
+P1163,2025,2,18,Mujer,Medellín,Bachiller,Ninguna,No,3,8,Servicios financieros,0,,,,SIMULADO
+P1164,2025,2,21,Mujer,Bogotá,Universitario,Psicología,Sí,0,5,Comercio,0,,,,SIMULADO
+P1165,2025,7,27,Mujer,Medellín,Tecnólogo,Gestión administrativa,No,2,1,Comercio,1,Prestación de servicios,Sí,1997000,SIMULADO
+P1166,2025,1,25,Hombre,Cali,Técnico,Salud,No,4,15,Industria manufacturera,1,Prestación de servicios,Sí,1682000,SIMULADO
+P1167,2025,11,20,Mujer,Pereira,Tecnólogo,Gestión administrativa,Sí,4,4,Logística y transporte,1,Prestación de servicios,Sí,1643000,SIMULADO
+P1168,2025,2,25,Mujer,Barranquilla,Universitario,Administración,No,1,13,Servicios financieros,1,Término fijo,Sí,2561000,SIMULADO
+P1169,2025,4,25,Hombre,Bucaramanga,Universitario,Salud,Sí,1,7,Servicios financieros,0,,,,SIMULADO
+P1170,2025,8,19,Mujer,Cali,Técnico,Ventas y mercadeo,No,0,10,Hotelería y restaurantes,0,,,,SIMULADO
+P1171,2025,5,26,Mujer,Barranquilla,Bachiller,Ninguna,No,0,7,Industria manufacturera,1,Obra o labor,Sí,1150000,SIMULADO
+P1172,2025,7,24,Hombre,Ibagué,Tecnólogo,Gestión administrativa,Sí,1,1,Industria manufacturera,0,,,,SIMULADO
+P1173,2025,2,21,Hombre,Cali,Bachiller,Ninguna,No,1,2,Tecnología,0,,,,SIMULADO
+P1174,2025,7,27,Hombre,Manizales,Bachiller,Ninguna,No,1,4,Tecnología,1,Sin contrato,No,1070000,SIMULADO
+P1175,2025,5,21,Mujer,Barranquilla,Universitario,Educación,No,0,11,Comercio,1,Obra o labor,Sí,2363000,SIMULADO
+P1176,2025,2,21,Mujer,Cartagena,Universitario,Contaduría,Sí,0,0,Atención al cliente / call center,1,Prestación de servicios,Sí,2503000,SIMULADO
+P1177,2025,10,19,Mujer,Medellín,Técnico,Sistemas e informática,Sí,2,0,Comercio,1,Término fijo,Sí,1647000,SIMULADO
+P1178,2025,5,24,Hombre,Bogotá,Tecnólogo,Mecánica y electricidad,No,0,1,Educación,0,,,,SIMULADO
+P1179,2025,2,19,Mujer,Ibagué,Técnico,Salud,Sí,1,6,Industria manufacturera,1,Sin contrato,No,1122000,SIMULADO
+P1180,2025,3,20,Mujer,Barranquilla,Bachiller,Ninguna,No,2,2,Atención al cliente / call center,0,,,,SIMULADO
+P1181,2025,6,25,Hombre,Medellín,Universitario,Derecho,Sí,0,2,Logística y transporte,1,Término fijo,Sí,1654000,SIMULADO
+P1182,2025,6,20,Mujer,Bucaramanga,Bachiller,Ninguna,No,2,6,Hotelería y restaurantes,0,,,,SIMULADO
+P1183,2025,7,24,Mujer,Bogotá,Universitario,Psicología,No,1,2,Industria manufacturera,1,Aprendizaje SENA,Sí,1263000,SIMULADO
+P1184,2025,3,20,Mujer,Manizales,Tecnólogo,Mecánica y electricidad,Sí,1,4,Tecnología,0,,,,SIMULADO
+P1185,2025,12,26,Hombre,Medellín,Universitario,Ingeniería,No,1,1,Tecnología,1,Término fijo,Sí,2817000,SIMULADO
+P1186,2025,3,26,Mujer,Medellín,Técnico,Salud,Sí,1,6,Servicios financieros,1,Término fijo,Sí,1750000,SIMULADO
+P1187,2025,11,21,Mujer,Bucaramanga,Universitario,Educación,Sí,0,13,Comercio,0,,,,SIMULADO
+P1188,2025,3,28,Hombre,Medellín,Universitario,Administración,No,2,7,Servicios financieros,1,Término fijo,Sí,1991000,SIMULADO
+P1189,2025,3,18,Hombre,Pereira,Bachiller,Ninguna,No,3,12,Comercio,1,Sin contrato,No,1470000,SIMULADO
+P1190,2025,4,21,Hombre,Barranquilla,Tecnólogo,Mecánica y electricidad,No,1,7,Atención al cliente / call center,1,Prestación de servicios,Sí,1646000,SIMULADO
+P1191,2025,6,22,Mujer,Pereira,Bachiller,Ninguna,No,3,7,Construcción,1,Obra o labor,Sí,1213000,SIMULADO
+P1192,2025,12,24,Hombre,Bogotá,Universitario,Administración,No,0,7,Educación,1,Sin contrato,No,1333000,SIMULADO
+P1193,2025,3,21,Mujer,Bogotá,Universitario,Ingeniería,No,1,5,Construcción,1,Aprendizaje SENA,Sí,1271000,SIMULADO
+P1194,2025,1,25,Mujer,Bogotá,Técnico,Sistemas e informática,No,0,5,Salud,0,,,,SIMULADO
+P1195,2025,6,21,Mujer,Bucaramanga,Universitario,Educación,Sí,2,11,Salud,0,,,,SIMULADO
+P1196,2025,9,28,Mujer,Bogotá,Bachiller,Ninguna,No,0,9,Servicios financieros,1,Término fijo,Sí,1587000,SIMULADO
+P1197,2025,9,22,Hombre,Bogotá,Técnico,Contabilidad y finanzas,Sí,0,1,Servicios financieros,1,Sin contrato,No,1226000,SIMULADO
+P1198,2025,3,24,Mujer,Medellín,Tecnólogo,Contabilidad y finanzas,Sí,1,18,Hotelería y restaurantes,1,Término fijo,Sí,1798000,SIMULADO
+P1199,2025,8,21,Hombre,Barranquilla,Tecnólogo,Mecánica y electricidad,Sí,1,3,Educación,1,Sin contrato,No,1145000,SIMULADO
+P1200,2025,10,22,Mujer,Bogotá,Bachiller,Ninguna,No,0,2,Industria manufacturera,1,Prestación de servicios,Sí,1914000,SIMULADO
