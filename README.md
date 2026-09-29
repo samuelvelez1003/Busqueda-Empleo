@@ -2,9 +2,9 @@
 
 ## Problema
 
-¿Qué características de los jóvenes (edad, nivel educativo, ciudad, sexo) y de los empleos (sector, tipo de contrato, formalidad) aumentan la probabilidad de que una persona **sin experiencia laboral** consiga su primer empleo en Colombia, para decidir hacia qué sectores orientar a estos jóvenes y qué formación recomendarles?
+¿Qué características de los jóvenes de 18 a 28 años **sin experiencia laboral** (edad, sexo, nivel educativo, si estudian actualmente y ciudad o departamento donde viven) están asociadas con una mayor probabilidad de conseguir empleo en Colombia, y cómo se relacionan con la demanda de vacantes de su departamento (porcentaje de vacantes que no exigen experiencia y nivel educativo requerido), para decidir qué formación recomendarles y hacia qué sectores y regiones orientarlos?
 
-**Hipótesis inicial:** la formación técnica o tecnológica y el sector económico están relacionados con la probabilidad de conseguir el primer empleo, porque muchas vacantes de nivel de entrada (comercio, servicios, atención al cliente, logística) valoran más la formación práctica que un título universitario.
+**Hipótesis inicial:** la formación técnica o tecnológica está relacionada con una mayor probabilidad de conseguir el primer empleo, porque muchas vacantes de nivel de entrada (comercio, servicios, atención al cliente, logística) valoran más la formación práctica que un título universitario. El sector se analiza de forma descriptiva, porque en la GEIH solo existe para quienes ya tienen empleo.
 
 ## Integrantes
 
@@ -28,7 +28,7 @@ Busqueda-Empleo/
 ├── notebooks/
 │   ├── 01_exploracion.ipynb  # Exploración inicial (datos simulados)
 │   ├── 02_limpieza.ipynb     # Unión y limpieza de la GEIH 2025
-│   └── 03_adquisicion_cruce.ipynb  # Lectura de las 2 fuentes, cruce (pd.merge) y diccionario
+│   └── 03_adquisicion_cruce.ipynb  # Lectura de las 2 fuentes, cruce (pd.merge), sectores, ciudades y diccionario
 ├── docs/
 │   └── Ficha_Proyecto_Busqueda_Empleo_Sin_Experiencia.pdf
 └── README.md
@@ -39,9 +39,9 @@ Busqueda-Empleo/
 | # | Fuente | Estado |
 |---|---|---|
 | 1 | **GEIH 2025 — DANE** (Gran Encuesta Integrada de Hogares). [Microdatos](https://microdatos.dane.gov.co/index.php/catalog/853) | Descargada y limpia |
-| 2 | **Vacantes del Servicio Público de Empleo (SPE)**: Anexo Estadístico de Demanda Laboral 2015–2023, hojas *Experiencia* y *Educación*. [Descarga](https://www.serviciodeempleo.gov.co/dataempleo-spe/demanda-laboral/anexo-estadistico-de-demanda-laboral-vacantes/) | Descargada y cruzada (se usa 2023, el año más reciente publicado) |
+| 2 | **Vacantes del Servicio Público de Empleo (SPE)**: Anexo Estadístico de Demanda Laboral 2015–2023, hojas *Experiencia*, *Educación*, *Sectores* y *Municipios*. [Descarga](https://www.serviciodeempleo.gov.co/dataempleo-spe/demanda-laboral/anexo-estadistico-de-demanda-laboral-vacantes/) | Descargada y cruzada (se usa 2023, el año más reciente publicado) |
 
-**Cruce:** `pd.merge` por `codigo_departamento` (código DIVIPOLA), relación muchos a uno (jóvenes → departamento). 85.422 filas antes y después, 33 de 33 departamentos con pareja.
+**Cruce:** `pd.merge` por `codigo_departamento` (código DIVIPOLA), relación muchos a uno (jóvenes → departamento). 85.422 filas antes y después, 33 de 33 departamentos con pareja. Además, cada una de las 32 ciudades se compara con las vacantes de su municipio capital (hoja *Municipios*) y los sectores de la GEIH con las secciones CIIU del SPE (hoja *Sectores*).
 
 ## Cómo ejecutar
 
