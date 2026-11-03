@@ -28,7 +28,7 @@ Busqueda-Empleo/
 ├── notebooks/
 │   ├── 01_exploracion.ipynb  # Exploración inicial (datos simulados)
 │   ├── 02_limpieza.ipynb     # Unión y limpieza de la GEIH 2025
-│   └── 03_adquisicion_cruce.ipynb  # Lectura de las 2 fuentes, cruce (pd.merge), sectores, ciudades y diccionario
+│   └── 03_adquisicion_cruce.ipynb  # Lectura de las 2 fuentes, cruce, diccionario + Checkpoint 1 (secciones 6-8)
 ├── docs/
 │   └── Ficha_Proyecto_Busqueda_Empleo_Sin_Experiencia.pdf
 └── README.md
@@ -46,10 +46,14 @@ Busqueda-Empleo/
 ## Cómo ejecutar
 
 1. Clonar el repositorio: `git clone https://github.com/samuelvelez1003/Busqueda-Empleo.git`
-2. Instalar librerías: `pip install pandas numpy matplotlib openpyxl jupyter`
+2. Instalar librerías: `pip install pandas numpy matplotlib openpyxl scikit-learn jupyter`
 3. Ejecutar los notebooks en orden desde la carpeta `notebooks/` (VS Code o Jupyter): `02_limpieza` genera `data/processed/geih2025_jovenes_18_28.csv` y `03_adquisicion_cruce` genera el dataset cruzado.
 
-**Estado actual (Corte 1):** las dos fuentes están descargadas, limpias y cruzadas; el diccionario del dataset cruzado está en `data/diccionario/diccionario_dataset_cruzado.csv`.
+**Estado actual (Corte 2 – Checkpoint 1):** las dos fuentes están descargadas, limpias y cruzadas. Al final de `03_adquisicion_cruce` están las tres secciones del checkpoint:
+
+- **6. Calidad de datos:** tipos corregidos (código DIVIPOLA como texto, fecha de encuesta, Sí/No a booleano, categorías ordenadas) y valores atípicos tratados con la justificación de cada decisión.
+- **7. Análisis exploratorio:** estadísticas descriptivas, 5 gráficos e historia de 5 hallazgos conectados con la pregunta de negocio.
+- **8. Ingeniería de características y pipeline:** 5 variables derivadas, codificación ordinal y one-hot, escalado estándar y la función `preparar_datos()` que hace todo el proceso de forma reproducible.
 
 ## Avance
 
@@ -59,5 +63,5 @@ Busqueda-Empleo/
 - [x] Descarga y limpieza de la GEIH 2025 (`02_limpieza`)
 - [x] Descarga de vacantes del SPE
 - [x] Notebook de adquisición: lectura de las 2 fuentes, cruce y diccionario de datos (`03_adquisicion_cruce`)
-- [ ] Análisis descriptivo con datos reales (`04_analisis_descriptivo`)
+- [x] Checkpoint 1: calidad de datos, EDA con datos reales e ingeniería de características (`03_adquisicion_cruce`, secciones 6-8)
 - [ ] Modelo predictivo (`05_modelo`)
