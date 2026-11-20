@@ -11,6 +11,10 @@
 | `processed/resumen_departamentos_geih_spe.csv` | Una fila por departamento (33) con indicadores de ambas fuentes. |
 | `processed/resumen_sectores_geih_spe.csv` | Una fila por sector (20): % de jóvenes recién insertados (GEIH) frente a % de vacantes del SPE. |
 | `processed/resumen_ciudades_geih_spe.csv` | Una fila por ciudad (32): tasa de inserción (GEIH) y vacantes del municipio capital por cada 1.000 jóvenes (SPE). |
+| `processed/segmentos_departamentos.csv` | Una fila por departamento (33) con su segmento (K-means, jerárquico, DBSCAN). Lo genera `notebooks/04_segmentacion_modelo_anomalias.ipynb`. |
+| `processed/comparacion_modelos.csv` | Métricas de prueba de los modelos predictivos comparados. Lo genera el notebook 04. |
+| `processed/importancia_variables_modelo.csv` | Importancia de cada variable en el árbol de decisión elegido. Lo genera el notebook 04. |
+| `processed/anomalias_primer_empleo.csv` | Los 365 primeros empleos marcados como anomalía por Isolation Forest (1 %). Lo genera el notebook 04. |
 | `diccionario/diccionario_dataset_cruzado.csv` | Diccionario del dataset cruzado: columna, tipo, significado, fuente y variable original. |
 | `diccionario/diccionario_datos_geih_2025.xlsx` | Diccionario de datos oficial del DANE: significado y códigos de cada variable. |
 | `datos_simulados_empleo_sin_experiencia.csv` | Base **simulada** (`fuente = SIMULADO`) usada solo para practicar en `01_exploracion.ipynb`. No es información real. |

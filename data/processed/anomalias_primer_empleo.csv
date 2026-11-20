@@ -1,0 +1,366 @@
+mes,id_hogar,orden,departamento,edad,sexo,nivel_educativo_grupo,ingreso_laboral_mensual,posicion_ocupacional,sector
+1,8087255-1,3,Antioquia,28,Mujer,Posgrado,7200000.0,Empleado del gobierno,Administración pública
+1,8087769-1,8,Atlántico,18,Mujer,Básica o menos,120000.0,Cuenta propia,Alojamiento y comida
+1,8089536-1,2,Caquetá,18,Mujer,Universitario,250000.0,Cuenta propia,Otros servicios
+1,8089697-1,1,Caquetá,28,Mujer,Posgrado,10000000.0,Empleado del gobierno,Administración pública
+1,8090551-1,2,Córdoba,23,Hombre,Básica o menos,45000.0,Cuenta propia,Comercio
+1,8092086-1,1,Meta,28,Mujer,Posgrado,3900000.0,Empleado empresa particular,Servicios administrativos y de apoyo
+1,8094170-1,2,Tolima,18,Mujer,Universitario,250000.0,Empleado empresa particular,Alojamiento y comida
+1,8096943-1,1,Risaralda,28,Hombre,Posgrado,6000000.0,Empleado del gobierno,Educación
+1,8097364-1,3,Boyacá,28,Hombre,Posgrado,3800000.0,Cuenta propia,Administración pública
+1,8099226-1,1,Atlántico,26,Hombre,Posgrado,5000000.0,Empleado empresa particular,Construcción
+1,8100081-1,1,Huila,26,Hombre,Posgrado,9000000.0,Empleado del gobierno,Administración pública
+1,8101648-1,2,Antioquia,28,Hombre,Posgrado,5200000.0,Empleado del gobierno,Educación
+1,8102308-1,1,Vichada,28,Hombre,Posgrado,5100000.0,Empleado del gobierno,Educación
+1,8102959-1,1,Boyacá,26,Hombre,Posgrado,200000.0,Cuenta propia,Educación
+1,8103204-1,2,Chocó,18,Mujer,Básica o menos,50000.0,Cuenta propia,Alojamiento y comida
+1,8103870-1,2,Sucre,18,Hombre,Tecnólogo,200000.0,Cuenta propia,Comercio
+1,8103907-1,1,Valle del Cauca,24,Hombre,Posgrado,18000000.0,Empleado empresa particular,Información y comunicaciones (TIC)
+1,8105462-1,1,Atlántico,27,Mujer,Básica o menos,50000.0,Cuenta propia,Comercio
+1,8107738-1,3,La Guajira,20,Mujer,Básica o menos,30000.0,Cuenta propia,Industria manufacturera
+1,8109087-1,1,Guaviare,25,Hombre,Posgrado,7200000.0,Empleado del gobierno,Administración pública
+1,8109513-1,3,Cundinamarca,27,Mujer,Posgrado,4700000.0,Empleado empresa particular,Industria manufacturera
+1,8109835-1,3,Antioquia,19,Mujer,Técnico,60000.0,Cuenta propia,Otros servicios
+1,8109847-1,3,Antioquia,27,Hombre,Posgrado,6000000.0,Empleado empresa particular,Educación
+1,8110236-1,2,Cauca,26,Mujer,Universitario,50000.0,Empleado empresa particular,Comercio
+1,8110574-1,1,Meta,28,Mujer,Posgrado,7000000.0,Empleado empresa particular,Actividades profesionales
+1,8110978-1,2,Valle del Cauca,25,Mujer,Básica o menos,42000.0,Empleado empresa particular,Alojamiento y comida
+1,8111434-1,2,Cundinamarca,28,Hombre,Posgrado,3600000.0,Empleado empresa particular,Educación
+1,8112606-1,1,Caldas,28,Mujer,Bachiller,10000.0,Cuenta propia,Transporte y logística
+1,8112742-1,1,Tolima,27,Mujer,Posgrado,5700000.0,Empleado del gobierno,Educación
+2,8116024-1,3,Antioquia,18,Mujer,Tecnólogo,200000.0,Cuenta propia,Industria manufacturera
+2,8117942-1,2,Córdoba,28,Mujer,Bachiller,40000.0,Cuenta propia,Comercio
+2,8119297-1,1,Norte de Santander,28,Mujer,Básica o menos,150000.0,Cuenta propia,Servicios públicos
+2,8119808-1,1,Risaralda,27,Mujer,Posgrado,6000000.0,Cuenta propia,Administración pública
+2,8120196-1,3,Sucre,22,Mujer,Técnico,30000.0,Cuenta propia,Alojamiento y comida
+2,8121078-1,2,Guaviare,26,Mujer,Universitario,50000.0,Cuenta propia,Comercio
+2,8122905-1,7,Bolívar,19,Hombre,Básica o menos,50000.0,Cuenta propia,Otros servicios
+2,8122976-1,1,Boyacá,19,Hombre,Universitario,120000.0,Empleado empresa particular,Alojamiento y comida
+2,8128540-1,2,Cundinamarca,20,Mujer,Universitario,50000.0,Cuenta propia,Alojamiento y comida
+2,8129280-1,1,Magdalena,20,Mujer,Básica o menos,35000.0,Cuenta propia,Otros servicios
+2,8129975-1,3,Antioquia,18,Hombre,Básica o menos,100000.0,Empleado empresa particular,Comercio
+2,8130032-1,2,Atlántico,28,Mujer,Técnico,60000.0,Cuenta propia,Comercio
+2,8131534-1,1,Vaupés,27,Mujer,Posgrado,4800000.0,Cuenta propia,Administración pública
+2,8133104-1,3,Bogotá D.C.,28,Hombre,Posgrado,4500000.0,Empleado empresa particular,Servicios públicos
+2,8134277-1,2,La Guajira,20,Hombre,Básica o menos,20000.0,Cuenta propia,Comercio
+2,8134458-1,2,Meta,25,Hombre,Posgrado,5700000.0,Cuenta propia,Administración pública
+2,8134907-1,2,Risaralda,18,Hombre,Universitario,240000.0,Empleado empresa particular,Comercio
+2,8136450-1,7,Bolívar,20,Mujer,Básica o menos,20000.0,Cuenta propia,Otros servicios
+2,8141058-1,2,Caldas,18,Mujer,Tecnólogo,80000.0,Empleado empresa particular,Alojamiento y comida
+2,8141325-1,2,Atlántico,18,Mujer,Universitario,40000.0,Cuenta propia,Comercio
+2,8141428-1,2,Atlántico,18,Hombre,Bachiller,30000.0,Cuenta propia,Información y comunicaciones (TIC)
+2,8141714-1,3,Boyacá,26,Hombre,Universitario,45000.0,Empleado empresa particular,Alojamiento y comida
+2,8142677-1,1,La Guajira,28,Hombre,Posgrado,6400000.0,Empleado del gobierno,Administración pública
+2,8144274-1,1,Vaupés,27,Hombre,Posgrado,5000000.0,Cuenta propia,Administración pública
+3,8145057-1,4,Atlántico,19,Mujer,Universitario,80000.0,Cuenta propia,Industria manufacturera
+3,8145508-1,1,Bolívar,27,Mujer,Técnico,20000.0,Cuenta propia,Comercio
+3,8145548-1,1,Bolívar,28,Mujer,Tecnólogo,50000.0,Cuenta propia,Alojamiento y comida
+3,8147516-1,3,Magdalena,27,Hombre,Posgrado,5000000.0,Cuenta propia,Administración pública
+3,8148009-1,2,Norte de Santander,26,Mujer,Básica o menos,50000.0,Cuenta propia,Otros servicios
+3,8148325-1,3,Quindío,18,Mujer,Universitario,250000.0,Cuenta propia,Otros servicios
+3,8148861-1,5,Sucre,27,Mujer,Básica o menos,100000.0,Cuenta propia,Servicios administrativos y de apoyo
+3,8152686-1,1,Santander,24,Mujer,Posgrado,6500000.0,Empleado del gobierno,Administración pública
+3,8152787-1,3,Valle del Cauca,28,Mujer,Bachiller,35000.0,Cuenta propia,Comercio
+3,8153105-1,2,Magdalena,18,Mujer,Técnico,96000.0,Cuenta propia,Alojamiento y comida
+3,8153230-1,3,Cundinamarca,24,Mujer,Universitario,6000.0,Cuenta propia,Comercio
+3,8153332-1,2,Boyacá,27,Hombre,Básica o menos,100000.0,Cuenta propia,Minería
+3,8153717-1,2,Quindío,26,Mujer,Básica o menos,60000.0,Cuenta propia,Arte y entretenimiento
+3,8153762-1,2,Antioquia,27,Mujer,Tecnólogo,80000.0,Cuenta propia,Industria manufacturera
+3,8154237-1,1,Bogotá D.C.,27,Hombre,Posgrado,4850000.0,Empleado empresa particular,Industria manufacturera
+3,8155832-1,2,Meta,28,Hombre,Posgrado,7200000.0,Cuenta propia,Administración pública
+3,8156062-1,4,Norte de Santander,28,Mujer,Posgrado,5000000.0,Cuenta propia,Salud
+3,8159237-1,1,Boyacá,28,Hombre,Posgrado,4000000.0,Empleado empresa particular,Actividades profesionales
+3,8160661-1,2,Atlántico,28,Mujer,Tecnólogo,100000.0,Cuenta propia,Comercio
+3,8161069-1,2,Bolívar,28,Mujer,Técnico,60000.0,Empleado doméstico,Hogares como empleadores
+3,8161347-1,2,Caldas,26,Mujer,Técnico,30000.0,Cuenta propia,Comercio
+3,8162996-1,2,Nariño,22,Mujer,Universitario,40000.0,Cuenta propia,Transporte y logística
+3,8163330-1,1,Norte de Santander,19,Mujer,Básica o menos,55000.0,Cuenta propia,Otros servicios
+3,8163839-1,2,Santander,22,Mujer,Universitario,30000.0,Cuenta propia,Educación
+3,8164690-1,2,Guaviare,18,Hombre,Tecnólogo,50000.0,Empleado empresa particular,Alojamiento y comida
+3,8164698-1,1,Guaviare,28,Hombre,Básica o menos,150000.0,Cuenta propia,Servicios administrativos y de apoyo
+3,8165616-1,2,Bolívar,28,Mujer,Bachiller,40000.0,Cuenta propia,Alojamiento y comida
+3,8167219-1,1,Bogotá D.C.,27,Mujer,Posgrado,6000000.0,Empleado empresa particular,Servicios financieros
+3,8167859-1,1,Meta,24,Mujer,Posgrado,8240000.0,Cuenta propia,Administración pública
+3,8167982-1,1,Nariño,26,Hombre,Posgrado,32000000.0,Cuenta propia,Administración pública
+3,8169472-1,3,Córdoba,21,Mujer,Tecnólogo,80000.0,Cuenta propia,Industria manufacturera
+3,8169679-1,2,Atlántico,28,Mujer,Técnico,24000.0,Cuenta propia,Otros servicios
+4,8174607-1,1,Bogotá D.C.,18,Hombre,Universitario,5200000.0,Empleado empresa particular,Servicios administrativos y de apoyo
+4,8177500-1,1,Norte de Santander,28,Hombre,Posgrado,7000000.0,Cuenta propia,Administración pública
+4,8178533-1,2,Sucre,28,Mujer,Posgrado,4000000.0,Empleado empresa particular,Comercio
+4,8186742-1,2,Magdalena,28,Mujer,Básica o menos,60000.0,Cuenta propia,Comercio
+4,8186855-1,1,Sucre,28,Mujer,Básica o menos,80000.0,Cuenta propia,Industria manufacturera
+4,8191188-1,1,Guaviare,26,Mujer,Universitario,10000.0,Cuenta propia,Servicios administrativos y de apoyo
+4,8193548-2,1,Antioquia,21,Mujer,Universitario,50000.0,Empleado empresa particular,Alojamiento y comida
+4,8193548-2,2,Antioquia,20,Mujer,Universitario,50000.0,Empleado empresa particular,Alojamiento y comida
+4,8196027-1,3,Caldas,18,Hombre,Bachiller,40000.0,Empleado empresa particular,Agropecuario
+4,8196367-1,6,Córdoba,21,Hombre,Básica o menos,60000.0,Empleado empresa particular,Transporte y logística
+4,8196378-1,9,Córdoba,18,Hombre,Bachiller,30000.0,Cuenta propia,Comercio
+4,8197028-1,4,Bolívar,20,Mujer,Universitario,50000.0,Cuenta propia,Comercio
+4,8199912-1,3,Antioquia,18,Mujer,Universitario,5500000.0,Empleado empresa particular,Alojamiento y comida
+4,8200223-1,1,La Guajira,28,Hombre,Básica o menos,100000.0,Cuenta propia,Transporte y logística
+4,8200662-1,3,Valle del Cauca,26,Mujer,Posgrado,12700000.0,Patrón o empleador,Salud
+4,8202147-1,2,Córdoba,18,Mujer,Universitario,200000.0,Cuenta propia,Educación
+4,8205133-1,3,Caldas,26,Mujer,Posgrado,5000000.0,Cuenta propia,Actividades profesionales
+4,8205399-1,4,Caquetá,18,Mujer,Básica o menos,60000.0,Cuenta propia,Comercio
+4,8206027-1,6,La Guajira,20,Mujer,Universitario,40000.0,Cuenta propia,Industria manufacturera
+4,8206277-1,4,Meta,27,Mujer,Posgrado,5000000.0,Cuenta propia,Administración pública
+4,8206374-1,2,Nariño,28,Mujer,Básica o menos,150000.0,Cuenta propia,Servicios administrativos y de apoyo
+4,8206649-1,3,Quindío,27,Mujer,Universitario,40000.0,Cuenta propia,Industria manufacturera
+4,8206755-1,3,Risaralda,24,Hombre,Posgrado,5500000.0,Empleado empresa particular,Información y comunicaciones (TIC)
+4,8207378-1,4,Nariño,18,Mujer,Básica o menos,120000.0,Empleado empresa particular,Agropecuario
+4,8207756-1,2,Meta,22,Hombre,Tecnólogo,50000.0,Cuenta propia,Industria manufacturera
+5,8208683-1,1,Bolívar,28,Hombre,Posgrado,4500000.0,Empleado empresa particular,Arte y entretenimiento
+5,8209468-1,3,Cauca,18,Mujer,Universitario,90000.0,Cuenta propia,Educación
+5,8209747-1,3,Cundinamarca,19,Hombre,Básica o menos,80000.0,Cuenta propia,Alojamiento y comida
+5,8209846-1,6,Chocó,19,Mujer,Universitario,70000.0,Cuenta propia,Otros servicios
+5,8210460-1,2,Meta,28,Mujer,Posgrado,4500000.0,Empleado del gobierno,Educación
+5,8211421-1,2,Santander,18,Mujer,Universitario,200000.0,Empleado empresa particular,Industria manufacturera
+5,8211895-1,1,Valle del Cauca,27,Mujer,Posgrado,4700000.0,Empleado empresa particular,Salud
+5,8212814-1,2,Boyacá,25,Mujer,Posgrado,6000000.0,Cuenta propia,Administración pública
+5,8215638-1,1,Quindío,28,Hombre,Posgrado,3800000.0,Cuenta propia,Administración pública
+5,8216947-1,1,Bogotá D.C.,25,Hombre,Posgrado,6000000.0,Empleado empresa particular,Industria manufacturera
+5,8217147-1,2,Caldas,25,Mujer,Tecnólogo,47000.0,Empleado empresa particular,Alojamiento y comida
+5,8218964-1,1,Caquetá,28,Mujer,Básica o menos,150000.0,Cuenta propia,Comercio
+5,8219354-1,3,Risaralda,25,Hombre,Básica o menos,10000.0,Cuenta propia,Agropecuario
+5,8219483-1,2,Atlántico,28,Mujer,Posgrado,5000000.0,Empleado empresa particular,Salud
+5,8220001-1,3,Sucre,24,Hombre,Básica o menos,50000.0,Cuenta propia,Comercio
+5,8221313-1,4,Magdalena,18,Hombre,Básica o menos,120000.0,Empleado empresa particular,Industria manufacturera
+5,8222834-1,2,Norte de Santander,19,Mujer,Básica o menos,60000.0,Cuenta propia,Industria manufacturera
+5,8224622-1,1,Boyacá,18,Mujer,Universitario,240000.0,Empleado empresa particular,Alojamiento y comida
+5,8226555-1,1,Magdalena,28,Mujer,Básica o menos,100000.0,Cuenta propia,Alojamiento y comida
+5,8227377-1,2,Caldas,26,Mujer,Básica o menos,30000.0,Cuenta propia,Otros servicios
+5,8227726-1,3,Quindío,18,Mujer,Básica o menos,100000.0,Cuenta propia,Otros servicios
+5,8228077-1,2,Vaupés,27,Mujer,Posgrado,5200000.0,Cuenta propia,Administración pública
+5,8229940-1,1,Valle del Cauca,28,Mujer,Posgrado,6000000.0,Cuenta propia,Otros servicios
+5,8230024-1,3,Guaviare,18,Mujer,Tecnólogo,100000.0,Cuenta propia,Otros servicios
+5,8230041-1,2,Vaupés,28,Mujer,Posgrado,6800000.0,Cuenta propia,Administración pública
+5,8230982-1,1,Nariño,28,Mujer,Básica o menos,80000.0,Empleado empresa particular,Alojamiento y comida
+5,8234015-1,1,Boyacá,28,Hombre,Posgrado,5800000.0,Empleado del gobierno,Administración pública
+5,8234706-1,1,Santander,27,Mujer,Posgrado,5287000.0,Cuenta propia,Actividades profesionales
+5,8234887-1,2,Guaviare,19,Hombre,Básica o menos,60000.0,Empleado empresa particular,Industria manufacturera
+5,8235602-1,3,Antioquia,26,Mujer,Posgrado,6800000.0,Cuenta propia,Administración pública
+5,8236452-1,3,Caquetá,18,Mujer,Universitario,240000.0,Empleado empresa particular,Comercio
+6,8239751-1,5,Bogotá D.C.,18,Mujer,Universitario,240000.0,Empleado empresa particular,Alojamiento y comida
+6,8239854-1,2,Bogotá D.C.,18,Hombre,Universitario,100000.0,Cuenta propia,Actividades profesionales
+6,8240871-1,2,Cauca,28,Hombre,Posgrado,4000000.0,Empleado empresa particular,Servicios financieros
+6,8243227-1,4,Risaralda,28,Mujer,Posgrado,4000000.0,Cuenta propia,Actividades profesionales
+6,8245346-1,2,Chocó,27,Mujer,Posgrado,5000000.0,Cuenta propia,Administración pública
+6,8246074-1,2,Tolima,25,Mujer,Básica o menos,50000.0,Jornalero o peón,Agropecuario
+6,8246135-1,2,Antioquia,28,Mujer,Tecnólogo,70000.0,Cuenta propia,Comercio
+6,8249800-1,10,Cauca,22,Hombre,Técnico,30000.0,Empleado empresa particular,Alojamiento y comida
+6,8252033-1,2,Sucre,18,Hombre,Básica o menos,90000.0,Cuenta propia,Agropecuario
+6,8252033-1,3,Sucre,18,Mujer,Básica o menos,80000.0,Cuenta propia,Comercio
+6,8252538-1,3,Bolívar,18,Mujer,Técnico,50000.0,Cuenta propia,Comercio
+6,8252777-1,1,Chocó,28,Hombre,Universitario,100000.0,Cuenta propia,Construcción
+6,8253425-1,1,Vaupés,27,Hombre,Posgrado,4500000.0,Cuenta propia,Administración pública
+6,8258078-1,1,Norte de Santander,28,Hombre,Posgrado,5800000.0,Empleado empresa particular,Información y comunicaciones (TIC)
+6,8258238-1,1,Quindío,28,Mujer,Universitario,18000.0,Cuenta propia,Servicios administrativos y de apoyo
+6,8258916-1,1,Tolima,26,Mujer,Posgrado,7000000.0,Empleado empresa particular,Actividades profesionales
+6,8265275-1,2,Nariño,28,Mujer,Básica o menos,60000.0,Cuenta propia,Comercio
+6,8266572-1,3,Atlántico,26,Mujer,Básica o menos,80000.0,Cuenta propia,Comercio
+6,8267125-1,1,Boyacá,26,Hombre,Posgrado,11000000.0,Empleado empresa particular,Servicios financieros
+6,8267734-1,3,Cauca,18,Mujer,Básica o menos,120000.0,Cuenta propia,Servicios administrativos y de apoyo
+6,8269159-1,2,Meta,28,Mujer,Posgrado,5600000.0,Empleado empresa particular,Actividades profesionales
+6,8269363-1,4,Nariño,21,Hombre,Básica o menos,50000.0,Empleado empresa particular,Comercio
+7,8283725-1,1,Antioquia,28,Mujer,Básica o menos,30000.0,Cuenta propia,Comercio
+7,8287226-1,2,Meta,28,Mujer,Posgrado,7000000.0,Empleado empresa particular,Educación
+7,8288332-1,3,Risaralda,23,Mujer,Posgrado,4600000.0,Empleado del gobierno,Administración pública
+7,8288621-1,2,Santander,19,Mujer,Básica o menos,60000.0,Cuenta propia,Industria manufacturera
+7,8288841-1,2,Sucre,23,Mujer,Técnico,15000.0,Cuenta propia,Alojamiento y comida
+7,8291126-1,2,Guaviare,18,Mujer,Bachiller,40000.0,Empleado empresa particular,Alojamiento y comida
+7,8291128-1,2,Guaviare,28,Hombre,Tecnólogo,100000.0,Empleado empresa particular,Educación
+7,8292160-1,2,Norte de Santander,21,Mujer,Universitario,20000.0,Cuenta propia,Educación
+7,8293747-1,2,Bogotá D.C.,25,Mujer,Universitario,20000.0,Cuenta propia,Comercio
+7,8296424-1,2,Bogotá D.C.,27,Hombre,Posgrado,5250000.0,Empleado empresa particular,Comercio
+7,8296669-1,1,Chocó,27,Mujer,Básica o menos,100000.0,Cuenta propia,Otros servicios
+7,8297056-1,2,Valle del Cauca,27,Mujer,Posgrado,5000000.0,Empleado empresa particular,Servicios financieros
+7,8297296-1,1,Magdalena,20,Mujer,Técnico,30000.0,Cuenta propia,Alojamiento y comida
+7,8297928-1,4,Boyacá,23,Hombre,Posgrado,4700000.0,Empleado empresa particular,Servicios públicos
+7,8297973-1,4,Caldas,21,Hombre,Técnico,55000.0,Empleado empresa particular,Servicios administrativos y de apoyo
+7,8298009-1,3,Caldas,27,Hombre,Posgrado,5150000.0,Cuenta propia,Educación
+7,8298393-1,1,Meta,25,Mujer,Universitario,25000.0,Cuenta propia,Comercio
+7,8301127-1,3,Cauca,18,Hombre,Universitario,200000.0,Empleado empresa particular,Comercio
+7,8302156-1,2,Santander,26,Mujer,Posgrado,5000000.0,Empleado empresa particular,Otros servicios
+7,8303762-1,3,Nariño,25,Hombre,Universitario,30000.0,Cuenta propia,Alojamiento y comida
+7,8308657-1,3,Bogotá D.C.,24,Hombre,Posgrado,5300000.0,Empleado empresa particular,Información y comunicaciones (TIC)
+7,8309671-1,2,Meta,22,Mujer,Tecnólogo,50000.0,Cuenta propia,Alojamiento y comida
+7,8311380-1,2,Nariño,28,Mujer,Universitario,100000.0,Empleado empresa particular,Industria manufacturera
+7,8311823-1,1,Atlántico,26,Hombre,Posgrado,7200000.0,Empleado del gobierno,Administración pública
+7,8312603-1,2,Cundinamarca,18,Mujer,Básica o menos,50000.0,Empleado doméstico,Hogares como empleadores
+7,8313219-1,3,Sucre,19,Mujer,Universitario,50000.0,Cuenta propia,Industria manufacturera
+7,8314465-1,4,Córdoba,22,Mujer,Básica o menos,40000.0,Cuenta propia,Industria manufacturera
+7,8315274-1,2,Cauca,28,Mujer,Bachiller,30000.0,Cuenta propia,Industria manufacturera
+7,8315643-1,2,La Guajira,18,Mujer,Básica o menos,120000.0,Empleado doméstico,Hogares como empleadores
+7,8315938-1,2,Norte de Santander,27,Mujer,Básica o menos,70000.0,Cuenta propia,Comercio
+7,8316213-1,4,Sucre,19,Hombre,Básica o menos,70000.0,Cuenta propia,Agropecuario
+7,8316505-1,1,Vaupés,27,Mujer,Posgrado,5600000.0,Cuenta propia,Administración pública
+7,8316676-1,1,Santander,28,Mujer,Posgrado,5500000.0,Empleado empresa particular,Salud
+8,8317320-1,3,Bogotá D.C.,21,Mujer,Posgrado,5500000.0,Empleado empresa particular,Educación
+8,8317370-1,3,Bogotá D.C.,19,Mujer,Universitario,100000.0,Cuenta propia,Alojamiento y comida
+8,8317466-1,2,Bogotá D.C.,26,Hombre,Universitario,50000.0,Cuenta propia,Educación
+8,8320391-1,2,Quindío,18,Mujer,Universitario,80000.0,Cuenta propia,Alojamiento y comida
+8,8322911-1,2,Nariño,19,Mujer,Universitario,30000.0,Otro,Comercio
+8,8324456-1,4,Antioquia,18,Mujer,Universitario,140000.0,Cuenta propia,Comercio
+8,8324861-1,2,Bogotá D.C.,28,Hombre,Posgrado,6000000.0,Cuenta propia,Salud
+8,8327910-1,3,Santander,18,Mujer,Básica o menos,120000.0,Cuenta propia,Otros servicios
+8,8329111-1,1,Vichada,28,Mujer,Posgrado,7088000.0,Cuenta propia,Administración pública
+8,8329727-2,1,Bolívar,27,Mujer,Técnico,50000.0,Cuenta propia,Comercio
+8,8330743-1,2,Magdalena,21,Hombre,Universitario,50000.0,Cuenta propia,Agropecuario
+8,8331250-1,2,Córdoba,28,Mujer,Básica o menos,25000.0,Cuenta propia,Industria manufacturera
+8,8331277-1,2,Córdoba,19,Hombre,Básica o menos,70000.0,Empleado empresa particular,Construcción
+8,8331601-1,2,Bogotá D.C.,23,Mujer,Posgrado,6000000.0,Empleado del gobierno,Administración pública
+8,8332076-1,2,La Guajira,19,Mujer,Universitario,60000.0,Cuenta propia,Servicios administrativos y de apoyo
+8,8332443-1,4,Risaralda,22,Mujer,Tecnólogo,50000.0,Cuenta propia,Alojamiento y comida
+8,8334360-1,2,Bolívar,27,Mujer,Técnico,20000.0,Cuenta propia,Industria manufacturera
+8,8336373-1,2,Sucre,27,Mujer,Universitario,65000.0,Cuenta propia,Educación
+8,8336650-1,3,Valle del Cauca,28,Mujer,Bachiller,40000.0,Cuenta propia,Comercio
+8,8336654-1,2,Valle del Cauca,28,Mujer,Posgrado,3700000.0,Cuenta propia,Administración pública
+8,8336658-2,1,Valle del Cauca,26,Mujer,Posgrado,5600000.0,Cuenta propia,Administración pública
+8,8336688-1,1,Valle del Cauca,24,Mujer,Básica o menos,60000.0,Cuenta propia,Comercio
+8,8336993-1,1,Vaupés,27,Mujer,Posgrado,5000000.0,Cuenta propia,Salud
+8,8337057-1,2,Magdalena,23,Mujer,Básica o menos,50000.0,Cuenta propia,Arte y entretenimiento
+8,8337074-1,1,Magdalena,18,Mujer,Básica o menos,20000.0,Cuenta propia,Alojamiento y comida
+8,8337085-1,4,Magdalena,24,Hombre,Básica o menos,60000.0,Cuenta propia,Agropecuario
+8,8337181-1,5,Cesar,18,Hombre,Básica o menos,25000.0,Jornalero o peón,Agropecuario
+8,8337582-1,3,Cauca,18,Mujer,Universitario,50000.0,Cuenta propia,Otros servicios
+8,8337713-1,3,Cauca,18,Hombre,Básica o menos,100000.0,Cuenta propia,Agropecuario
+8,8339269-1,1,Valle del Cauca,28,Mujer,Técnico,50000.0,Cuenta propia,Comercio
+8,8340325-1,3,Meta,18,Hombre,Universitario,240000.0,Cuenta propia,Transporte y logística
+8,8340754-1,1,Santander,26,Hombre,Posgrado,6000000.0,Empleado empresa particular,Minería
+8,8342528-1,1,Antioquia,24,Hombre,Posgrado,7500000.0,Cuenta propia,Administración pública
+8,8342607-1,2,Atlántico,27,Mujer,Posgrado,7300000.0,Empleado empresa particular,Industria manufacturera
+8,8343239-1,2,Caldas,28,Hombre,Posgrado,5000000.0,Cuenta propia,Salud
+8,8343423-1,6,Cauca,24,Mujer,Básica o menos,55000.0,Cuenta propia,Otros servicios
+8,8344751-1,2,Santander,18,Hombre,Tecnólogo,240000.0,Empleado empresa particular,Alojamiento y comida
+8,8345400-1,1,Vaupés,28,Mujer,Posgrado,5200000.0,Cuenta propia,Salud
+9,8345705-1,4,Nariño,19,Mujer,Universitario,120000.0,Empleado empresa particular,Comercio
+9,8346401-1,2,Atlántico,18,Hombre,Universitario,80000.0,Cuenta propia,Otros servicios
+9,8346401-1,5,Atlántico,19,Mujer,Universitario,50000.0,Cuenta propia,Industria manufacturera
+9,8347950-1,3,Córdoba,24,Mujer,Básica o menos,50000.0,Empleado empresa particular,Alojamiento y comida
+9,8349515-1,1,Quindío,28,Hombre,Posgrado,4500000.0,Cuenta propia,Administración pública
+9,8349867-1,2,Risaralda,23,Hombre,Básica o menos,30000.0,Cuenta propia,Comercio
+9,8350032-1,1,Santander,27,Hombre,Posgrado,5000000.0,Empleado empresa particular,Minería
+9,8350346-1,4,Sucre,27,Mujer,Básica o menos,70000.0,Cuenta propia,Alojamiento y comida
+9,8353144-1,1,Cauca,20,Hombre,Tecnólogo,90000.0,Cuenta propia,Otros servicios
+9,8354330-1,1,Sucre,26,Mujer,Básica o menos,80000.0,Cuenta propia,Industria manufacturera
+9,8355173-1,3,Atlántico,18,Mujer,Básica o menos,30000.0,Cuenta propia,Comercio
+9,8355173-1,4,Atlántico,28,Hombre,Básica o menos,80000.0,Cuenta propia,Construcción
+9,8355509-1,3,Bolívar,26,Hombre,Posgrado,10000000.0,Cuenta propia,Salud
+9,8358213-1,2,Magdalena,28,Mujer,Bachiller,10000.0,Cuenta propia,Alojamiento y comida
+9,8359980-1,2,Bogotá D.C.,27,Hombre,Básica o menos,80000.0,Cuenta propia,Industria manufacturera
+9,8360685-1,1,Meta,28,Mujer,Bachiller,50000.0,Cuenta propia,Alojamiento y comida
+9,8361139-1,2,Sucre,21,Mujer,Básica o menos,50000.0,Cuenta propia,Comercio
+9,8361510-1,4,Magdalena,22,Mujer,Técnico,35000.0,Cuenta propia,Comercio
+9,8362701-1,3,Antioquia,18,Mujer,Tecnólogo,180000.0,Empleado empresa particular,Alojamiento y comida
+9,8362897-1,4,Bogotá D.C.,27,Mujer,Posgrado,6000000.0,Cuenta propia,Actividades profesionales
+9,8362949-1,1,Bogotá D.C.,28,Hombre,Posgrado,13000000.0,Cuenta propia,Información y comunicaciones (TIC)
+9,8363267-1,2,Caldas,22,Mujer,Universitario,32000.0,Cuenta propia,Comercio
+9,8364560-2,2,Nariño,28,Mujer,Básica o menos,150000.0,Cuenta propia,Otros servicios
+9,8367807-1,3,Santander,20,Hombre,Universitario,50000.0,Cuenta propia,Educación
+9,8368674-1,1,Córdoba,28,Hombre,Posgrado,4300000.0,Empleado empresa particular,Construcción
+9,8368674-1,2,Córdoba,27,Mujer,Posgrado,4500000.0,Cuenta propia,Educación
+9,8368966-1,4,Nariño,22,Hombre,Universitario,40000.0,Empleado empresa particular,Alojamiento y comida
+9,8369007-1,1,Nariño,18,Hombre,Universitario,150000.0,Cuenta propia,Industria manufacturera
+9,8369481-1,1,Sucre,28,Hombre,Posgrado,4200000.0,Cuenta propia,Educación
+9,8370767-1,2,Córdoba,27,Mujer,Básica o menos,60000.0,Cuenta propia,Comercio
+9,8372079-1,4,Córdoba,28,Hombre,Bachiller,25000.0,Cuenta propia,Servicios administrativos y de apoyo
+9,8372558-1,1,Magdalena,20,Mujer,Universitario,70000.0,Cuenta propia,Comercio
+9,8372688-1,1,Meta,28,Hombre,Posgrado,6000000.0,Empleado empresa particular,Alojamiento y comida
+9,8372697-1,2,Meta,18,Hombre,Universitario,250000.0,Cuenta propia,Servicios administrativos y de apoyo
+9,8374008-1,2,Caldas,18,Mujer,Tecnólogo,140000.0,Empleado empresa particular,Arte y entretenimiento
+10,8374659-1,5,Bogotá D.C.,28,Mujer,Posgrado,3600000.0,Cuenta propia,Administración pública
+10,8375575-1,3,Cauca,26,Hombre,Posgrado,7000000.0,Empleado empresa particular,Información y comunicaciones (TIC)
+10,8376582-1,2,Meta,24,Mujer,Posgrado,5700000.0,Cuenta propia,Administración pública
+10,8376675-1,2,Meta,28,Mujer,Posgrado,6700000.0,Empleado del gobierno,Administración pública
+10,8377716-1,1,Sucre,26,Hombre,Posgrado,6300000.0,Empleado del gobierno,Educación
+10,8378082-1,2,Valle del Cauca,28,Mujer,Bachiller,50000.0,Cuenta propia,Comercio
+10,8378401-1,1,Guaviare,24,Hombre,Posgrado,5000000.0,Cuenta propia,Actividades profesionales
+10,8378901-1,7,La Guajira,27,Mujer,Básica o menos,70000.0,Cuenta propia,Servicios administrativos y de apoyo
+10,8379214-1,3,Sucre,18,Hombre,Básica o menos,100000.0,Cuenta propia,Construcción
+10,8380443-1,1,Bogotá D.C.,27,Mujer,Posgrado,5793000.0,Empleado empresa particular,Administración pública
+10,8382188-1,3,Meta,18,Hombre,Universitario,250000.0,Empleado empresa particular,Comercio
+10,8382757-1,2,Risaralda,18,Mujer,Universitario,180000.0,Cuenta propia,Otros servicios
+10,8384765-1,1,Risaralda,27,Mujer,Técnico,50000.0,Empleado empresa particular,Otros servicios
+10,8385663-1,1,Bogotá D.C.,27,Hombre,Posgrado,4700000.0,Empleado empresa particular,Educación
+10,8386426-1,4,Quindío,28,Mujer,Posgrado,4000000.0,Cuenta propia,Administración pública
+10,8386807-1,1,Guaviare,27,Mujer,Básica o menos,60000.0,Cuenta propia,Servicios administrativos y de apoyo
+10,8386957-1,3,Sucre,20,Mujer,Técnico,30000.0,Cuenta propia,Alojamiento y comida
+10,8387864-1,1,Córdoba,18,Mujer,Bachiller,28000.0,Cuenta propia,Alojamiento y comida
+10,8388894-1,3,Cundinamarca,19,Hombre,Universitario,100000.0,Cuenta propia,Alojamiento y comida
+10,8389039-1,3,La Guajira,18,Mujer,Técnico,120000.0,Cuenta propia,Salud
+10,8390025-1,1,Valle del Cauca,28,Mujer,Posgrado,4000000.0,Empleado del gobierno,Educación
+10,8390095-1,1,Putumayo,28,Hombre,Posgrado,4800000.0,Cuenta propia,Administración pública
+10,8392302-1,3,Valle del Cauca,18,Hombre,Universitario,35000.0,Cuenta propia,Otros servicios
+10,8392585-1,3,Antioquia,28,Mujer,Posgrado,5200000.0,Cuenta propia,Administración pública
+10,8392640-1,2,Bogotá D.C.,27,Mujer,Posgrado,6500000.0,Empleado empresa particular,Salud
+10,8393018-1,1,Córdoba,27,Mujer,Posgrado,9000000.0,Cuenta propia,Administración pública
+10,8393258-1,2,Meta,26,Hombre,Posgrado,5100000.0,Cuenta propia,Servicios públicos
+10,8394892-1,1,Risaralda,28,Mujer,Posgrado,7000000.0,Cuenta propia,Actividades profesionales
+10,8397302-1,2,Cesar,28,Mujer,Básica o menos,160000.0,Cuenta propia,Comercio
+10,8397621-1,3,Tolima,18,Mujer,Técnico,40000.0,Cuenta propia,Otros servicios
+10,8398241-1,3,Nariño,20,Mujer,Universitario,28000.0,Empleado empresa particular,Alojamiento y comida
+10,8398373-1,3,Quindío,18,Hombre,Universitario,212000.0,Empleado empresa particular,Educación
+10,8398904-1,2,La Guajira,20,Mujer,Básica o menos,80000.0,Cuenta propia,Industria manufacturera
+10,8399041-1,2,Cesar,28,Mujer,Básica o menos,100000.0,Cuenta propia,Comercio
+10,8399941-1,1,Atlántico,28,Mujer,Universitario,120000.0,Cuenta propia,Comercio
+10,8400768-1,3,Cauca,19,Mujer,Universitario,100000.0,Cuenta propia,Comercio
+10,8402030-1,2,Risaralda,21,Mujer,Básica o menos,60000.0,Cuenta propia,Otros servicios
+10,8402838-1,1,Guaviare,28,Mujer,Universitario,60000.0,Cuenta propia,Otros servicios
+11,8403672-1,3,Antioquia,18,Mujer,Universitario,50000.0,Cuenta propia,Industria manufacturera
+11,8403905-1,2,Atlántico,26,Hombre,Básica o menos,20000.0,Cuenta propia,Transporte y logística
+11,8404165-1,3,Bogotá D.C.,28,Mujer,Posgrado,4500000.0,Empleado empresa particular,Educación
+11,8404242-1,1,Bogotá D.C.,28,Hombre,Posgrado,6300000.0,Empleado empresa particular,Servicios financieros
+11,8404887-1,4,Caldas,20,Mujer,Técnico,30000.0,Cuenta propia,Otros servicios
+11,8405466-1,4,Cesar,19,Mujer,Técnico,70000.0,Cuenta propia,Otros servicios
+11,8405544-1,2,Córdoba,22,Mujer,Universitario,50000.0,Cuenta propia,Educación
+11,8406403-1,4,Meta,18,Mujer,Universitario,230000.0,Empleado empresa particular,Alojamiento y comida
+11,8407812-1,2,Sucre,18,Mujer,Técnico,100000.0,Cuenta propia,Comercio
+11,8408235-1,3,Valle del Cauca,18,Hombre,Universitario,160000.0,Cuenta propia,Educación
+11,8409985-1,2,Sucre,20,Mujer,Universitario,40000.0,Cuenta propia,Educación
+11,8413580-1,3,Magdalena,18,Mujer,Tecnólogo,150000.0,Cuenta propia,Otros servicios
+11,8414643-1,1,Antioquia,26,Hombre,Posgrado,6500000.0,Empleado empresa particular,Transporte y logística
+11,8418083-1,2,Santander,18,Hombre,Universitario,100000.0,Cuenta propia,Comercio
+11,8419022-1,1,Vaupés,28,Mujer,Posgrado,4700000.0,Cuenta propia,Administración pública
+11,8420135-1,1,Cauca,28,Hombre,Posgrado,3600000.0,Cuenta propia,Educación
+11,8421740-1,1,Cauca,24,Mujer,Posgrado,5123000.0,Cuenta propia,Administración pública
+11,8422771-1,3,Guaviare,19,Mujer,Tecnólogo,30000.0,Empleado doméstico,Hogares como empleadores
+11,8423841-1,5,La Guajira,18,Hombre,Básica o menos,60000.0,Cuenta propia,Transporte y logística
+11,8424116-1,3,Boyacá,20,Hombre,Universitario,60000.0,Cuenta propia,Agropecuario
+11,8424300-1,2,Norte de Santander,28,Hombre,Posgrado,10100000.0,Cuenta propia,Educación
+11,8424603-1,2,Cauca,21,Mujer,Universitario,42000.0,Cuenta propia,Comercio
+11,8424619-1,1,Cauca,28,Hombre,Básica o menos,100000.0,Empleado empresa particular,Construcción
+11,8424832-1,2,Risaralda,18,Hombre,Universitario,150000.0,Empleado empresa particular,Transporte y logística
+11,8425472-1,3,Boyacá,18,Mujer,Universitario,150000.0,Empleado doméstico,Hogares como empleadores
+11,8425808-1,1,Caquetá,28,Mujer,Posgrado,11000000.0,Cuenta propia,Actividades profesionales
+11,8428409-1,2,Cundinamarca,28,Hombre,Posgrado,9000000.0,Cuenta propia,Educación
+11,8428791-1,1,Bogotá D.C.,27,Mujer,Posgrado,6500000.0,Cuenta propia,Administración pública
+11,8429221-1,1,Nariño,26,Mujer,Posgrado,5000000.0,Cuenta propia,Servicios públicos
+11,8429289-1,2,Quindío,28,Mujer,Técnico,80000.0,Cuenta propia,Alojamiento y comida
+11,8429770-1,3,Magdalena,28,Hombre,Básica o menos,150000.0,Empleado empresa particular,Construcción
+11,8430010-1,1,Valle del Cauca,28,Hombre,Básica o menos,45000.0,Jornalero o peón,Agropecuario
+11,8430779-1,3,Caldas,18,Mujer,Universitario,26000.0,Cuenta propia,Comercio
+11,8431828-1,1,Sucre,21,Mujer,Técnico,40000.0,Cuenta propia,Alojamiento y comida
+11,8432070-1,1,Atlántico,25,Mujer,Básica o menos,8000.0,Cuenta propia,Comercio
+11,8433201-1,7,Bogotá D.C.,20,Hombre,Básica o menos,80000.0,Cuenta propia,Transporte y logística
+12,8436979-1,3,Bogotá D.C.,27,Hombre,Posgrado,5000000.0,Empleado empresa particular,Servicios financieros
+12,8437905-1,2,Caquetá,28,Hombre,Posgrado,400000.0,Cuenta propia,Actividades profesionales
+12,8438401-1,1,Cesar,27,Mujer,Posgrado,8500000.0,Cuenta propia,Actividades profesionales
+12,8438401-1,2,Cesar,28,Hombre,Posgrado,7000000.0,Empleado empresa particular,Información y comunicaciones (TIC)
+12,8440321-1,1,Risaralda,18,Hombre,Universitario,6253000.0,Cuenta propia,Administración pública
+12,8441253-1,2,Valle del Cauca,18,Hombre,Universitario,215000.0,Empleado empresa particular,Comercio
+12,8441852-1,3,Sucre,27,Mujer,Básica o menos,70000.0,Cuenta propia,Comercio
+12,8441859-1,2,Sucre,18,Mujer,Universitario,150000.0,Cuenta propia,Industria manufacturera
+12,8442231-1,1,Antioquia,28,Hombre,Posgrado,3600000.0,Empleado empresa particular,Industria manufacturera
+12,8442832-1,2,Nariño,27,Mujer,Posgrado,6400000.0,Cuenta propia,Otros servicios
+12,8443305-1,2,Magdalena,27,Mujer,Básica o menos,100000.0,Cuenta propia,Comercio
+12,8444375-1,3,Nariño,28,Mujer,Posgrado,5148000.0,Cuenta propia,Otros servicios
+12,8444547-1,1,Risaralda,27,Mujer,Posgrado,6500000.0,Cuenta propia,Administración pública
+12,8444923-1,2,San Andrés,28,Mujer,Posgrado,4000000.0,Cuenta propia,Administración pública
+12,8446378-1,3,Bogotá D.C.,26,Mujer,Básica o menos,24000.0,Cuenta propia,Servicios públicos
+12,8447330-1,1,Cesar,28,Hombre,Posgrado,4581600.0,Cuenta propia,Administración pública
+12,8461966-1,2,Magdalena,18,Mujer,Bachiller,30000.0,Cuenta propia,Otros servicios
+12,8462708-1,10,Valle del Cauca,22,Mujer,Básica o menos,20000.0,Cuenta propia,Agropecuario
+12,8466567-1,3,Cundinamarca,18,Mujer,Universitario,260000.0,Empleado empresa particular,Alojamiento y comida
+12,8469400-1,1,Valle del Cauca,28,Mujer,Posgrado,4800000.0,Empleado empresa particular,Salud
+12,8470830-1,2,Bogotá D.C.,28,Mujer,Posgrado,5000000.0,Empleado empresa particular,Comercio
+12,8471001-1,4,Bogotá D.C.,27,Mujer,Posgrado,6000000.0,Empleado empresa particular,Salud
